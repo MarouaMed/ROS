@@ -1,0 +1,9 @@
+name = "Liverpool Loop"
+description = "Loop section of the Merseyrail network around central Liverpool passing Central and Lime Street stations"
+display_name = "Liverpool Loop"
+country_code = "GB"
+rly_file = "Liverpool Loop.rly"
+ttb_files = ["Liverpool 06-00 Start; Heavy traffic.ttb", "Liverpool 06-00 Start; Light traffic.ttb"]
+year = 2010
+factual = true
+author = "Albert Ball"

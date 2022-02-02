@@ -1,0 +1,954 @@
+Railway: Liverpool Loop; Timetable: Liverpool 06-00 Start; Light traffic;  Start time: 06:00
+
+06:01 2G00 Enters at Chester Link
+06:02 2G00 Arrives & departs Birkenhead Central
+06:04 2G00 Arrives & departs Hamilton Square
+06:07 2G00 Arrives & departs James Street
+06:08 2D00 Enters at Bidston Link
+06:09 2D00 Arrives & departs Conway Park
+06:09 2G00 Arrives & departs Moorfields
+06:11 2D00 Arrives & departs Hamilton Square
+06:11 2G00 Arrives & departs Lime Street
+06:13 2G00 Arrives at Liverpool Central
+06:13 2G00 At Liverpool Central forms new service 2G01
+06:13 2G01 New service at Liverpool Central from 2G00
+06:13 2G01 Departs from Liverpool Central
+06:14 2D00 Arrives & departs James Street
+06:15 2G01 Arrives & departs James Street
+06:16 2D00 Arrives & departs Moorfields
+06:16 2F00 Enters at Bidston Link
+06:17 2F00 Arrives & departs Conway Park
+06:18 2D00 Arrives & departs Lime Street
+06:18 2G01 Arrives & departs Hamilton Square
+06:19 2F00 Arrives & departs Hamilton Square
+06:20 2D00 Arrives at Liverpool Central
+06:20 2D00 At Liverpool Central forms new service 2D01
+06:20 2D01 New service at Liverpool Central from 2D00
+06:20 2D01 Departs from Liverpool Central
+06:20 2G01 Arrives & departs Birkenhead Central
+06:21 2G01 Exits railway at Chester Link
+06:22 2D01 Arrives & departs James Street
+06:22 2F00 Arrives & departs James Street
+06:23 2H00 Enters at Chester Link
+06:24 2F00 Arrives & departs Moorfields
+06:24 2H00 Arrives & departs Birkenhead Central
+06:25 2D01 Arrives & departs Hamilton Square
+06:26 2F00 Arrives & departs Lime Street
+06:26 2H00 Arrives & departs Hamilton Square
+06:27 2D01 Arrives & departs Conway Park
+06:28 2D01 Exits railway at Bidston Link
+06:28 2F00 Arrives at Liverpool Central
+06:28 2F00 At Liverpool Central forms new service 2F01
+06:28 2F01 New service at Liverpool Central from 2F00
+06:28 2F01 Departs from Liverpool Central
+06:29 2H00 Arrives & departs James Street
+06:30 2F01 Arrives & departs James Street
+06:31 2G02 Enters at Chester Link
+06:31 2H00 Arrives & departs Moorfields
+06:32 2G02 Arrives & departs Birkenhead Central
+06:33 2F01 Arrives & departs Hamilton Square
+06:33 2H00 Arrives & departs Lime Street
+06:34 2G02 Arrives & departs Hamilton Square
+06:35 2F01 Arrives & departs Conway Park
+06:35 2H00 Arrives at Liverpool Central
+06:35 2H00 At Liverpool Central forms new service 2H01
+06:35 2H01 New service at Liverpool Central from 2H00
+06:35 2H01 Departs from Liverpool Central
+06:36 2F01 Exits railway at Bidston Link
+06:37 2G02 Arrives & departs James Street
+06:37 2H01 Arrives & departs James Street
+06:38 2D02 Enters at Bidston Link
+06:39 2D02 Arrives & departs Conway Park
+06:39 2G02 Arrives & departs Moorfields
+06:40 2H01 Arrives & departs Hamilton Square
+06:41 2D02 Arrives & departs Hamilton Square
+06:41 2G02 Arrives & departs Lime Street
+06:42 2H01 Arrives & departs Birkenhead Central
+06:43 2G02 Arrives at Liverpool Central
+06:43 2G02 At Liverpool Central forms new service 2G03
+06:43 2G03 New service at Liverpool Central from 2G02
+06:43 2G03 Departs from Liverpool Central
+06:43 2H01 Exits railway at Chester Link
+06:44 2D02 Arrives & departs James Street
+06:45 2G03 Arrives & departs James Street
+06:46 2D02 Arrives & departs Moorfields
+06:46 2F02 Enters at Bidston Link
+06:47 2F02 Arrives & departs Conway Park
+06:48 2D02 Arrives & departs Lime Street
+06:48 2G03 Arrives & departs Hamilton Square
+06:49 2F02 Arrives & departs Hamilton Square
+06:50 2D02 Arrives at Liverpool Central
+06:50 2D02 At Liverpool Central forms new service 2D03
+06:50 2D03 New service at Liverpool Central from 2D02
+06:50 2D03 Departs from Liverpool Central
+06:50 2G03 Arrives & departs Birkenhead Central
+06:51 2G03 Exits railway at Chester Link
+06:52 2D03 Arrives & departs James Street
+06:52 2F02 Arrives & departs James Street
+06:53 2H02 Enters at Chester Link
+06:54 2F02 Arrives & departs Moorfields
+06:54 2H02 Arrives & departs Birkenhead Central
+06:55 2D03 Arrives & departs Hamilton Square
+06:56 2F02 Arrives & departs Lime Street
+06:56 2H02 Arrives & departs Hamilton Square
+06:57 2D03 Arrives & departs Conway Park
+06:58 2D03 Exits railway at Bidston Link
+06:58 2F02 Arrives at Liverpool Central
+06:58 2F02 At Liverpool Central forms new service 2F03
+06:58 2F03 New service at Liverpool Central from 2F02
+06:58 2F03 Departs from Liverpool Central
+06:59 2H02 Arrives & departs James Street
+07:00 2F03 Arrives & departs James Street
+07:01 2G04 Enters at Chester Link
+07:01 2H02 Arrives & departs Moorfields
+07:02 2G04 Arrives & departs Birkenhead Central
+07:03 2F03 Arrives & departs Hamilton Square
+07:03 2H02 Arrives & departs Lime Street
+07:04 2G04 Arrives & departs Hamilton Square
+07:05 2F03 Arrives & departs Conway Park
+07:05 2H02 Arrives at Liverpool Central
+07:05 2H02 At Liverpool Central forms new service 2H03
+07:05 2H03 New service at Liverpool Central from 2H02
+07:05 2H03 Departs from Liverpool Central
+07:06 2F03 Exits railway at Bidston Link
+07:07 2G04 Arrives & departs James Street
+07:07 2H03 Arrives & departs James Street
+07:08 2D04 Enters at Bidston Link
+07:09 2D04 Arrives & departs Conway Park
+07:09 2G04 Arrives & departs Moorfields
+07:10 2H03 Arrives & departs Hamilton Square
+07:11 2D04 Arrives & departs Hamilton Square
+07:11 2G04 Arrives & departs Lime Street
+07:12 2H03 Arrives & departs Birkenhead Central
+07:13 2G04 Arrives at Liverpool Central
+07:13 2G04 At Liverpool Central forms new service 2G05
+07:13 2G05 New service at Liverpool Central from 2G04
+07:13 2G05 Departs from Liverpool Central
+07:13 2H03 Exits railway at Chester Link
+07:14 2D04 Arrives & departs James Street
+07:15 2G05 Arrives & departs James Street
+07:16 2D04 Arrives & departs Moorfields
+07:16 2F04 Enters at Bidston Link
+07:17 2F04 Arrives & departs Conway Park
+07:18 2D04 Arrives & departs Lime Street
+07:18 2G05 Arrives & departs Hamilton Square
+07:19 2F04 Arrives & departs Hamilton Square
+07:20 2D04 Arrives at Liverpool Central
+07:20 2D04 At Liverpool Central forms new service 2D05
+07:20 2D05 New service at Liverpool Central from 2D04
+07:20 2D05 Departs from Liverpool Central
+07:20 2G05 Arrives & departs Birkenhead Central
+07:21 2G05 Exits railway at Chester Link
+07:22 2D05 Arrives & departs James Street
+07:22 2F04 Arrives & departs James Street
+07:23 2H04 Enters at Chester Link
+07:24 2F04 Arrives & departs Moorfields
+07:24 2H04 Arrives & departs Birkenhead Central
+07:25 2D05 Arrives & departs Hamilton Square
+07:26 2F04 Arrives & departs Lime Street
+07:26 2H04 Arrives & departs Hamilton Square
+07:27 2D05 Arrives & departs Conway Park
+07:28 2D05 Exits railway at Bidston Link
+07:28 2F04 Arrives at Liverpool Central
+07:28 2F04 At Liverpool Central forms new service 2F05
+07:28 2F05 New service at Liverpool Central from 2F04
+07:28 2F05 Departs from Liverpool Central
+07:29 2H04 Arrives & departs James Street
+07:30 2F05 Arrives & departs James Street
+07:31 2G06 Enters at Chester Link
+07:31 2H04 Arrives & departs Moorfields
+07:32 2G06 Arrives & departs Birkenhead Central
+07:33 2F05 Arrives & departs Hamilton Square
+07:33 2H04 Arrives & departs Lime Street
+07:34 2G06 Arrives & departs Hamilton Square
+07:35 2F05 Arrives & departs Conway Park
+07:35 2H04 Arrives at Liverpool Central
+07:35 2H04 At Liverpool Central forms new service 2H05
+07:35 2H05 New service at Liverpool Central from 2H04
+07:35 2H05 Departs from Liverpool Central
+07:36 2F05 Exits railway at Bidston Link
+07:37 2G06 Arrives & departs James Street
+07:37 2H05 Arrives & departs James Street
+07:38 2D06 Enters at Bidston Link
+07:39 2D06 Arrives & departs Conway Park
+07:39 2G06 Arrives & departs Moorfields
+07:40 2H05 Arrives & departs Hamilton Square
+07:41 2D06 Arrives & departs Hamilton Square
+07:41 2G06 Arrives & departs Lime Street
+07:42 2H05 Arrives & departs Birkenhead Central
+07:43 2G06 Arrives at Liverpool Central
+07:43 2G06 At Liverpool Central forms new service 2G07
+07:43 2G07 New service at Liverpool Central from 2G06
+07:43 2G07 Departs from Liverpool Central
+07:43 2H05 Exits railway at Chester Link
+07:44 2D06 Arrives & departs James Street
+07:45 2G07 Arrives & departs James Street
+07:46 2D06 Arrives & departs Moorfields
+07:46 2F06 Enters at Bidston Link
+07:47 2F06 Arrives & departs Conway Park
+07:48 2D06 Arrives & departs Lime Street
+07:48 2G07 Arrives & departs Hamilton Square
+07:49 2F06 Arrives & departs Hamilton Square
+07:50 2D06 Arrives at Liverpool Central
+07:50 2D06 At Liverpool Central forms new service 2D07
+07:50 2D07 New service at Liverpool Central from 2D06
+07:50 2D07 Departs from Liverpool Central
+07:50 2G07 Arrives & departs Birkenhead Central
+07:51 2G07 Exits railway at Chester Link
+07:52 2D07 Arrives & departs James Street
+07:52 2F06 Arrives & departs James Street
+07:53 2H06 Enters at Chester Link
+07:54 2F06 Arrives & departs Moorfields
+07:54 2H06 Arrives & departs Birkenhead Central
+07:55 2D07 Arrives & departs Hamilton Square
+07:56 2F06 Arrives & departs Lime Street
+07:56 2H06 Arrives & departs Hamilton Square
+07:57 2D07 Arrives & departs Conway Park
+07:58 2D07 Exits railway at Bidston Link
+07:58 2F06 Arrives at Liverpool Central
+07:58 2F06 At Liverpool Central forms new service 2F07
+07:58 2F07 New service at Liverpool Central from 2F06
+07:58 2F07 Departs from Liverpool Central
+07:59 2H06 Arrives & departs James Street
+08:00 2F07 Arrives & departs James Street
+08:01 2G08 Enters at Chester Link
+08:01 2H06 Arrives & departs Moorfields
+08:02 2G08 Arrives & departs Birkenhead Central
+08:03 2F07 Arrives & departs Hamilton Square
+08:03 2H06 Arrives & departs Lime Street
+08:04 2G08 Arrives & departs Hamilton Square
+08:05 2F07 Arrives & departs Conway Park
+08:05 2H06 Arrives at Liverpool Central
+08:05 2H06 At Liverpool Central forms new service 2H07
+08:05 2H07 New service at Liverpool Central from 2H06
+08:05 2H07 Departs from Liverpool Central
+08:06 2F07 Exits railway at Bidston Link
+08:07 2G08 Arrives & departs James Street
+08:07 2H07 Arrives & departs James Street
+08:08 2D08 Enters at Bidston Link
+08:09 2D08 Arrives & departs Conway Park
+08:09 2G08 Arrives & departs Moorfields
+08:10 2H07 Arrives & departs Hamilton Square
+08:11 2D08 Arrives & departs Hamilton Square
+08:11 2G08 Arrives & departs Lime Street
+08:12 2H07 Arrives & departs Birkenhead Central
+08:13 2G08 Arrives at Liverpool Central
+08:13 2G08 At Liverpool Central forms new service 2G09
+08:13 2G09 New service at Liverpool Central from 2G08
+08:13 2G09 Departs from Liverpool Central
+08:13 2H07 Exits railway at Chester Link
+08:14 2D08 Arrives & departs James Street
+08:15 2G09 Arrives & departs James Street
+08:16 2D08 Arrives & departs Moorfields
+08:16 2F08 Enters at Bidston Link
+08:17 2F08 Arrives & departs Conway Park
+08:18 2D08 Arrives & departs Lime Street
+08:18 2G09 Arrives & departs Hamilton Square
+08:19 2F08 Arrives & departs Hamilton Square
+08:20 2D08 Arrives at Liverpool Central
+08:20 2D08 At Liverpool Central forms new service 2D09
+08:20 2D09 New service at Liverpool Central from 2D08
+08:20 2D09 Departs from Liverpool Central
+08:20 2G09 Arrives & departs Birkenhead Central
+08:21 2G09 Exits railway at Chester Link
+08:22 2D09 Arrives & departs James Street
+08:22 2F08 Arrives & departs James Street
+08:23 2H08 Enters at Chester Link
+08:24 2F08 Arrives & departs Moorfields
+08:24 2H08 Arrives & departs Birkenhead Central
+08:25 2D09 Arrives & departs Hamilton Square
+08:26 2F08 Arrives & departs Lime Street
+08:26 2H08 Arrives & departs Hamilton Square
+08:27 2D09 Arrives & departs Conway Park
+08:28 2D09 Exits railway at Bidston Link
+08:28 2F08 Arrives at Liverpool Central
+08:28 2F08 At Liverpool Central forms new service 2F09
+08:28 2F09 New service at Liverpool Central from 2F08
+08:28 2F09 Departs from Liverpool Central
+08:29 2H08 Arrives & departs James Street
+08:30 2F09 Arrives & departs James Street
+08:31 2G10 Enters at Chester Link
+08:31 2H08 Arrives & departs Moorfields
+08:32 2G10 Arrives & departs Birkenhead Central
+08:33 2F09 Arrives & departs Hamilton Square
+08:33 2H08 Arrives & departs Lime Street
+08:34 2G10 Arrives & departs Hamilton Square
+08:35 2F09 Arrives & departs Conway Park
+08:35 2H08 Arrives at Liverpool Central
+08:35 2H08 At Liverpool Central forms new service 2H09
+08:35 2H09 New service at Liverpool Central from 2H08
+08:35 2H09 Departs from Liverpool Central
+08:36 2F09 Exits railway at Bidston Link
+08:37 2G10 Arrives & departs James Street
+08:37 2H09 Arrives & departs James Street
+08:38 2D10 Enters at Bidston Link
+08:39 2D10 Arrives & departs Conway Park
+08:39 2G10 Arrives & departs Moorfields
+08:40 2H09 Arrives & departs Hamilton Square
+08:41 2D10 Arrives & departs Hamilton Square
+08:41 2G10 Arrives & departs Lime Street
+08:42 2H09 Arrives & departs Birkenhead Central
+08:43 2G10 Arrives at Liverpool Central
+08:43 2G10 At Liverpool Central forms new service 2G11
+08:43 2G11 New service at Liverpool Central from 2G10
+08:43 2G11 Departs from Liverpool Central
+08:43 2H09 Exits railway at Chester Link
+08:44 2D10 Arrives & departs James Street
+08:45 2G11 Arrives & departs James Street
+08:46 2D10 Arrives & departs Moorfields
+08:46 2F10 Enters at Bidston Link
+08:47 2F10 Arrives & departs Conway Park
+08:48 2D10 Arrives & departs Lime Street
+08:48 2G11 Arrives & departs Hamilton Square
+08:49 2F10 Arrives & departs Hamilton Square
+08:50 2D10 Arrives at Liverpool Central
+08:50 2D10 At Liverpool Central forms new service 2D11
+08:50 2D11 New service at Liverpool Central from 2D10
+08:50 2D11 Departs from Liverpool Central
+08:50 2G11 Arrives & departs Birkenhead Central
+08:51 2G11 Exits railway at Chester Link
+08:52 2D11 Arrives & departs James Street
+08:52 2F10 Arrives & departs James Street
+08:53 2H10 Enters at Chester Link
+08:54 2F10 Arrives & departs Moorfields
+08:54 2H10 Arrives & departs Birkenhead Central
+08:55 2D11 Arrives & departs Hamilton Square
+08:56 2F10 Arrives & departs Lime Street
+08:56 2H10 Arrives & departs Hamilton Square
+08:57 2D11 Arrives & departs Conway Park
+08:58 2D11 Exits railway at Bidston Link
+08:58 2F10 Arrives at Liverpool Central
+08:58 2F10 At Liverpool Central forms new service 2F11
+08:58 2F11 New service at Liverpool Central from 2F10
+08:58 2F11 Departs from Liverpool Central
+08:59 2H10 Arrives & departs James Street
+09:00 2F11 Arrives & departs James Street
+09:01 2G12 Enters at Chester Link
+09:01 2H10 Arrives & departs Moorfields
+09:02 2G12 Arrives & departs Birkenhead Central
+09:03 2F11 Arrives & departs Hamilton Square
+09:03 2H10 Arrives & departs Lime Street
+09:04 2G12 Arrives & departs Hamilton Square
+09:05 2F11 Arrives & departs Conway Park
+09:05 2H10 Arrives at Liverpool Central
+09:05 2H10 At Liverpool Central forms new service 2H11
+09:05 2H11 New service at Liverpool Central from 2H10
+09:05 2H11 Departs from Liverpool Central
+09:06 2F11 Exits railway at Bidston Link
+09:07 2G12 Arrives & departs James Street
+09:07 2H11 Arrives & departs James Street
+09:08 2D12 Enters at Bidston Link
+09:09 2D12 Arrives & departs Conway Park
+09:09 2G12 Arrives & departs Moorfields
+09:10 2H11 Arrives & departs Hamilton Square
+09:11 2D12 Arrives & departs Hamilton Square
+09:11 2G12 Arrives & departs Lime Street
+09:12 2H11 Arrives & departs Birkenhead Central
+09:13 2G12 Arrives at Liverpool Central
+09:13 2G12 At Liverpool Central forms new service 2G13
+09:13 2G13 New service at Liverpool Central from 2G12
+09:13 2G13 Departs from Liverpool Central
+09:13 2H11 Exits railway at Chester Link
+09:14 2D12 Arrives & departs James Street
+09:15 2G13 Arrives & departs James Street
+09:16 2D12 Arrives & departs Moorfields
+09:16 2F12 Enters at Bidston Link
+09:17 2F12 Arrives & departs Conway Park
+09:18 2D12 Arrives & departs Lime Street
+09:18 2G13 Arrives & departs Hamilton Square
+09:19 2F12 Arrives & departs Hamilton Square
+09:20 2D12 Arrives at Liverpool Central
+09:20 2D12 At Liverpool Central forms new service 2D13
+09:20 2D13 New service at Liverpool Central from 2D12
+09:20 2D13 Departs from Liverpool Central
+09:20 2G13 Arrives & departs Birkenhead Central
+09:21 2G13 Exits railway at Chester Link
+09:22 2D13 Arrives & departs James Street
+09:22 2F12 Arrives & departs James Street
+09:23 2H12 Enters at Chester Link
+09:24 2F12 Arrives & departs Moorfields
+09:24 2H12 Arrives & departs Birkenhead Central
+09:25 2D13 Arrives & departs Hamilton Square
+09:26 2F12 Arrives & departs Lime Street
+09:26 2H12 Arrives & departs Hamilton Square
+09:27 2D13 Arrives & departs Conway Park
+09:28 2D13 Exits railway at Bidston Link
+09:28 2F12 Arrives at Liverpool Central
+09:28 2F12 At Liverpool Central forms new service 2F13
+09:28 2F13 New service at Liverpool Central from 2F12
+09:28 2F13 Departs from Liverpool Central
+09:29 2H12 Arrives & departs James Street
+09:30 2F13 Arrives & departs James Street
+09:31 2G14 Enters at Chester Link
+09:31 2H12 Arrives & departs Moorfields
+09:32 2G14 Arrives & departs Birkenhead Central
+09:33 2F13 Arrives & departs Hamilton Square
+09:33 2H12 Arrives & departs Lime Street
+09:34 2G14 Arrives & departs Hamilton Square
+09:35 2F13 Arrives & departs Conway Park
+09:35 2H12 Arrives at Liverpool Central
+09:35 2H12 At Liverpool Central forms new service 2H13
+09:35 2H13 New service at Liverpool Central from 2H12
+09:35 2H13 Departs from Liverpool Central
+09:36 2F13 Exits railway at Bidston Link
+09:37 2G14 Arrives & departs James Street
+09:37 2H13 Arrives & departs James Street
+09:38 2D14 Enters at Bidston Link
+09:39 2D14 Arrives & departs Conway Park
+09:39 2G14 Arrives & departs Moorfields
+09:40 2H13 Arrives & departs Hamilton Square
+09:41 2D14 Arrives & departs Hamilton Square
+09:41 2G14 Arrives & departs Lime Street
+09:42 2H13 Arrives & departs Birkenhead Central
+09:43 2G14 Arrives at Liverpool Central
+09:43 2G14 At Liverpool Central forms new service 2G15
+09:43 2G15 New service at Liverpool Central from 2G14
+09:43 2G15 Departs from Liverpool Central
+09:43 2H13 Exits railway at Chester Link
+09:44 2D14 Arrives & departs James Street
+09:45 2G15 Arrives & departs James Street
+09:46 2D14 Arrives & departs Moorfields
+09:46 2F14 Enters at Bidston Link
+09:47 2F14 Arrives & departs Conway Park
+09:48 2D14 Arrives & departs Lime Street
+09:48 2G15 Arrives & departs Hamilton Square
+09:49 2F14 Arrives & departs Hamilton Square
+09:50 2D14 Arrives at Liverpool Central
+09:50 2D14 At Liverpool Central forms new service 2D15
+09:50 2D15 New service at Liverpool Central from 2D14
+09:50 2D15 Departs from Liverpool Central
+09:50 2G15 Arrives & departs Birkenhead Central
+09:51 2G15 Exits railway at Chester Link
+09:52 2D15 Arrives & departs James Street
+09:52 2F14 Arrives & departs James Street
+09:53 2H14 Enters at Chester Link
+09:54 2F14 Arrives & departs Moorfields
+09:54 2H14 Arrives & departs Birkenhead Central
+09:55 2D15 Arrives & departs Hamilton Square
+09:56 2F14 Arrives & departs Lime Street
+09:56 2H14 Arrives & departs Hamilton Square
+09:57 2D15 Arrives & departs Conway Park
+09:58 2D15 Exits railway at Bidston Link
+09:58 2F14 Arrives at Liverpool Central
+09:58 2F14 At Liverpool Central forms new service 2F15
+09:58 2F15 New service at Liverpool Central from 2F14
+09:58 2F15 Departs from Liverpool Central
+09:59 2H14 Arrives & departs James Street
+10:00 2F15 Arrives & departs James Street
+10:01 2G16 Enters at Chester Link
+10:01 2H14 Arrives & departs Moorfields
+10:02 2G16 Arrives & departs Birkenhead Central
+10:03 2F15 Arrives & departs Hamilton Square
+10:03 2H14 Arrives & departs Lime Street
+10:04 2G16 Arrives & departs Hamilton Square
+10:05 2F15 Arrives & departs Conway Park
+10:05 2H14 Arrives at Liverpool Central
+10:05 2H14 At Liverpool Central forms new service 2H15
+10:05 2H15 New service at Liverpool Central from 2H14
+10:05 2H15 Departs from Liverpool Central
+10:06 2F15 Exits railway at Bidston Link
+10:07 2G16 Arrives & departs James Street
+10:07 2H15 Arrives & departs James Street
+10:08 2D16 Enters at Bidston Link
+10:09 2D16 Arrives & departs Conway Park
+10:09 2G16 Arrives & departs Moorfields
+10:10 2H15 Arrives & departs Hamilton Square
+10:11 2D16 Arrives & departs Hamilton Square
+10:11 2G16 Arrives & departs Lime Street
+10:12 2H15 Arrives & departs Birkenhead Central
+10:13 2G16 Arrives at Liverpool Central
+10:13 2G16 At Liverpool Central forms new service 2G17
+10:13 2G17 New service at Liverpool Central from 2G16
+10:13 2G17 Departs from Liverpool Central
+10:13 2H15 Exits railway at Chester Link
+10:14 2D16 Arrives & departs James Street
+10:15 2G17 Arrives & departs James Street
+10:16 2D16 Arrives & departs Moorfields
+10:16 2F16 Enters at Bidston Link
+10:17 2F16 Arrives & departs Conway Park
+10:18 2D16 Arrives & departs Lime Street
+10:18 2G17 Arrives & departs Hamilton Square
+10:19 2F16 Arrives & departs Hamilton Square
+10:20 2D16 Arrives at Liverpool Central
+10:20 2D16 At Liverpool Central forms new service 2D17
+10:20 2D17 New service at Liverpool Central from 2D16
+10:20 2D17 Departs from Liverpool Central
+10:20 2G17 Arrives & departs Birkenhead Central
+10:21 2G17 Exits railway at Chester Link
+10:22 2D17 Arrives & departs James Street
+10:22 2F16 Arrives & departs James Street
+10:23 2H16 Enters at Chester Link
+10:24 2F16 Arrives & departs Moorfields
+10:24 2H16 Arrives & departs Birkenhead Central
+10:25 2D17 Arrives & departs Hamilton Square
+10:26 2F16 Arrives & departs Lime Street
+10:26 2H16 Arrives & departs Hamilton Square
+10:27 2D17 Arrives & departs Conway Park
+10:28 2D17 Exits railway at Bidston Link
+10:28 2F16 Arrives at Liverpool Central
+10:28 2F16 At Liverpool Central forms new service 2F17
+10:28 2F17 New service at Liverpool Central from 2F16
+10:28 2F17 Departs from Liverpool Central
+10:29 2H16 Arrives & departs James Street
+10:30 2F17 Arrives & departs James Street
+10:31 2G18 Enters at Chester Link
+10:31 2H16 Arrives & departs Moorfields
+10:32 2G18 Arrives & departs Birkenhead Central
+10:33 2F17 Arrives & departs Hamilton Square
+10:33 2H16 Arrives & departs Lime Street
+10:34 2G18 Arrives & departs Hamilton Square
+10:35 2F17 Arrives & departs Conway Park
+10:35 2H16 Arrives at Liverpool Central
+10:35 2H16 At Liverpool Central forms new service 2H17
+10:35 2H17 New service at Liverpool Central from 2H16
+10:35 2H17 Departs from Liverpool Central
+10:36 2F17 Exits railway at Bidston Link
+10:37 2G18 Arrives & departs James Street
+10:37 2H17 Arrives & departs James Street
+10:38 2D18 Enters at Bidston Link
+10:39 2D18 Arrives & departs Conway Park
+10:39 2G18 Arrives & departs Moorfields
+10:40 2H17 Arrives & departs Hamilton Square
+10:41 2D18 Arrives & departs Hamilton Square
+10:41 2G18 Arrives & departs Lime Street
+10:42 2H17 Arrives & departs Birkenhead Central
+10:43 2G18 Arrives at Liverpool Central
+10:43 2G18 At Liverpool Central forms new service 2G19
+10:43 2G19 New service at Liverpool Central from 2G18
+10:43 2G19 Departs from Liverpool Central
+10:43 2H17 Exits railway at Chester Link
+10:44 2D18 Arrives & departs James Street
+10:45 2G19 Arrives & departs James Street
+10:46 2D18 Arrives & departs Moorfields
+10:46 2F18 Enters at Bidston Link
+10:47 2F18 Arrives & departs Conway Park
+10:48 2D18 Arrives & departs Lime Street
+10:48 2G19 Arrives & departs Hamilton Square
+10:49 2F18 Arrives & departs Hamilton Square
+10:50 2D18 Arrives at Liverpool Central
+10:50 2D18 At Liverpool Central forms new service 2D19
+10:50 2D19 New service at Liverpool Central from 2D18
+10:50 2D19 Departs from Liverpool Central
+10:50 2G19 Arrives & departs Birkenhead Central
+10:51 2G19 Exits railway at Chester Link
+10:52 2D19 Arrives & departs James Street
+10:52 2F18 Arrives & departs James Street
+10:53 2H18 Enters at Chester Link
+10:54 2F18 Arrives & departs Moorfields
+10:54 2H18 Arrives & departs Birkenhead Central
+10:55 2D19 Arrives & departs Hamilton Square
+10:56 2F18 Arrives & departs Lime Street
+10:56 2H18 Arrives & departs Hamilton Square
+10:57 2D19 Arrives & departs Conway Park
+10:58 2D19 Exits railway at Bidston Link
+10:58 2F18 Arrives at Liverpool Central
+10:58 2F18 At Liverpool Central forms new service 2F19
+10:58 2F19 New service at Liverpool Central from 2F18
+10:58 2F19 Departs from Liverpool Central
+10:59 2H18 Arrives & departs James Street
+11:00 2F19 Arrives & departs James Street
+11:01 2G20 Enters at Chester Link
+11:01 2H18 Arrives & departs Moorfields
+11:02 2G20 Arrives & departs Birkenhead Central
+11:03 2F19 Arrives & departs Hamilton Square
+11:03 2H18 Arrives & departs Lime Street
+11:04 2G20 Arrives & departs Hamilton Square
+11:05 2F19 Arrives & departs Conway Park
+11:05 2H18 Arrives at Liverpool Central
+11:05 2H18 At Liverpool Central forms new service 2H19
+11:05 2H19 New service at Liverpool Central from 2H18
+11:05 2H19 Departs from Liverpool Central
+11:06 2F19 Exits railway at Bidston Link
+11:07 2G20 Arrives & departs James Street
+11:07 2H19 Arrives & departs James Street
+11:08 2D20 Enters at Bidston Link
+11:09 2D20 Arrives & departs Conway Park
+11:09 2G20 Arrives & departs Moorfields
+11:10 2H19 Arrives & departs Hamilton Square
+11:11 2D20 Arrives & departs Hamilton Square
+11:11 2G20 Arrives & departs Lime Street
+11:12 2H19 Arrives & departs Birkenhead Central
+11:13 2G20 Arrives at Liverpool Central
+11:13 2G20 At Liverpool Central forms new service 2G21
+11:13 2G21 New service at Liverpool Central from 2G20
+11:13 2G21 Departs from Liverpool Central
+11:13 2H19 Exits railway at Chester Link
+11:14 2D20 Arrives & departs James Street
+11:15 2G21 Arrives & departs James Street
+11:16 2D20 Arrives & departs Moorfields
+11:16 2F20 Enters at Bidston Link
+11:17 2F20 Arrives & departs Conway Park
+11:18 2D20 Arrives & departs Lime Street
+11:18 2G21 Arrives & departs Hamilton Square
+11:19 2F20 Arrives & departs Hamilton Square
+11:20 2D20 Arrives at Liverpool Central
+11:20 2D20 At Liverpool Central forms new service 2D21
+11:20 2D21 New service at Liverpool Central from 2D20
+11:20 2D21 Departs from Liverpool Central
+11:20 2G21 Arrives & departs Birkenhead Central
+11:21 2G21 Exits railway at Chester Link
+11:22 2D21 Arrives & departs James Street
+11:22 2F20 Arrives & departs James Street
+11:23 2H20 Enters at Chester Link
+11:24 2F20 Arrives & departs Moorfields
+11:24 2H20 Arrives & departs Birkenhead Central
+11:25 2D21 Arrives & departs Hamilton Square
+11:26 2F20 Arrives & departs Lime Street
+11:26 2H20 Arrives & departs Hamilton Square
+11:27 2D21 Arrives & departs Conway Park
+11:28 2D21 Exits railway at Bidston Link
+11:28 2F20 Arrives at Liverpool Central
+11:28 2F20 At Liverpool Central forms new service 2F21
+11:28 2F21 New service at Liverpool Central from 2F20
+11:28 2F21 Departs from Liverpool Central
+11:29 2H20 Arrives & departs James Street
+11:30 2F21 Arrives & departs James Street
+11:31 2G22 Enters at Chester Link
+11:31 2H20 Arrives & departs Moorfields
+11:32 2G22 Arrives & departs Birkenhead Central
+11:33 2F21 Arrives & departs Hamilton Square
+11:33 2H20 Arrives & departs Lime Street
+11:34 2G22 Arrives & departs Hamilton Square
+11:35 2F21 Arrives & departs Conway Park
+11:35 2H20 Arrives at Liverpool Central
+11:35 2H20 At Liverpool Central forms new service 2H21
+11:35 2H21 New service at Liverpool Central from 2H20
+11:35 2H21 Departs from Liverpool Central
+11:36 2F21 Exits railway at Bidston Link
+11:37 2G22 Arrives & departs James Street
+11:37 2H21 Arrives & departs James Street
+11:38 2D22 Enters at Bidston Link
+11:39 2D22 Arrives & departs Conway Park
+11:39 2G22 Arrives & departs Moorfields
+11:40 2H21 Arrives & departs Hamilton Square
+11:41 2D22 Arrives & departs Hamilton Square
+11:41 2G22 Arrives & departs Lime Street
+11:42 2H21 Arrives & departs Birkenhead Central
+11:43 2G22 Arrives at Liverpool Central
+11:43 2G22 At Liverpool Central forms new service 2G23
+11:43 2G23 New service at Liverpool Central from 2G22
+11:43 2G23 Departs from Liverpool Central
+11:43 2H21 Exits railway at Chester Link
+11:44 2D22 Arrives & departs James Street
+11:45 2G23 Arrives & departs James Street
+11:46 2D22 Arrives & departs Moorfields
+11:46 2F22 Enters at Bidston Link
+11:47 2F22 Arrives & departs Conway Park
+11:48 2D22 Arrives & departs Lime Street
+11:48 2G23 Arrives & departs Hamilton Square
+11:49 2F22 Arrives & departs Hamilton Square
+11:50 2D22 Arrives at Liverpool Central
+11:50 2D22 At Liverpool Central forms new service 2D23
+11:50 2D23 New service at Liverpool Central from 2D22
+11:50 2D23 Departs from Liverpool Central
+11:50 2G23 Arrives & departs Birkenhead Central
+11:51 2G23 Exits railway at Chester Link
+11:52 2D23 Arrives & departs James Street
+11:52 2F22 Arrives & departs James Street
+11:53 2H22 Enters at Chester Link
+11:54 2F22 Arrives & departs Moorfields
+11:54 2H22 Arrives & departs Birkenhead Central
+11:55 2D23 Arrives & departs Hamilton Square
+11:56 2F22 Arrives & departs Lime Street
+11:56 2H22 Arrives & departs Hamilton Square
+11:57 2D23 Arrives & departs Conway Park
+11:58 2D23 Exits railway at Bidston Link
+11:58 2F22 Arrives at Liverpool Central
+11:58 2F22 At Liverpool Central forms new service 2F23
+11:58 2F23 New service at Liverpool Central from 2F22
+11:58 2F23 Departs from Liverpool Central
+11:59 2H22 Arrives & departs James Street
+12:00 2F23 Arrives & departs James Street
+12:01 2G24 Enters at Chester Link
+12:01 2H22 Arrives & departs Moorfields
+12:02 2G24 Arrives & departs Birkenhead Central
+12:03 2F23 Arrives & departs Hamilton Square
+12:03 2H22 Arrives & departs Lime Street
+12:04 2G24 Arrives & departs Hamilton Square
+12:05 2F23 Arrives & departs Conway Park
+12:05 2H22 Arrives at Liverpool Central
+12:05 2H22 At Liverpool Central forms new service 2H23
+12:05 2H23 New service at Liverpool Central from 2H22
+12:05 2H23 Departs from Liverpool Central
+12:06 2F23 Exits railway at Bidston Link
+12:07 2G24 Arrives & departs James Street
+12:07 2H23 Arrives & departs James Street
+12:08 2D24 Enters at Bidston Link
+12:09 2D24 Arrives & departs Conway Park
+12:09 2G24 Arrives & departs Moorfields
+12:10 2H23 Arrives & departs Hamilton Square
+12:11 2D24 Arrives & departs Hamilton Square
+12:11 2G24 Arrives & departs Lime Street
+12:12 2H23 Arrives & departs Birkenhead Central
+12:13 2G24 Arrives at Liverpool Central
+12:13 2G24 At Liverpool Central forms new service 2G25
+12:13 2G25 New service at Liverpool Central from 2G24
+12:13 2G25 Departs from Liverpool Central
+12:13 2H23 Exits railway at Chester Link
+12:14 2D24 Arrives & departs James Street
+12:15 2G25 Arrives & departs James Street
+12:16 2D24 Arrives & departs Moorfields
+12:16 2F24 Enters at Bidston Link
+12:17 2F24 Arrives & departs Conway Park
+12:18 2D24 Arrives & departs Lime Street
+12:18 2G25 Arrives & departs Hamilton Square
+12:19 2F24 Arrives & departs Hamilton Square
+12:20 2D24 Arrives at Liverpool Central
+12:20 2D24 At Liverpool Central forms new service 2D25
+12:20 2D25 New service at Liverpool Central from 2D24
+12:20 2D25 Departs from Liverpool Central
+12:20 2G25 Arrives & departs Birkenhead Central
+12:21 2G25 Exits railway at Chester Link
+12:22 2D25 Arrives & departs James Street
+12:22 2F24 Arrives & departs James Street
+12:23 2H24 Enters at Chester Link
+12:24 2F24 Arrives & departs Moorfields
+12:24 2H24 Arrives & departs Birkenhead Central
+12:25 2D25 Arrives & departs Hamilton Square
+12:26 2F24 Arrives & departs Lime Street
+12:26 2H24 Arrives & departs Hamilton Square
+12:27 2D25 Arrives & departs Conway Park
+12:28 2D25 Exits railway at Bidston Link
+12:28 2F24 Arrives at Liverpool Central
+12:28 2F24 At Liverpool Central forms new service 2F25
+12:28 2F25 New service at Liverpool Central from 2F24
+12:28 2F25 Departs from Liverpool Central
+12:29 2H24 Arrives & departs James Street
+12:30 2F25 Arrives & departs James Street
+12:31 2G26 Enters at Chester Link
+12:31 2H24 Arrives & departs Moorfields
+12:32 2G26 Arrives & departs Birkenhead Central
+12:33 2F25 Arrives & departs Hamilton Square
+12:33 2H24 Arrives & departs Lime Street
+12:34 2G26 Arrives & departs Hamilton Square
+12:35 2F25 Arrives & departs Conway Park
+12:35 2H24 Arrives at Liverpool Central
+12:35 2H24 At Liverpool Central forms new service 2H25
+12:35 2H25 New service at Liverpool Central from 2H24
+12:35 2H25 Departs from Liverpool Central
+12:36 2F25 Exits railway at Bidston Link
+12:37 2G26 Arrives & departs James Street
+12:37 2H25 Arrives & departs James Street
+12:38 2D26 Enters at Bidston Link
+12:39 2D26 Arrives & departs Conway Park
+12:39 2G26 Arrives & departs Moorfields
+12:40 2H25 Arrives & departs Hamilton Square
+12:41 2D26 Arrives & departs Hamilton Square
+12:41 2G26 Arrives & departs Lime Street
+12:42 2H25 Arrives & departs Birkenhead Central
+12:43 2G26 Arrives at Liverpool Central
+12:43 2G26 At Liverpool Central forms new service 2G27
+12:43 2G27 New service at Liverpool Central from 2G26
+12:43 2G27 Departs from Liverpool Central
+12:43 2H25 Exits railway at Chester Link
+12:44 2D26 Arrives & departs James Street
+12:45 2G27 Arrives & departs James Street
+12:46 2D26 Arrives & departs Moorfields
+12:46 2F26 Enters at Bidston Link
+12:47 2F26 Arrives & departs Conway Park
+12:48 2D26 Arrives & departs Lime Street
+12:48 2G27 Arrives & departs Hamilton Square
+12:49 2F26 Arrives & departs Hamilton Square
+12:50 2D26 Arrives at Liverpool Central
+12:50 2D26 At Liverpool Central forms new service 2D27
+12:50 2D27 New service at Liverpool Central from 2D26
+12:50 2D27 Departs from Liverpool Central
+12:50 2G27 Arrives & departs Birkenhead Central
+12:51 2G27 Exits railway at Chester Link
+12:52 2D27 Arrives & departs James Street
+12:52 2F26 Arrives & departs James Street
+12:53 2H26 Enters at Chester Link
+12:54 2F26 Arrives & departs Moorfields
+12:54 2H26 Arrives & departs Birkenhead Central
+12:55 2D27 Arrives & departs Hamilton Square
+12:56 2F26 Arrives & departs Lime Street
+12:56 2H26 Arrives & departs Hamilton Square
+12:57 2D27 Arrives & departs Conway Park
+12:58 2D27 Exits railway at Bidston Link
+12:58 2F26 Arrives at Liverpool Central
+12:58 2F26 At Liverpool Central forms new service 2F27
+12:58 2F27 New service at Liverpool Central from 2F26
+12:58 2F27 Departs from Liverpool Central
+12:59 2H26 Arrives & departs James Street
+13:00 2F27 Arrives & departs James Street
+13:01 2G28 Enters at Chester Link
+13:01 2H26 Arrives & departs Moorfields
+13:02 2G28 Arrives & departs Birkenhead Central
+13:03 2F27 Arrives & departs Hamilton Square
+13:03 2H26 Arrives & departs Lime Street
+13:04 2G28 Arrives & departs Hamilton Square
+13:05 2F27 Arrives & departs Conway Park
+13:05 2H26 Arrives at Liverpool Central
+13:05 2H26 At Liverpool Central forms new service 2H27
+13:05 2H27 New service at Liverpool Central from 2H26
+13:05 2H27 Departs from Liverpool Central
+13:06 2F27 Exits railway at Bidston Link
+13:07 2G28 Arrives & departs James Street
+13:07 2H27 Arrives & departs James Street
+13:08 2D28 Enters at Bidston Link
+13:09 2D28 Arrives & departs Conway Park
+13:09 2G28 Arrives & departs Moorfields
+13:10 2H27 Arrives & departs Hamilton Square
+13:11 2D28 Arrives & departs Hamilton Square
+13:11 2G28 Arrives & departs Lime Street
+13:12 2H27 Arrives & departs Birkenhead Central
+13:13 2G28 Arrives at Liverpool Central
+13:13 2G28 At Liverpool Central forms new service 2G29
+13:13 2G29 New service at Liverpool Central from 2G28
+13:13 2G29 Departs from Liverpool Central
+13:13 2H27 Exits railway at Chester Link
+13:14 2D28 Arrives & departs James Street
+13:15 2G29 Arrives & departs James Street
+13:16 2D28 Arrives & departs Moorfields
+13:16 2F28 Enters at Bidston Link
+13:17 2F28 Arrives & departs Conway Park
+13:18 2D28 Arrives & departs Lime Street
+13:18 2G29 Arrives & departs Hamilton Square
+13:19 2F28 Arrives & departs Hamilton Square
+13:20 2D28 Arrives at Liverpool Central
+13:20 2D28 At Liverpool Central forms new service 2D29
+13:20 2D29 New service at Liverpool Central from 2D28
+13:20 2D29 Departs from Liverpool Central
+13:20 2G29 Arrives & departs Birkenhead Central
+13:21 2G29 Exits railway at Chester Link
+13:22 2D29 Arrives & departs James Street
+13:22 2F28 Arrives & departs James Street
+13:23 2H28 Enters at Chester Link
+13:24 2F28 Arrives & departs Moorfields
+13:24 2H28 Arrives & departs Birkenhead Central
+13:25 2D29 Arrives & departs Hamilton Square
+13:26 2F28 Arrives & departs Lime Street
+13:26 2H28 Arrives & departs Hamilton Square
+13:27 2D29 Arrives & departs Conway Park
+13:28 2D29 Exits railway at Bidston Link
+13:28 2F28 Arrives at Liverpool Central
+13:28 2F28 At Liverpool Central forms new service 2F29
+13:28 2F29 New service at Liverpool Central from 2F28
+13:28 2F29 Departs from Liverpool Central
+13:29 2H28 Arrives & departs James Street
+13:30 2F29 Arrives & departs James Street
+13:31 2G30 Enters at Chester Link
+13:31 2H28 Arrives & departs Moorfields
+13:32 2G30 Arrives & departs Birkenhead Central
+13:33 2F29 Arrives & departs Hamilton Square
+13:33 2H28 Arrives & departs Lime Street
+13:34 2G30 Arrives & departs Hamilton Square
+13:35 2F29 Arrives & departs Conway Park
+13:35 2H28 Arrives at Liverpool Central
+13:35 2H28 At Liverpool Central forms new service 2H29
+13:35 2H29 New service at Liverpool Central from 2H28
+13:35 2H29 Departs from Liverpool Central
+13:36 2F29 Exits railway at Bidston Link
+13:37 2G30 Arrives & departs James Street
+13:37 2H29 Arrives & departs James Street
+13:38 2D30 Enters at Bidston Link
+13:39 2D30 Arrives & departs Conway Park
+13:39 2G30 Arrives & departs Moorfields
+13:40 2H29 Arrives & departs Hamilton Square
+13:41 2D30 Arrives & departs Hamilton Square
+13:41 2G30 Arrives & departs Lime Street
+13:42 2H29 Arrives & departs Birkenhead Central
+13:43 2G30 Arrives at Liverpool Central
+13:43 2G30 At Liverpool Central forms new service 2G31
+13:43 2G31 New service at Liverpool Central from 2G30
+13:43 2G31 Departs from Liverpool Central
+13:43 2H29 Exits railway at Chester Link
+13:44 2D30 Arrives & departs James Street
+13:45 2G31 Arrives & departs James Street
+13:46 2D30 Arrives & departs Moorfields
+13:46 2F30 Enters at Bidston Link
+13:47 2F30 Arrives & departs Conway Park
+13:48 2D30 Arrives & departs Lime Street
+13:48 2G31 Arrives & departs Hamilton Square
+13:49 2F30 Arrives & departs Hamilton Square
+13:50 2D30 Arrives at Liverpool Central
+13:50 2D30 At Liverpool Central forms new service 2D31
+13:50 2D31 New service at Liverpool Central from 2D30
+13:50 2D31 Departs from Liverpool Central
+13:50 2G31 Arrives & departs Birkenhead Central
+13:51 2G31 Exits railway at Chester Link
+13:52 2D31 Arrives & departs James Street
+13:52 2F30 Arrives & departs James Street
+13:53 2H30 Enters at Chester Link
+13:54 2F30 Arrives & departs Moorfields
+13:54 2H30 Arrives & departs Birkenhead Central
+13:55 2D31 Arrives & departs Hamilton Square
+13:56 2F30 Arrives & departs Lime Street
+13:56 2H30 Arrives & departs Hamilton Square
+13:57 2D31 Arrives & departs Conway Park
+13:58 2D31 Exits railway at Bidston Link
+13:58 2F30 Arrives at Liverpool Central
+13:58 2F30 At Liverpool Central forms new service 2F31
+13:58 2F31 New service at Liverpool Central from 2F30
+13:58 2F31 Departs from Liverpool Central
+13:59 2H30 Arrives & departs James Street
+14:00 2F31 Arrives & departs James Street
+14:01 2G32 Enters at Chester Link
+14:01 2H30 Arrives & departs Moorfields
+14:02 2G32 Arrives & departs Birkenhead Central
+14:03 2F31 Arrives & departs Hamilton Square
+14:03 2H30 Arrives & departs Lime Street
+14:04 2G32 Arrives & departs Hamilton Square
+14:05 2F31 Arrives & departs Conway Park
+14:05 2H30 Arrives at Liverpool Central
+14:05 2H30 At Liverpool Central forms new service 2H31
+14:05 2H31 New service at Liverpool Central from 2H30
+14:05 2H31 Departs from Liverpool Central
+14:06 2F31 Exits railway at Bidston Link
+14:07 2G32 Arrives & departs James Street
+14:07 2H31 Arrives & departs James Street
+14:08 2D32 Enters at Bidston Link
+14:09 2D32 Arrives & departs Conway Park
+14:09 2G32 Arrives & departs Moorfields
+14:10 2H31 Arrives & departs Hamilton Square
+14:11 2D32 Arrives & departs Hamilton Square
+14:11 2G32 Arrives & departs Lime Street
+14:12 2H31 Arrives & departs Birkenhead Central
+14:13 2G32 Arrives at Liverpool Central
+14:13 2G32 At Liverpool Central forms new service 2G33
+14:13 2G33 New service at Liverpool Central from 2G32
+14:13 2G33 Departs from Liverpool Central
+14:13 2H31 Exits railway at Chester Link
+14:14 2D32 Arrives & departs James Street
+14:15 2G33 Arrives & departs James Street
+14:16 2D32 Arrives & departs Moorfields
+14:16 2F32 Enters at Bidston Link
+14:17 2F32 Arrives & departs Conway Park
+14:18 2D32 Arrives & departs Lime Street
+14:18 2G33 Arrives & departs Hamilton Square
+14:19 2F32 Arrives & departs Hamilton Square
+14:20 2D32 Arrives at Liverpool Central
+14:20 2D32 At Liverpool Central forms new service 2D33
+14:20 2D33 New service at Liverpool Central from 2D32
+14:20 2D33 Departs from Liverpool Central
+14:20 2G33 Arrives & departs Birkenhead Central
+14:21 2G33 Exits railway at Chester Link
+14:22 2D33 Arrives & departs James Street
+14:22 2F32 Arrives & departs James Street
+14:23 2H32 Enters at Chester Link
+14:24 2F32 Arrives & departs Moorfields
+14:24 2H32 Arrives & departs Birkenhead Central
+14:25 2D33 Arrives & departs Hamilton Square
+14:26 2F32 Arrives & departs Lime Street
+14:26 2H32 Arrives & departs Hamilton Square
+14:27 2D33 Arrives & departs Conway Park
+14:28 2D33 Exits railway at Bidston Link
+14:28 2F32 Arrives at Liverpool Central
+14:28 2F32 At Liverpool Central forms new service 2F33
+14:28 2F33 New service at Liverpool Central from 2F32
+14:28 2F33 Departs from Liverpool Central
+14:29 2H32 Arrives & departs James Street
+14:30 2F33 Arrives & departs James Street
+14:31 2H32 Arrives & departs Moorfields
+14:33 2F33 Arrives & departs Hamilton Square
+14:33 2H32 Arrives & departs Lime Street
+14:35 2F33 Arrives & departs Conway Park
+14:35 2H32 Arrives at Liverpool Central
+14:35 2H32 At Liverpool Central forms new service 2H33
+14:35 2H33 New service at Liverpool Central from 2H32
+14:35 2H33 Departs from Liverpool Central
+14:36 2F33 Exits railway at Bidston Link
+14:37 2H33 Arrives & departs James Street
+14:40 2H33 Arrives & departs Hamilton Square
+14:42 2H33 Arrives & departs Birkenhead Central
+14:43 2H33 Exits railway at Chester Link

@@ -1,0 +1,9 @@
+#This file contains a list of parameters that are saved after each use of the program and reloaded for the next use.  Track element length and speed limit values after the = sign may be changed and the configuration file reloaded during play, but please do not change anything else.  Comments begin with '#' and are ignored by the program.
+
+Signals=left
+BgndCol=black
+RLYLocn=C:\Users\maroua.meddeb\Downloads\Release-v2.11.1\Railway\Railways
+TTBLocn=C:\Users\maroua.meddeb\Downloads\Release-v2.11.1\Railway\Program timetables
+SSNLocn=C:\Users\maroua.meddeb\Downloads\Release-v2.11.1\Railway\Sessions
+Length =100    #default track element length in metres (not less than 10)
+Speed  =200    #default track element speed limit in km/h (not less than 10 and not greater than 400)

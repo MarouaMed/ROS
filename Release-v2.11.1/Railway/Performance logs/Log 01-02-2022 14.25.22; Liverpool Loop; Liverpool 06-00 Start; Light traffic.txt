@@ -1,0 +1,39 @@
+Performance Log
+Railway: Liverpool Loop
+Timetable: Liverpool 06-00 Start; Light traffic
+Start Time: 06:00
+06:01:00: 2G00 entered railway at Chester Link, track element 5-17, on time
+
+
+***************************************
+
+Performance summary:
+0 on-time arrivals
+0 late arrivals
+0 early arrivals
+0 on-time passes
+0 late passes
+0 early passes
+0 on-time exits
+0 late exits
+0 early exits
+0 on-time departures
+0 late departures
+0 missed stops
+0 other missed events
+0 skipped timetable events
+0 unexpected train exits
+0 incorrect train exits
+0 train failures
+1 locations that trains failed to reach (average lateness 0,6 min)
+0 SPAD risks
+0 SPADs
+0 derailments
+0 crashed trains
+
+***************************************
+
+Overall score: 90%
+Overall rating: Very good
+
+***************************************

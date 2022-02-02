@@ -1,0 +1,10 @@
+name = "Birmingham New Street"
+description = "Simulation of the city of Birmingham and surrounding rail network"
+display_name = "Birmingham"
+country_code = "GB"
+rly_file = "Birmingham.rly"
+ttb_files = ["Birmingham 0700 Start.ttb"]
+ssn_files = ["Birmingham pre-start; automatic signal routes set.ssn", "Sample Birmingham session; Timetable time 07.23.24.ssn"]
+year = 2010
+factual = true
+author = "Albert Ball"

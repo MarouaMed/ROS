@@ -1,0 +1,3433 @@
+Railway: Birmingham; Timetable: Birmingham 0700 Start;  Start time: 07:00
+
+07:00 0X00 Enters at Saltley Depot
+07:00 1S14 Enters at Coventry Link
+07:00 1A21 Enters at Wolverhampton Link
+07:00 1A21 Passes Galton Br. Approach (W)
+07:00 2K14 Created at Tyseley
+07:00 2J15 Created at Jewellery Quarter
+07:00 2V31 Created at N19-29
+07:00 2M66 Created at Birmingham New Street
+07:00 2T16 Created at Birmingham New Street
+07:00 5P49 Enters at Soho Depot
+07:00 2P49 Created at Wylde Green
+07:00 2P48 Created at Birmingham New Street
+07:00 7G44 Enters at Nuneaton Link
+07:01 2K14 Departs from Tyseley
+07:01 2J15 Departs from Jewellery Quarter
+07:01 2J15 Passes Snow Hill Approach (W)
+07:01 2P49 Departs from Wylde Green
+07:01 2P48 Departs from Birmingham New Street
+07:02 1S14 Passes New Street Approach (NE)
+07:02 1A23 Enters at Wolverhampton Link
+07:02 1A23 Passes Galton Br. Approach (W)
+07:02 2G17 Enters at Stafford Link
+07:02 5P49 Arrives at Soho Down Through Siding
+07:02 5P49 Changes direction at Soho Down Through Siding
+07:03 1A21 Passes New Street Approach (NW)
+07:03 2K14 Arrives & departs Small Heath
+07:03 2V31 Passes Kings Norton Approach (NE)
+07:03 2G17 Arrives & departs Bescot Stadium
+07:03 2P49 Arrives & departs Sutton Coldfield
+07:03 2P48 Arrives & departs Five Ways
+07:04 2F32 Enters at Worcester Link
+07:04 5P49 Departs from Soho Down Through Siding
+07:05 1A23 Passes New Street Approach (NW)
+07:05 2J15 Arrives at Snow Hill
+07:05 2V31 Exits railway at Worcester Link
+07:05 2F32 Passes Kings Norton Approach (W)
+07:05 2M68 Enters at Coventry Link
+07:05 2P49 Arrives at Four Oaks
+07:05 2P49 Changes direction at Four Oaks
+07:05 2P48 Arrives & departs University
+07:06 2M68 Arrives & departs Marston Green
+07:06 2G17 Arrives & departs Tame Bridge Parkway
+07:06 2P49 At Four Oaks forms new service 2P48
+07:06 2P48 New service at Four Oaks from 2P49
+07:07 2K14 Arrives & departs Moor Street
+07:07 2J15 Departs from Snow Hill
+07:07 2F32 Passes New Street Approach (SW)
+07:07 2M66 Departs from Birmingham New Street
+07:07 2M68 Arrives & departs Lea Hall
+07:07 2G17 Passes Perry Barr Jn. Approach (W)
+07:07 2P48 Departs from Four Oaks
+07:08 1S14 Arrives at Birmingham New Street
+07:08 1A21 Arrives at Birmingham New Street
+07:08 2K14 Passes Snow Hill Approach (E)
+07:08 2M67 Enters at Wolverhampton Link
+07:08 2P48 Arrives & departs Selly Oak
+07:09 1S14 Splits from rear at Birmingham New Street to form 1S16
+07:09 1S16 New service at Birmingham New Street split from 1S14
+07:09 2M67 Arrives & departs Sandwell & Dudley
+07:09 2M68 Arrives & departs Stechford
+07:09 2P48 Arrives & departs Sutton Coldfield
+07:09 2P48 Passes Kings Norton Approach (NE)
+07:10 1A23 Arrives at Birmingham New Street
+07:10 2K14 Arrives at Snow Hill
+07:10 2J15 Arrives & departs Moor Street
+07:10 2F32 Arrives at Birmingham New Street
+07:10 2M67 Passes Galton Br. Approach (W)
+07:10 2G17 Arrives & departs Hamstead
+07:10 5P49 Arrives at Birmingham New Street
+07:10 2P48 Arrives & departs Bournville
+07:11 1A21 At Birmingham New Street joins 1A23
+07:11 1A23 Joined at Birmingham New Street by 1A21
+07:11 2K14 Departs from Snow Hill
+07:11 2M66 Passes Soho Jn. Approach (E)
+07:11 2M68 Arrives & departs Adderley Park
+07:11 5P49 At Birmingham New Street forms new service 2P49
+07:11 2P49 New service at Birmingham New Street from 5P49
+07:12 2M67 Arrives & departs Smethwick Galton Bridge
+07:12 2M68 Passes New Street Approach (NE)
+07:12 2T16 Departs from Birmingham New Street
+07:12 2P48 Arrives & departs Wylde Green
+07:12 2P48 Arrives & departs Kings Norton
+07:13 1S14 Departs from Birmingham New Street
+07:13 2K14 Arrives & departs Jewellery Quarter
+07:13 2F32 Departs from Birmingham New Street
+07:13 2G17 Arrives & departs Perry Barr
+07:14 2J15 Arrives & departs Small Heath
+07:14 2M67 Arrives & departs Smethwick Rolfe Street
+07:14 2M66 Arrives & departs Smethwick Rolfe Street
+07:14 2P48 Arrives & departs Chester Road
+07:15 1S16 Departs from Birmingham New Street
+07:15 1A23 Departs from Birmingham New Street
+07:15 2G17 Arrives & departs Witton
+07:15 2P49 Departs from Birmingham New Street
+07:15 2P48 Arrives at Kings Norton Loop
+07:15 2P48 Changes direction at Kings Norton Loop
+07:16 2J15 Arrives & departs Tyseley
+07:16 2M67 Passes New Street Approach (NW)
+07:16 2M66 Arrives & departs Smethwick Galton Bridge
+07:16 2G17 Passes Aston Jn. Approach (W)
+07:16 2T16 Arrives & departs Duddeston
+07:16 2P48 Arrives & departs Erdington
+07:17 1S14 Passes Soho Jn. Approach (E)
+07:17 2J15 Exits railway at Leamington Link
+07:17 2P49 Arrives & departs Duddeston
+07:17 2P48 Passes Aston Jn. Approach (N)
+07:18 2K14 Arrives & departs The Hawthorns
+07:18 2M67 Arrives at Birmingham New Street
+07:18 2M66 Arrives & departs Sandwell & Dudley
+07:18 2M68 Arrives at Birmingham New Street
+07:18 2G17 Arrives & departs Aston
+07:19 1S16 Passes Soho Jn. Approach (E)
+07:19 2K14 Passes Galton Br. Approach (E)
+07:19 2V33 Enters at Derby Link
+07:19 2F32 Exits railway at Derby Link
+07:19 2M66 Exits railway at Wolverhampton Link
+07:19 2T16 Arrives & departs Aston
+07:19 2P48 Arrives & departs Gravelly Hill
+07:20 2K14 Arrives & departs Smethwick Galton Bridge
+07:20 2G08 Enters at Leamington Link
+07:20 2M70 Enters at Coventry Link
+07:20 2P49 Arrives & departs Aston
+07:20 7G44 Passes Washwood Heath Down
+07:21 1S14 Exits railway at Wolverhampton Link
+07:21 2M70 Arrives & departs Marston Green
+07:21 2G17 Arrives & departs Duddeston
+07:21 2T16 Arrives & departs Witton
+07:22 2K14 Arrives & departs Langley Green
+07:22 2J15 Enters at Kidderminster Link
+07:22 2M67 Departs from Birmingham New Street
+07:22 2M68 Departs from Birmingham New Street
+07:22 2M70 Arrives & departs Lea Hall
+07:22 2T16 Passes Perry Barr Jn. Approach (E)
+07:22 2P48 Arrives & departs Aston
+07:23 1S16 Exits railway at Wolverhampton Link
+07:23 1A23 Exits railway at Coventry Link
+07:23 2K14 Exits railway at Kidderminster Link
+07:23 2J15 Arrives & departs Langley Green
+07:23 2M69 Enters at Wolverhampton Link
+07:23 2T16 Arrives & departs Perry Barr
+07:24 2J15 Passes Smethwick Approach (W)
+07:24 2M69 Arrives & departs Sandwell & Dudley
+07:24 2M70 Arrives & departs Stechford
+07:24 2P49 Arrives & departs Gravelly Hill
+07:24 2P48 Arrives & departs Duddeston
+07:24 2P48 Departs from Kings Norton Loop
+07:25 2J15 Arrives & departs Smethwick Galton Bridge
+07:25 2G08 Arrives at Moor Street
+07:25 2V33 Arrives at Birmingham New Street
+07:25 2M69 Passes Galton Br. Approach (W)
+07:25 2M68 Passes Soho Jn. Approach (E)
+07:25 3L27 Enters at Freightliner Terminal
+07:26 2G08 Departs from Moor Street
+07:26 2G08 Passes Snow Hill Approach (E)
+07:26 2M67 Arrives & departs Adderley Park
+07:26 2M70 Arrives & departs Adderley Park
+07:26 2T16 Arrives & departs Hamstead
+07:26 2P49 Arrives & departs Erdington
+07:26 2P48 Arrives at Kings Norton
+07:26 2P48 At Kings Norton forms new service 2P49
+07:26 2P49 New service at Kings Norton from 2P48
+07:27 2M69 Arrives & departs Smethwick Galton Bridge
+07:27 2M70 Passes New Street Approach (NE)
+07:28 2J15 Arrives & departs The Hawthorns
+07:28 2G08 Arrives at Snow Hill
+07:28 2G17 Arrives at Birmingham New Street
+07:28 2P49 Arrives & departs Chester Road
+07:28 2P48 Arrives at Birmingham New Street
+07:28 2P49 Departs from Kings Norton
+07:29 2K14 Enters at Leamington Link
+07:29 2G08 Changes direction at Snow Hill
+07:29 2V33 Departs from Birmingham New Street
+07:29 2M69 Arrives & departs Smethwick Rolfe Street
+07:29 2M68 Arrives & departs Smethwick Rolfe Street
+07:29 2G17 Changes direction at Birmingham New Street
+07:30 1S18 Enters at Coventry Link
+07:30 1A25 Enters at Wolverhampton Link
+07:30 1A25 Passes Galton Br. Approach (W)
+07:30 2M67 Arrives & departs Stechford
+07:30 2G17 At Birmingham New Street forms new service 2T18
+07:30 2T16 Arrives & departs Tame Bridge Parkway
+07:30 2T18 New service at Birmingham New Street from 2G17
+07:30 2P49 Arrives & departs Wylde Green
+07:30 2P49 Arrives & departs Bournville
+07:30 6H16 Enters at Worcester Link
+07:31 2K14 Arrives & departs Tyseley
+07:31 2J15 Arrives & departs Jewellery Quarter
+07:31 2J15 Passes Snow Hill Approach (W)
+07:31 2G08 At Snow Hill forms new service 2A09
+07:31 2A09 New service at Snow Hill from 2G08
+07:31 2M69 Passes New Street Approach (NW)
+07:31 2M68 Arrives & departs Smethwick Galton Bridge
+07:31 2P48 Departs from Birmingham New Street
+07:32 1S18 Passes New Street Approach (NE)
+07:32 1A27 Enters at Wolverhampton Link
+07:32 1A27 Passes Galton Br. Approach (W)
+07:32 2G19 Enters at Stafford Link
+07:32 2T16 Arrives & departs Bescot Stadium
+07:33 1A25 Passes New Street Approach (NW)
+07:33 2K14 Arrives & departs Small Heath
+07:33 2V33 Passes Kings Norton Approach (NE)
+07:33 2M67 Arrives & departs Lea Hall
+07:33 2M69 Arrives at Birmingham New Street
+07:33 2M68 Arrives & departs Sandwell & Dudley
+07:33 2M70 Arrives at Birmingham New Street
+07:33 2G19 Arrives & departs Bescot Stadium
+07:33 2T16 Exits railway at Stafford Link
+07:33 2P49 Arrives & departs Sutton Coldfield
+07:33 2P48 Arrives & departs Five Ways
+07:33 2P49 Arrives & departs Selly Oak
+07:34 2F34 Enters at Worcester Link
+07:34 2M68 Exits railway at Wolverhampton Link
+07:35 1A27 Passes New Street Approach (NW)
+07:35 2J15 Arrives at Snow Hill
+07:35 2A09 Departs from Snow Hill
+07:35 2V33 Exits railway at Worcester Link
+07:35 2F34 Passes Kings Norton Approach (W)
+07:35 2M67 Arrives & departs Marston Green
+07:35 2M72 Enters at Coventry Link
+07:35 2P49 Arrives at Four Oaks
+07:35 2P49 Changes direction at Four Oaks
+07:35 2P48 Arrives & departs University
+07:35 2P49 Arrives & departs University
+07:36 2M67 Exits railway at Coventry Link
+07:36 2M72 Arrives & departs Marston Green
+07:36 2G19 Arrives & departs Tame Bridge Parkway
+07:36 2P49 At Four Oaks forms new service 2P48
+07:36 2P48 New service at Four Oaks from 2P49
+07:37 2K14 Arrives & departs Moor Street
+07:37 2J15 Departs from Snow Hill
+07:37 2F34 Passes New Street Approach (SW)
+07:37 2M69 Departs from Birmingham New Street
+07:37 2M70 Departs from Birmingham New Street
+07:37 2M72 Arrives & departs Lea Hall
+07:37 2G19 Passes Perry Barr Jn. Approach (W)
+07:37 2P48 Departs from Four Oaks
+07:38 1S18 Arrives at Birmingham New Street
+07:38 1A25 Arrives at Birmingham New Street
+07:38 2K14 Passes Snow Hill Approach (E)
+07:38 2A09 Arrives & departs Moor Street
+07:38 2M71 Enters at Wolverhampton Link
+07:38 2P48 Arrives & departs Selly Oak
+07:38 2P49 Arrives & departs Five Ways
+07:39 1S18 Splits from rear at Birmingham New Street to form 1S20
+07:39 1S20 New service at Birmingham New Street split from 1S18
+07:39 2M71 Arrives & departs Sandwell & Dudley
+07:39 2M72 Arrives & departs Stechford
+07:39 2P48 Arrives & departs Sutton Coldfield
+07:39 2P48 Passes Kings Norton Approach (NE)
+07:40 1A27 Arrives at Birmingham New Street
+07:40 2K14 Arrives at Snow Hill
+07:40 2J15 Arrives & departs Moor Street
+07:40 2F34 Arrives at Birmingham New Street
+07:40 2M71 Passes Galton Br. Approach (W)
+07:40 2M70 Passes Soho Jn. Approach (E)
+07:40 2G19 Arrives & departs Hamstead
+07:40 2P48 Arrives & departs Bournville
+07:40 7G44 Arrives at Small Heath Up Goods Loop
+07:40 7G44 Terminates at Small Heath Up Goods Loop
+07:40 3L27 Passes Moseley Tunnel
+07:41 1A25 At Birmingham New Street joins 1A27
+07:41 1A27 Joined at Birmingham New Street by 1A25
+07:41 2K14 Departs from Snow Hill
+07:41 2M69 Arrives & departs Adderley Park
+07:41 2M72 Arrives & departs Adderley Park
+07:41 2P49 Arrives at Birmingham New Street
+07:42 2M71 Arrives & departs Smethwick Galton Bridge
+07:42 2M72 Passes New Street Approach (NE)
+07:42 2T18 Departs from Birmingham New Street
+07:42 2P48 Arrives & departs Wylde Green
+07:42 2P48 Arrives & departs Kings Norton
+07:43 1S18 Departs from Birmingham New Street
+07:43 2K14 Arrives & departs Jewellery Quarter
+07:43 2A09 Exits railway at Leamington Link
+07:43 2F34 Departs from Birmingham New Street
+07:43 2G19 Arrives & departs Perry Barr
+07:44 2J15 Arrives & departs Small Heath
+07:44 2M71 Arrives & departs Smethwick Rolfe Street
+07:44 2M70 Arrives & departs Smethwick Rolfe Street
+07:44 2P48 Arrives & departs Chester Road
+07:45 1S20 Departs from Birmingham New Street
+07:45 1A27 Departs from Birmingham New Street
+07:45 2M69 Arrives & departs Stechford
+07:45 2G19 Arrives & departs Witton
+07:45 2P48 Arrives at Kings Norton Loop
+07:45 2P48 Changes direction at Kings Norton Loop
+07:45 2P49 Departs from Birmingham New Street
+07:45 6H16 Passes Moseley Tunnel
+07:46 2J15 Arrives & departs Tyseley
+07:46 2M71 Passes New Street Approach (NW)
+07:46 2M70 Arrives & departs Smethwick Galton Bridge
+07:46 2G19 Passes Aston Jn. Approach (W)
+07:46 2T18 Arrives & departs Duddeston
+07:46 2P48 Arrives & departs Erdington
+07:46 3L27 Passes Kings Norton Approach (SE)
+07:47 1S18 Passes Soho Jn. Approach (E)
+07:47 2J15 Exits railway at Leamington Link
+07:47 2P48 Passes Aston Jn. Approach (N)
+07:47 2P49 Arrives & departs Duddeston
+07:48 2K14 Arrives & departs The Hawthorns
+07:48 2M69 Arrives & departs Lea Hall
+07:48 2M71 Arrives at Birmingham New Street
+07:48 2M70 Arrives & departs Sandwell & Dudley
+07:48 2M72 Arrives at Birmingham New Street
+07:48 2G19 Arrives & departs Aston
+07:49 1S20 Passes Soho Jn. Approach (E)
+07:49 2K14 Passes Galton Br. Approach (E)
+07:49 2V35 Enters at Derby Link
+07:49 2F34 Exits railway at Derby Link
+07:49 2M70 Exits railway at Wolverhampton Link
+07:49 2T18 Arrives & departs Aston
+07:49 2P48 Arrives & departs Gravelly Hill
+07:50 2K14 Arrives & departs Smethwick Galton Bridge
+07:50 2G10 Enters at Leamington Link
+07:50 2M69 Arrives & departs Marston Green
+07:50 2M74 Enters at Coventry Link
+07:50 2P49 Arrives & departs Aston
+07:50 3L27 Exits railway at Worcester Link
+07:51 1S18 Exits railway at Wolverhampton Link
+07:51 2M69 Exits railway at Coventry Link
+07:51 2M74 Arrives & departs Marston Green
+07:51 2G19 Arrives & departs Duddeston
+07:51 2T18 Arrives & departs Witton
+07:52 2K14 Arrives & departs Langley Green
+07:52 2J15 Enters at Kidderminster Link
+07:52 2M71 Departs from Birmingham New Street
+07:52 2M72 Departs from Birmingham New Street
+07:52 2M74 Arrives & departs Lea Hall
+07:52 2T18 Passes Perry Barr Jn. Approach (E)
+07:52 2P48 Arrives & departs Aston
+07:53 1S20 Exits railway at Wolverhampton Link
+07:53 1A27 Exits railway at Coventry Link
+07:53 2K14 Exits railway at Kidderminster Link
+07:53 2J15 Arrives & departs Langley Green
+07:53 2M73 Enters at Wolverhampton Link
+07:53 2T18 Arrives & departs Perry Barr
+07:54 2J15 Passes Smethwick Approach (W)
+07:54 2M73 Arrives & departs Sandwell & Dudley
+07:54 2M74 Arrives & departs Stechford
+07:54 2P48 Arrives & departs Duddeston
+07:54 2P48 Departs from Kings Norton Loop
+07:54 2P49 Arrives & departs Gravelly Hill
+07:55 2J15 Arrives & departs Smethwick Galton Bridge
+07:55 2G10 Arrives at Moor Street
+07:55 2V35 Arrives at Birmingham New Street
+07:55 2M73 Passes Galton Br. Approach (W)
+07:55 2M72 Passes Soho Jn. Approach (E)
+07:56 2G10 Departs from Moor Street
+07:56 2G10 Passes Snow Hill Approach (E)
+07:56 2M71 Arrives & departs Adderley Park
+07:56 2M74 Arrives & departs Adderley Park
+07:56 2T18 Arrives & departs Hamstead
+07:56 2P48 Arrives at Kings Norton
+07:56 2P48 At Kings Norton forms new service 2P49
+07:56 2P49 New service at Kings Norton from 2P48
+07:56 2P49 Arrives & departs Erdington
+07:57 2M73 Arrives & departs Smethwick Galton Bridge
+07:57 2M74 Passes New Street Approach (NE)
+07:58 2J15 Arrives & departs The Hawthorns
+07:58 2G10 Arrives at Snow Hill
+07:58 2G19 Arrives at Birmingham New Street
+07:58 2P48 Arrives at Birmingham New Street
+07:58 2P49 Departs from Kings Norton
+07:58 2P49 Arrives & departs Chester Road
+07:59 2K14 Enters at Leamington Link
+07:59 2G10 Changes direction at Snow Hill
+07:59 2V35 Departs from Birmingham New Street
+07:59 2M73 Arrives & departs Smethwick Rolfe Street
+07:59 2M72 Arrives & departs Smethwick Rolfe Street
+07:59 2G19 Changes direction at Birmingham New Street
+08:00 1S22 Enters at Coventry Link
+08:00 1A29 Enters at Wolverhampton Link
+08:00 1A29 Passes Galton Br. Approach (W)
+08:00 2M71 Arrives & departs Stechford
+08:00 2G19 At Birmingham New Street forms new service 2T20
+08:00 2T18 Arrives & departs Tame Bridge Parkway
+08:00 2T20 New service at Birmingham New Street from 2G19
+08:00 2P48 Departs from Birmingham New Street
+08:00 2P49 Arrives & departs Bournville
+08:00 2P49 Arrives & departs Wylde Green
+08:00 7G46 Enters at Nuneaton Link
+08:00 6H16 Exits railway at Derby Link
+08:01 2K14 Arrives & departs Tyseley
+08:01 2J15 Arrives & departs Jewellery Quarter
+08:01 2J15 Passes Snow Hill Approach (W)
+08:01 2G10 At Snow Hill forms new service 2A11
+08:01 2A11 New service at Snow Hill from 2G10
+08:01 2M73 Passes New Street Approach (NW)
+08:01 2M72 Arrives & departs Smethwick Galton Bridge
+08:02 1S22 Passes New Street Approach (NE)
+08:02 1A31 Enters at Wolverhampton Link
+08:02 1A31 Passes Galton Br. Approach (W)
+08:02 2G21 Enters at Stafford Link
+08:02 2T18 Arrives & departs Bescot Stadium
+08:03 1A29 Passes New Street Approach (NW)
+08:03 2K14 Arrives & departs Small Heath
+08:03 2V35 Passes Kings Norton Approach (NE)
+08:03 2M71 Arrives & departs Lea Hall
+08:03 2M73 Arrives at Birmingham New Street
+08:03 2M72 Arrives & departs Sandwell & Dudley
+08:03 2M74 Arrives at Birmingham New Street
+08:03 2G21 Arrives & departs Bescot Stadium
+08:03 2T18 Exits railway at Stafford Link
+08:03 2P48 Arrives & departs Five Ways
+08:03 2P49 Arrives & departs Selly Oak
+08:03 2P49 Arrives & departs Sutton Coldfield
+08:04 2F36 Enters at Worcester Link
+08:04 2M72 Exits railway at Wolverhampton Link
+08:05 1A31 Passes New Street Approach (NW)
+08:05 2J15 Arrives at Snow Hill
+08:05 2A11 Departs from Snow Hill
+08:05 2V35 Exits railway at Worcester Link
+08:05 2F36 Passes Kings Norton Approach (W)
+08:05 2M71 Arrives & departs Marston Green
+08:05 2M76 Enters at Coventry Link
+08:05 2P48 Arrives & departs University
+08:05 2P49 Arrives & departs University
+08:05 2P49 Arrives at Four Oaks
+08:05 2P49 Changes direction at Four Oaks
+08:06 2M71 Exits railway at Coventry Link
+08:06 2M76 Arrives & departs Marston Green
+08:06 2G21 Arrives & departs Tame Bridge Parkway
+08:06 2P49 At Four Oaks forms new service 2P48
+08:06 2P48 New service at Four Oaks from 2P49
+08:07 2K14 Arrives & departs Moor Street
+08:07 2J15 Departs from Snow Hill
+08:07 2F36 Passes New Street Approach (SW)
+08:07 2M73 Departs from Birmingham New Street
+08:07 2M74 Departs from Birmingham New Street
+08:07 2M76 Arrives & departs Lea Hall
+08:07 2G21 Passes Perry Barr Jn. Approach (W)
+08:07 2P48 Departs from Four Oaks
+08:08 1S22 Arrives at Birmingham New Street
+08:08 1A29 Arrives at Birmingham New Street
+08:08 2K14 Passes Snow Hill Approach (E)
+08:08 2A11 Arrives & departs Moor Street
+08:08 2M75 Enters at Wolverhampton Link
+08:08 2P48 Arrives & departs Selly Oak
+08:08 2P49 Arrives & departs Five Ways
+08:09 1S22 Splits from rear at Birmingham New Street to form 1S24
+08:09 1S24 New service at Birmingham New Street split from 1S22
+08:09 2M75 Arrives & departs Sandwell & Dudley
+08:09 2M76 Arrives & departs Stechford
+08:09 2P48 Passes Kings Norton Approach (NE)
+08:09 2P48 Arrives & departs Sutton Coldfield
+08:10 1A31 Arrives at Birmingham New Street
+08:10 2K14 Arrives at Snow Hill
+08:10 2J15 Arrives & departs Moor Street
+08:10 2F36 Arrives at Birmingham New Street
+08:10 2M75 Passes Galton Br. Approach (W)
+08:10 2M74 Passes Soho Jn. Approach (E)
+08:10 2G21 Arrives & departs Hamstead
+08:10 2P48 Arrives & departs Bournville
+08:11 1A29 At Birmingham New Street joins 1A31
+08:11 1A31 Joined at Birmingham New Street by 1A29
+08:11 2K14 Departs from Snow Hill
+08:11 2M73 Arrives & departs Adderley Park
+08:11 2M76 Arrives & departs Adderley Park
+08:11 2P49 Arrives at Birmingham New Street
+08:12 2M75 Arrives & departs Smethwick Galton Bridge
+08:12 2M76 Passes New Street Approach (NE)
+08:12 2T20 Departs from Birmingham New Street
+08:12 2P48 Arrives & departs Kings Norton
+08:12 2P48 Arrives & departs Wylde Green
+08:13 1S22 Departs from Birmingham New Street
+08:13 2K14 Arrives & departs Jewellery Quarter
+08:13 2A11 Exits railway at Leamington Link
+08:13 2F36 Departs from Birmingham New Street
+08:13 2G21 Arrives & departs Perry Barr
+08:14 2J15 Arrives & departs Small Heath
+08:14 2M75 Arrives & departs Smethwick Rolfe Street
+08:14 2M74 Arrives & departs Smethwick Rolfe Street
+08:14 2P48 Arrives & departs Chester Road
+08:15 1S24 Departs from Birmingham New Street
+08:15 1A31 Departs from Birmingham New Street
+08:15 2M73 Arrives & departs Stechford
+08:15 2G21 Arrives & departs Witton
+08:15 2P48 Arrives at Kings Norton Loop
+08:15 2P48 Changes direction at Kings Norton Loop
+08:15 2P49 Departs from Birmingham New Street
+08:16 2J15 Arrives & departs Tyseley
+08:16 2M75 Passes New Street Approach (NW)
+08:16 2M74 Arrives & departs Smethwick Galton Bridge
+08:16 2G21 Passes Aston Jn. Approach (W)
+08:16 2T20 Arrives & departs Duddeston
+08:16 2P48 Arrives & departs Erdington
+08:17 1S22 Passes Soho Jn. Approach (E)
+08:17 2J15 Exits railway at Leamington Link
+08:17 2P49 Arrives & departs Duddeston
+08:17 2P48 Passes Aston Jn. Approach (N)
+08:18 2K14 Arrives & departs The Hawthorns
+08:18 2M73 Arrives & departs Lea Hall
+08:18 2M75 Arrives at Birmingham New Street
+08:18 2M74 Arrives & departs Sandwell & Dudley
+08:18 2M76 Arrives at Birmingham New Street
+08:18 2G21 Arrives & departs Aston
+08:19 1S24 Passes Soho Jn. Approach (E)
+08:19 2K14 Passes Galton Br. Approach (E)
+08:19 2V37 Enters at Derby Link
+08:19 2F36 Exits railway at Derby Link
+08:19 2M74 Exits railway at Wolverhampton Link
+08:19 2T20 Arrives & departs Aston
+08:19 2P48 Arrives & departs Gravelly Hill
+08:20 2K14 Arrives & departs Smethwick Galton Bridge
+08:20 2G12 Enters at Leamington Link
+08:20 2M73 Arrives & departs Marston Green
+08:20 2M78 Enters at Coventry Link
+08:20 2P49 Arrives & departs Aston
+08:20 7G46 Passes Washwood Heath Down
+08:21 1S22 Exits railway at Wolverhampton Link
+08:21 2M73 Exits railway at Coventry Link
+08:21 2M78 Arrives & departs Marston Green
+08:21 2G21 Arrives & departs Duddeston
+08:21 2T20 Arrives & departs Witton
+08:22 2K14 Arrives & departs Langley Green
+08:22 2J15 Enters at Kidderminster Link
+08:22 2M75 Departs from Birmingham New Street
+08:22 2M76 Departs from Birmingham New Street
+08:22 2M78 Arrives & departs Lea Hall
+08:22 2T20 Passes Perry Barr Jn. Approach (E)
+08:22 2P48 Arrives & departs Aston
+08:23 1S24 Exits railway at Wolverhampton Link
+08:23 1A31 Exits railway at Coventry Link
+08:23 2K14 Exits railway at Kidderminster Link
+08:23 2J15 Arrives & departs Langley Green
+08:23 2M77 Enters at Wolverhampton Link
+08:23 2T20 Arrives & departs Perry Barr
+08:24 2J15 Passes Smethwick Approach (W)
+08:24 2M77 Arrives & departs Sandwell & Dudley
+08:24 2M78 Arrives & departs Stechford
+08:24 2P48 Departs from Kings Norton Loop
+08:24 2P49 Arrives & departs Gravelly Hill
+08:24 2P48 Arrives & departs Duddeston
+08:25 2J15 Arrives & departs Smethwick Galton Bridge
+08:25 2G12 Arrives at Moor Street
+08:25 2V37 Arrives at Birmingham New Street
+08:25 2M77 Passes Galton Br. Approach (W)
+08:25 2M76 Passes Soho Jn. Approach (E)
+08:26 2G12 Departs from Moor Street
+08:26 2G12 Passes Snow Hill Approach (E)
+08:26 2M75 Arrives & departs Adderley Park
+08:26 2M78 Arrives & departs Adderley Park
+08:26 2T20 Arrives & departs Hamstead
+08:26 2P48 Arrives at Kings Norton
+08:26 2P48 At Kings Norton forms new service 2P49
+08:26 2P49 New service at Kings Norton from 2P48
+08:26 2P49 Arrives & departs Erdington
+08:27 2M77 Arrives & departs Smethwick Galton Bridge
+08:27 2M78 Passes New Street Approach (NE)
+08:28 2J15 Arrives & departs The Hawthorns
+08:28 2G12 Arrives at Snow Hill
+08:28 2G21 Arrives at Birmingham New Street
+08:28 2P49 Departs from Kings Norton
+08:28 2P49 Arrives & departs Chester Road
+08:28 2P48 Arrives at Birmingham New Street
+08:29 2K14 Enters at Leamington Link
+08:29 2G12 Changes direction at Snow Hill
+08:29 2V37 Departs from Birmingham New Street
+08:29 2M77 Arrives & departs Smethwick Rolfe Street
+08:29 2M76 Arrives & departs Smethwick Rolfe Street
+08:29 2G21 Changes direction at Birmingham New Street
+08:30 1S26 Enters at Coventry Link
+08:30 1A33 Enters at Wolverhampton Link
+08:30 1A33 Passes Galton Br. Approach (W)
+08:30 2M75 Arrives & departs Stechford
+08:30 2G21 At Birmingham New Street forms new service 2T22
+08:30 2T20 Arrives & departs Tame Bridge Parkway
+08:30 2T22 New service at Birmingham New Street from 2G21
+08:30 2P49 Arrives & departs Bournville
+08:30 2P49 Arrives & departs Wylde Green
+08:30 2P48 Departs from Birmingham New Street
+08:31 2K14 Arrives & departs Tyseley
+08:31 2J15 Arrives & departs Jewellery Quarter
+08:31 2J15 Passes Snow Hill Approach (W)
+08:31 2G12 At Snow Hill forms new service 2A13
+08:31 2A13 New service at Snow Hill from 2G12
+08:31 2M77 Passes New Street Approach (NW)
+08:31 2M76 Arrives & departs Smethwick Galton Bridge
+08:32 1S26 Passes New Street Approach (NE)
+08:32 1A35 Enters at Wolverhampton Link
+08:32 1A35 Passes Galton Br. Approach (W)
+08:32 2G23 Enters at Stafford Link
+08:32 2T20 Arrives & departs Bescot Stadium
+08:33 1A33 Passes New Street Approach (NW)
+08:33 2K14 Arrives & departs Small Heath
+08:33 2V37 Passes Kings Norton Approach (NE)
+08:33 2M75 Arrives & departs Lea Hall
+08:33 2M77 Arrives at Birmingham New Street
+08:33 2M76 Arrives & departs Sandwell & Dudley
+08:33 2M78 Arrives at Birmingham New Street
+08:33 2G23 Arrives & departs Bescot Stadium
+08:33 2T20 Exits railway at Stafford Link
+08:33 2P49 Arrives & departs Selly Oak
+08:33 2P49 Arrives & departs Sutton Coldfield
+08:33 2P48 Arrives & departs Five Ways
+08:34 2F38 Enters at Worcester Link
+08:34 2M76 Exits railway at Wolverhampton Link
+08:35 1A35 Passes New Street Approach (NW)
+08:35 2J15 Arrives at Snow Hill
+08:35 2A13 Departs from Snow Hill
+08:35 2V37 Exits railway at Worcester Link
+08:35 2F38 Passes Kings Norton Approach (W)
+08:35 2M75 Arrives & departs Marston Green
+08:35 2M80 Enters at Coventry Link
+08:35 2P49 Arrives & departs University
+08:35 2P49 Arrives at Four Oaks
+08:35 2P49 Changes direction at Four Oaks
+08:35 2P48 Arrives & departs University
+08:36 2M75 Exits railway at Coventry Link
+08:36 2M80 Arrives & departs Marston Green
+08:36 2G23 Arrives & departs Tame Bridge Parkway
+08:36 2P49 Passes New Street Approach (SW)
+08:36 2P48 Repeat shuttle service at Four Oaks from  2P49
+08:36 2P49 At Four Oaks forms new service  2P48
+08:37 2K14 Arrives & departs Moor Street
+08:37 2J15 Departs from Snow Hill
+08:37 2F38 Passes New Street Approach (SW)
+08:37 2M77 Departs from Birmingham New Street
+08:37 2M78 Departs from Birmingham New Street
+08:37 2M80 Arrives & departs Lea Hall
+08:37 2G23 Passes Perry Barr Jn. Approach (W)
+08:37 2P48 Departs from Four Oaks
+08:38 1S26 Arrives at Birmingham New Street
+08:38 1A33 Arrives at Birmingham New Street
+08:38 2K14 Passes Snow Hill Approach (E)
+08:38 2A13 Arrives & departs Moor Street
+08:38 2M79 Enters at Wolverhampton Link
+08:38 2P49 Arrives & departs Five Ways
+08:38 2P48 Arrives & departs Selly Oak
+08:39 1S26 Splits from rear at Birmingham New Street to form 1S28
+08:39 1S28 New service at Birmingham New Street split from 1S26
+08:39 2M79 Arrives & departs Sandwell & Dudley
+08:39 2M80 Arrives & departs Stechford
+08:39 2P48 Arrives & departs Sutton Coldfield
+08:39 2P48 Passes Kings Norton Approach (NE)
+08:40 1A35 Arrives at Birmingham New Street
+08:40 2K14 Arrives at Snow Hill
+08:40 2J15 Arrives & departs Moor Street
+08:40 2F38 Arrives at Birmingham New Street
+08:40 2M79 Passes Galton Br. Approach (W)
+08:40 2M78 Passes Soho Jn. Approach (E)
+08:40 2G23 Arrives & departs Hamstead
+08:40 2P48 Arrives & departs Bournville
+08:40 7G46 Arrives at Small Heath Up Goods Loop
+08:40 7G46 Terminates at Small Heath Up Goods Loop
+08:41 1A33 At Birmingham New Street joins 1A35
+08:41 1A35 Joined at Birmingham New Street by 1A33
+08:41 2K14 Departs from Snow Hill
+08:41 2M77 Arrives & departs Adderley Park
+08:41 2M80 Arrives & departs Adderley Park
+08:41 2P49 Arrives at Birmingham New Street
+08:42 2M79 Arrives & departs Smethwick Galton Bridge
+08:42 2M80 Passes New Street Approach (NE)
+08:42 2T22 Departs from Birmingham New Street
+08:42 2P48 Arrives & departs Wylde Green
+08:42 2P48 Arrives & departs Kings Norton
+08:43 1S26 Departs from Birmingham New Street
+08:43 2K14 Arrives & departs Jewellery Quarter
+08:43 2A13 Exits railway at Leamington Link
+08:43 2F38 Departs from Birmingham New Street
+08:43 2G23 Arrives & departs Perry Barr
+08:44 2J15 Arrives & departs Small Heath
+08:44 2M79 Arrives & departs Smethwick Rolfe Street
+08:44 2M78 Arrives & departs Smethwick Rolfe Street
+08:44 2P48 Arrives & departs Chester Road
+08:45 1S28 Departs from Birmingham New Street
+08:45 1A35 Departs from Birmingham New Street
+08:45 2M77 Arrives & departs Stechford
+08:45 2G23 Arrives & departs Witton
+08:45 2P49 Departs from Birmingham New Street
+08:45 2P48 Arrives at Kings Norton Loop
+08:45 2P48 Changes direction at Kings Norton Loop
+08:46 2J15 Arrives & departs Tyseley
+08:46 2M79 Passes New Street Approach (NW)
+08:46 2M78 Arrives & departs Smethwick Galton Bridge
+08:46 2G23 Passes Aston Jn. Approach (W)
+08:46 2T22 Arrives & departs Duddeston
+08:46 2P48 Arrives & departs Erdington
+08:47 1S26 Passes Soho Jn. Approach (E)
+08:47 2J15 Exits railway at Leamington Link
+08:47 2P49 Arrives & departs Duddeston
+08:47 2P48 Passes Aston Jn. Approach (N)
+08:48 2K14 Arrives & departs The Hawthorns
+08:48 2M77 Arrives & departs Lea Hall
+08:48 2M79 Arrives at Birmingham New Street
+08:48 2M78 Arrives & departs Sandwell & Dudley
+08:48 2M80 Arrives at Birmingham New Street
+08:48 2G23 Arrives & departs Aston
+08:49 1S28 Passes Soho Jn. Approach (E)
+08:49 2K14 Passes Galton Br. Approach (E)
+08:49 2V39 Enters at Derby Link
+08:49 2F38 Exits railway at Derby Link
+08:49 2M78 Exits railway at Wolverhampton Link
+08:49 2T22 Arrives & departs Aston
+08:49 2P48 Arrives & departs Gravelly Hill
+08:50 2K14 Arrives & departs Smethwick Galton Bridge
+08:50 2G14 Enters at Leamington Link
+08:50 2M77 Arrives & departs Marston Green
+08:50 2M82 Enters at Coventry Link
+08:50 2P49 Arrives & departs Aston
+08:51 1S26 Exits railway at Wolverhampton Link
+08:51 2M77 Exits railway at Coventry Link
+08:51 2M82 Arrives & departs Marston Green
+08:51 2G23 Arrives & departs Duddeston
+08:51 2T22 Arrives & departs Witton
+08:52 2K14 Arrives & departs Langley Green
+08:52 2J15 Enters at Kidderminster Link
+08:52 2M79 Departs from Birmingham New Street
+08:52 2M80 Departs from Birmingham New Street
+08:52 2M82 Arrives & departs Lea Hall
+08:52 2T22 Passes Perry Barr Jn. Approach (E)
+08:52 2P48 Arrives & departs Aston
+08:53 1S28 Exits railway at Wolverhampton Link
+08:53 1A35 Exits railway at Coventry Link
+08:53 2K14 Exits railway at Kidderminster Link
+08:53 2J15 Arrives & departs Langley Green
+08:53 2M81 Enters at Wolverhampton Link
+08:53 2T22 Arrives & departs Perry Barr
+08:54 2J15 Passes Smethwick Approach (W)
+08:54 2M81 Arrives & departs Sandwell & Dudley
+08:54 2M82 Arrives & departs Stechford
+08:54 2P49 Arrives & departs Gravelly Hill
+08:54 2P48 Arrives & departs Duddeston
+08:54 2P48 Departs from Kings Norton Loop
+08:55 2J15 Arrives & departs Smethwick Galton Bridge
+08:55 2G14 Arrives at Moor Street
+08:55 2V39 Arrives at Birmingham New Street
+08:55 2M81 Passes Galton Br. Approach (W)
+08:55 2M80 Passes Soho Jn. Approach (E)
+08:55 3L29 Enters at Freightliner Terminal
+08:56 2G14 Departs from Moor Street
+08:56 2G14 Passes Snow Hill Approach (E)
+08:56 2M79 Arrives & departs Adderley Park
+08:56 2M82 Arrives & departs Adderley Park
+08:56 2T22 Arrives & departs Hamstead
+08:56 2P49 Arrives & departs Erdington
+08:56 2P48 Arrives at Kings Norton
+08:56 2P48 At Kings Norton forms new service 2P49
+08:56 2P49 New service at Kings Norton from 2P48
+08:57 2M81 Arrives & departs Smethwick Galton Bridge
+08:57 2M82 Passes New Street Approach (NE)
+08:58 2J15 Arrives & departs The Hawthorns
+08:58 2G14 Arrives at Snow Hill
+08:58 2G23 Arrives at Birmingham New Street
+08:58 2P49 Arrives & departs Chester Road
+08:58 2P48 Arrives at Birmingham New Street
+08:58 2P49 Departs from Kings Norton
+08:59 2K14 Enters at Leamington Link
+08:59 2G14 Changes direction at Snow Hill
+08:59 2V39 Departs from Birmingham New Street
+08:59 2M81 Arrives & departs Smethwick Rolfe Street
+08:59 2M80 Arrives & departs Smethwick Rolfe Street
+08:59 2G23 Changes direction at Birmingham New Street
+09:00 1S30 Enters at Coventry Link
+09:00 1A37 Enters at Wolverhampton Link
+09:00 1A37 Passes Galton Br. Approach (W)
+09:00 2M79 Arrives & departs Stechford
+09:00 2G23 At Birmingham New Street forms new service 2T24
+09:00 2T22 Arrives & departs Tame Bridge Parkway
+09:00 2T24 New service at Birmingham New Street from 2G23
+09:00 2P49 Arrives & departs Wylde Green
+09:00 2P49 Arrives & departs Bournville
+09:00 7G48 Enters at Nuneaton Link
+09:01 2K14 Arrives & departs Tyseley
+09:01 2J15 Arrives & departs Jewellery Quarter
+09:01 2J15 Passes Snow Hill Approach (W)
+09:01 2G14 At Snow Hill forms new service 2A15
+09:01 2A15 New service at Snow Hill from 2G14
+09:01 2M81 Passes New Street Approach (NW)
+09:01 2M80 Arrives & departs Smethwick Galton Bridge
+09:01 2P48 Departs from Birmingham New Street
+09:02 1S30 Passes New Street Approach (NE)
+09:02 1A39 Enters at Wolverhampton Link
+09:02 1A39 Passes Galton Br. Approach (W)
+09:02 2G25 Enters at Stafford Link
+09:02 2T22 Arrives & departs Bescot Stadium
+09:03 1A37 Passes New Street Approach (NW)
+09:03 2K14 Arrives & departs Small Heath
+09:03 2V39 Passes Kings Norton Approach (NE)
+09:03 2M79 Arrives & departs Lea Hall
+09:03 2M81 Arrives at Birmingham New Street
+09:03 2M80 Arrives & departs Sandwell & Dudley
+09:03 2M82 Arrives at Birmingham New Street
+09:03 2G25 Arrives & departs Bescot Stadium
+09:03 2T22 Exits railway at Stafford Link
+09:03 2P49 Arrives & departs Sutton Coldfield
+09:03 2P48 Arrives & departs Five Ways
+09:03 2P49 Arrives & departs Selly Oak
+09:04 2F40 Enters at Worcester Link
+09:04 2M80 Exits railway at Wolverhampton Link
+09:05 1A39 Passes New Street Approach (NW)
+09:05 2J15 Arrives at Snow Hill
+09:05 2A15 Departs from Snow Hill
+09:05 2V39 Exits railway at Worcester Link
+09:05 2F40 Passes Kings Norton Approach (W)
+09:05 2M79 Arrives & departs Marston Green
+09:05 2M84 Enters at Coventry Link
+09:05 2P49 Arrives at Four Oaks
+09:05 2P49 Changes direction at Four Oaks
+09:05 2P48 Arrives & departs University
+09:05 2P49 Arrives & departs University
+09:06 2M79 Exits railway at Coventry Link
+09:06 2M84 Arrives & departs Marston Green
+09:06 2G25 Arrives & departs Tame Bridge Parkway
+09:06 2P54 Repeat shuttle service at Four Oaks from  2P49
+09:06 2P49 At Four Oaks forms new service  2P54
+09:07 2K14 Arrives & departs Moor Street
+09:07 2J15 Departs from Snow Hill
+09:07 2F40 Passes New Street Approach (SW)
+09:07 2M81 Departs from Birmingham New Street
+09:07 2M82 Departs from Birmingham New Street
+09:07 2M84 Arrives & departs Lea Hall
+09:07 2G25 Passes Perry Barr Jn. Approach (W)
+09:07 2P54 Departs from Four Oaks
+09:08 1S30 Arrives at Birmingham New Street
+09:08 1A37 Arrives at Birmingham New Street
+09:08 2K14 Passes Snow Hill Approach (E)
+09:08 2A15 Arrives & departs Moor Street
+09:08 2M83 Enters at Wolverhampton Link
+09:08 2P48 Arrives & departs Selly Oak
+09:08 2P49 Arrives & departs Five Ways
+09:09 1S30 Splits from rear at Birmingham New Street to form 1S32
+09:09 1S32 New service at Birmingham New Street split from 1S30
+09:09 2M83 Arrives & departs Sandwell & Dudley
+09:09 2M84 Arrives & departs Stechford
+09:09 2P54 Arrives & departs Sutton Coldfield
+09:09 2P48 Passes Kings Norton Approach (NE)
+09:10 1A39 Arrives at Birmingham New Street
+09:10 2K14 Arrives at Snow Hill
+09:10 2J15 Arrives & departs Moor Street
+09:10 2F40 Arrives at Birmingham New Street
+09:10 2M83 Passes Galton Br. Approach (W)
+09:10 2M82 Passes Soho Jn. Approach (E)
+09:10 2G25 Arrives & departs Hamstead
+09:10 2P48 Arrives & departs Bournville
+09:10 3L29 Passes Moseley Tunnel
+09:11 1A37 At Birmingham New Street joins 1A39
+09:11 1A39 Joined at Birmingham New Street by 1A37
+09:11 2K14 Departs from Snow Hill
+09:11 2M81 Arrives & departs Adderley Park
+09:11 2M84 Arrives & departs Adderley Park
+09:11 2P49 Arrives at Birmingham New Street
+09:12 2M83 Arrives & departs Smethwick Galton Bridge
+09:12 2M84 Passes New Street Approach (NE)
+09:12 2T24 Departs from Birmingham New Street
+09:12 2P54 Arrives & departs Wylde Green
+09:12 2P48 Arrives & departs Kings Norton
+09:13 1S30 Departs from Birmingham New Street
+09:13 2K14 Arrives & departs Jewellery Quarter
+09:13 2A15 Exits railway at Leamington Link
+09:13 2F40 Departs from Birmingham New Street
+09:13 2G25 Arrives & departs Perry Barr
+09:14 2J15 Arrives & departs Small Heath
+09:14 2M83 Arrives & departs Smethwick Rolfe Street
+09:14 2M82 Arrives & departs Smethwick Rolfe Street
+09:14 2P54 Arrives & departs Chester Road
+09:15 1S32 Departs from Birmingham New Street
+09:15 1A39 Departs from Birmingham New Street
+09:15 2M81 Arrives & departs Stechford
+09:15 2G25 Arrives & departs Witton
+09:15 2P48 Arrives at Kings Norton Loop
+09:15 2P48 Changes direction at Kings Norton Loop
+09:15 2P49 Departs from Birmingham New Street
+09:16 2J15 Arrives & departs Tyseley
+09:16 2M83 Passes New Street Approach (NW)
+09:16 2M82 Arrives & departs Smethwick Galton Bridge
+09:16 2G25 Passes Aston Jn. Approach (W)
+09:16 2T24 Arrives & departs Duddeston
+09:16 2P54 Arrives & departs Erdington
+09:16 3L29 Passes Kings Norton Approach (SE)
+09:17 1S30 Passes Soho Jn. Approach (E)
+09:17 2J15 Exits railway at Leamington Link
+09:17 2P54 Passes Aston Jn. Approach (N)
+09:17 2P49 Arrives & departs Duddeston
+09:18 2K14 Arrives & departs The Hawthorns
+09:18 2M81 Arrives & departs Lea Hall
+09:18 2M83 Arrives at Birmingham New Street
+09:18 2M82 Arrives & departs Sandwell & Dudley
+09:18 2M84 Arrives at Birmingham New Street
+09:18 2G25 Arrives & departs Aston
+09:19 1S32 Passes Soho Jn. Approach (E)
+09:19 2K14 Passes Galton Br. Approach (E)
+09:19 2V41 Enters at Derby Link
+09:19 2F40 Exits railway at Derby Link
+09:19 2M82 Exits railway at Wolverhampton Link
+09:19 2T24 Arrives & departs Aston
+09:19 2P54 Arrives & departs Gravelly Hill
+09:20 2K14 Arrives & departs Smethwick Galton Bridge
+09:20 2G16 Enters at Leamington Link
+09:20 2M81 Arrives & departs Marston Green
+09:20 2M86 Enters at Coventry Link
+09:20 2P49 Arrives & departs Aston
+09:20 7G48 Passes Washwood Heath Down
+09:20 3L29 Exits railway at Worcester Link
+09:21 1S30 Exits railway at Wolverhampton Link
+09:21 2M81 Exits railway at Coventry Link
+09:21 2M86 Arrives & departs Marston Green
+09:21 2G25 Arrives & departs Duddeston
+09:21 2T24 Arrives & departs Witton
+09:22 2K14 Arrives & departs Langley Green
+09:22 2J15 Enters at Kidderminster Link
+09:22 2M83 Departs from Birmingham New Street
+09:22 2M84 Departs from Birmingham New Street
+09:22 2M86 Arrives & departs Lea Hall
+09:22 2T24 Passes Perry Barr Jn. Approach (E)
+09:22 2P54 Arrives & departs Aston
+09:23 1S32 Exits railway at Wolverhampton Link
+09:23 1A39 Exits railway at Coventry Link
+09:23 2K14 Exits railway at Kidderminster Link
+09:23 2J15 Arrives & departs Langley Green
+09:23 2M85 Enters at Wolverhampton Link
+09:23 2T24 Arrives & departs Perry Barr
+09:24 2J15 Passes Smethwick Approach (W)
+09:24 2M85 Arrives & departs Sandwell & Dudley
+09:24 2M86 Arrives & departs Stechford
+09:24 2P54 Arrives & departs Duddeston
+09:24 2P48 Departs from Kings Norton Loop
+09:24 2P49 Arrives & departs Gravelly Hill
+09:25 2J15 Arrives & departs Smethwick Galton Bridge
+09:25 2G16 Arrives at Moor Street
+09:25 2V41 Arrives at Birmingham New Street
+09:25 2M85 Passes Galton Br. Approach (W)
+09:25 2M84 Passes Soho Jn. Approach (E)
+09:26 2G16 Departs from Moor Street
+09:26 2G16 Passes Snow Hill Approach (E)
+09:26 2M83 Arrives & departs Adderley Park
+09:26 2M86 Arrives & departs Adderley Park
+09:26 2T24 Arrives & departs Hamstead
+09:26 2P48 Arrives at Kings Norton
+09:26 2P48 At Kings Norton forms new service 2P49
+09:26 2P49 New service at Kings Norton from 2P48
+09:26 2P49 Arrives & departs Erdington
+09:27 2M85 Arrives & departs Smethwick Galton Bridge
+09:27 2M86 Passes New Street Approach (NE)
+09:28 2J15 Arrives & departs The Hawthorns
+09:28 2G16 Arrives at Snow Hill
+09:28 2G25 Arrives at Birmingham New Street
+09:28 2P54 Arrives at Birmingham New Street
+09:28 2P49 Departs from Kings Norton
+09:28 2P49 Arrives & departs Chester Road
+09:29 2K14 Enters at Leamington Link
+09:29 2G16 Changes direction at Snow Hill
+09:29 2V41 Departs from Birmingham New Street
+09:29 2M85 Arrives & departs Smethwick Rolfe Street
+09:29 2M84 Arrives & departs Smethwick Rolfe Street
+09:29 2G25 Changes direction at Birmingham New Street
+09:30 1S34 Enters at Coventry Link
+09:30 1A41 Enters at Wolverhampton Link
+09:30 1A41 Passes Galton Br. Approach (W)
+09:30 2M83 Arrives & departs Stechford
+09:30 2G25 At Birmingham New Street forms new service 2T26
+09:30 2T24 Arrives & departs Tame Bridge Parkway
+09:30 2T26 New service at Birmingham New Street from 2G25
+09:30 2P54 Departs from Birmingham New Street
+09:30 2P49 Arrives & departs Bournville
+09:30 2P49 Arrives & departs Wylde Green
+09:30 6H18 Enters at Worcester Link
+09:31 2K14 Arrives & departs Tyseley
+09:31 2J15 Arrives & departs Jewellery Quarter
+09:31 2J15 Passes Snow Hill Approach (W)
+09:31 2G16 At Snow Hill forms new service 2A17
+09:31 2A17 New service at Snow Hill from 2G16
+09:31 2M85 Passes New Street Approach (NW)
+09:31 2M84 Arrives & departs Smethwick Galton Bridge
+09:32 1S34 Passes New Street Approach (NE)
+09:32 1A43 Enters at Wolverhampton Link
+09:32 1A43 Passes Galton Br. Approach (W)
+09:32 2G27 Enters at Stafford Link
+09:32 2T24 Arrives & departs Bescot Stadium
+09:33 1A41 Passes New Street Approach (NW)
+09:33 2K14 Arrives & departs Small Heath
+09:33 2V41 Passes Kings Norton Approach (NE)
+09:33 2M83 Arrives & departs Lea Hall
+09:33 2M85 Arrives at Birmingham New Street
+09:33 2M84 Arrives & departs Sandwell & Dudley
+09:33 2M86 Arrives at Birmingham New Street
+09:33 2G27 Arrives & departs Bescot Stadium
+09:33 2T24 Exits railway at Stafford Link
+09:33 2P54 Arrives & departs Five Ways
+09:33 2P49 Arrives & departs Selly Oak
+09:33 2P49 Arrives & departs Sutton Coldfield
+09:34 2F42 Enters at Worcester Link
+09:34 2M84 Exits railway at Wolverhampton Link
+09:35 1A43 Passes New Street Approach (NW)
+09:35 2J15 Arrives at Snow Hill
+09:35 2A17 Departs from Snow Hill
+09:35 2V41 Exits railway at Worcester Link
+09:35 2F42 Passes Kings Norton Approach (W)
+09:35 2M83 Arrives & departs Marston Green
+09:35 2M88 Enters at Coventry Link
+09:35 2P54 Arrives & departs University
+09:35 2P49 Arrives & departs University
+09:35 2P49 Arrives at Four Oaks
+09:35 2P49 Changes direction at Four Oaks
+09:36 2M83 Exits railway at Coventry Link
+09:36 2M88 Arrives & departs Marston Green
+09:36 2G27 Arrives & departs Tame Bridge Parkway
+09:36 2P48 Repeat shuttle service at Four Oaks from  2P49
+09:36 2P49 At Four Oaks forms new service  2P48
+09:37 2K14 Arrives & departs Moor Street
+09:37 2J15 Departs from Snow Hill
+09:37 2F42 Passes New Street Approach (SW)
+09:37 2M85 Departs from Birmingham New Street
+09:37 2M86 Departs from Birmingham New Street
+09:37 2M88 Arrives & departs Lea Hall
+09:37 2G27 Passes Perry Barr Jn. Approach (W)
+09:37 2P48 Departs from Four Oaks
+09:38 1S34 Arrives at Birmingham New Street
+09:38 1A41 Arrives at Birmingham New Street
+09:38 2K14 Passes Snow Hill Approach (E)
+09:38 2A17 Arrives & departs Moor Street
+09:38 2M87 Enters at Wolverhampton Link
+09:38 2P54 Arrives & departs Selly Oak
+09:38 2P49 Arrives & departs Five Ways
+09:39 1S34 Splits from rear at Birmingham New Street to form 1S36
+09:39 1S36 New service at Birmingham New Street split from 1S34
+09:39 2M87 Arrives & departs Sandwell & Dudley
+09:39 2M88 Arrives & departs Stechford
+09:39 2P54 Passes Kings Norton Approach (NE)
+09:39 2P48 Arrives & departs Sutton Coldfield
+09:40 1A43 Arrives at Birmingham New Street
+09:40 2K14 Arrives at Snow Hill
+09:40 2J15 Arrives & departs Moor Street
+09:40 2F42 Arrives at Birmingham New Street
+09:40 2M87 Passes Galton Br. Approach (W)
+09:40 2M86 Passes Soho Jn. Approach (E)
+09:40 2G27 Arrives & departs Hamstead
+09:40 2P54 Arrives & departs Bournville
+09:40 7G48 Arrives at Small Heath Up Goods Loop
+09:40 7G48 Terminates at Small Heath Up Goods Loop
+09:41 1A41 At Birmingham New Street joins 1A43
+09:41 1A43 Joined at Birmingham New Street by 1A41
+09:41 2K14 Departs from Snow Hill
+09:41 2M85 Arrives & departs Adderley Park
+09:41 2M88 Arrives & departs Adderley Park
+09:41 2P49 Arrives at Birmingham New Street
+09:42 2M87 Arrives & departs Smethwick Galton Bridge
+09:42 2M88 Passes New Street Approach (NE)
+09:42 2T26 Departs from Birmingham New Street
+09:42 2P54 Arrives & departs Kings Norton
+09:42 2P48 Arrives & departs Wylde Green
+09:43 1S34 Departs from Birmingham New Street
+09:43 2K14 Arrives & departs Jewellery Quarter
+09:43 2A17 Exits railway at Leamington Link
+09:43 2F42 Departs from Birmingham New Street
+09:43 2G27 Arrives & departs Perry Barr
+09:44 2J15 Arrives & departs Small Heath
+09:44 2M87 Arrives & departs Smethwick Rolfe Street
+09:44 2M86 Arrives & departs Smethwick Rolfe Street
+09:44 2P48 Arrives & departs Chester Road
+09:45 1S36 Departs from Birmingham New Street
+09:45 1A43 Departs from Birmingham New Street
+09:45 2M85 Arrives & departs Stechford
+09:45 2G27 Arrives & departs Witton
+09:45 2P54 Arrives at Kings Norton Loop
+09:45 2P54 Changes direction at Kings Norton Loop
+09:45 2P49 Departs from Birmingham New Street
+09:45 6H18 Passes Moseley Tunnel
+09:46 2J15 Arrives & departs Tyseley
+09:46 2M87 Passes New Street Approach (NW)
+09:46 2M86 Arrives & departs Smethwick Galton Bridge
+09:46 2G27 Passes Aston Jn. Approach (W)
+09:46 2T26 Arrives & departs Duddeston
+09:46 2P48 Arrives & departs Erdington
+09:47 1S34 Passes Soho Jn. Approach (E)
+09:47 2J15 Exits railway at Leamington Link
+09:47 2P49 Arrives & departs Duddeston
+09:47 2P48 Passes Aston Jn. Approach (N)
+09:48 2K14 Arrives & departs The Hawthorns
+09:48 2M85 Arrives & departs Lea Hall
+09:48 2M87 Arrives at Birmingham New Street
+09:48 2M86 Arrives & departs Sandwell & Dudley
+09:48 2M88 Arrives at Birmingham New Street
+09:48 2G27 Arrives & departs Aston
+09:49 1S36 Passes Soho Jn. Approach (E)
+09:49 2K14 Passes Galton Br. Approach (E)
+09:49 2V43 Enters at Derby Link
+09:49 2F42 Exits railway at Derby Link
+09:49 2M86 Exits railway at Wolverhampton Link
+09:49 2T26 Arrives & departs Aston
+09:49 2P48 Arrives & departs Gravelly Hill
+09:50 2K14 Arrives & departs Smethwick Galton Bridge
+09:50 2G18 Enters at Leamington Link
+09:50 2M85 Arrives & departs Marston Green
+09:50 2M90 Enters at Coventry Link
+09:50 2P49 Arrives & departs Aston
+09:51 1S34 Exits railway at Wolverhampton Link
+09:51 2M85 Exits railway at Coventry Link
+09:51 2M90 Arrives & departs Marston Green
+09:51 2G27 Arrives & departs Duddeston
+09:51 2T26 Arrives & departs Witton
+09:52 2K14 Arrives & departs Langley Green
+09:52 2J15 Enters at Kidderminster Link
+09:52 2M87 Departs from Birmingham New Street
+09:52 2M88 Departs from Birmingham New Street
+09:52 2M90 Arrives & departs Lea Hall
+09:52 2T26 Passes Perry Barr Jn. Approach (E)
+09:52 2P48 Arrives & departs Aston
+09:53 1S36 Exits railway at Wolverhampton Link
+09:53 1A43 Exits railway at Coventry Link
+09:53 2K14 Exits railway at Kidderminster Link
+09:53 2J15 Arrives & departs Langley Green
+09:53 2M89 Enters at Wolverhampton Link
+09:53 2T26 Arrives & departs Perry Barr
+09:54 2J15 Passes Smethwick Approach (W)
+09:54 2M89 Arrives & departs Sandwell & Dudley
+09:54 2M90 Arrives & departs Stechford
+09:54 2P54 Departs from Kings Norton Loop
+09:54 2P49 Arrives & departs Gravelly Hill
+09:54 2P48 Arrives & departs Duddeston
+09:55 2J15 Arrives & departs Smethwick Galton Bridge
+09:55 2G18 Arrives at Moor Street
+09:55 2V43 Arrives at Birmingham New Street
+09:55 2M89 Passes Galton Br. Approach (W)
+09:55 2M88 Passes Soho Jn. Approach (E)
+09:56 2G18 Departs from Moor Street
+09:56 2G18 Passes Snow Hill Approach (E)
+09:56 2M87 Arrives & departs Adderley Park
+09:56 2M90 Arrives & departs Adderley Park
+09:56 2T26 Arrives & departs Hamstead
+09:56 2P54 Arrives at Kings Norton
+09:56 2P54 At Kings Norton forms new service 2P55
+09:56 2P55 New service at Kings Norton from 2P54
+09:56 2P49 Arrives & departs Erdington
+09:57 2M89 Arrives & departs Smethwick Galton Bridge
+09:57 2M90 Passes New Street Approach (NE)
+09:58 2J15 Arrives & departs The Hawthorns
+09:58 2G18 Arrives at Snow Hill
+09:58 2G27 Arrives at Birmingham New Street
+09:58 2P55 Departs from Kings Norton
+09:58 2P49 Arrives & departs Chester Road
+09:58 2P48 Arrives at Birmingham New Street
+09:59 2K14 Enters at Leamington Link
+09:59 2G18 Changes direction at Snow Hill
+09:59 2V43 Departs from Birmingham New Street
+09:59 2M89 Arrives & departs Smethwick Rolfe Street
+09:59 2M88 Arrives & departs Smethwick Rolfe Street
+09:59 2G27 Changes direction at Birmingham New Street
+10:00 1S38 Enters at Coventry Link
+10:00 1A45 Enters at Wolverhampton Link
+10:00 1A45 Passes Galton Br. Approach (W)
+10:00 2M87 Arrives & departs Stechford
+10:00 2G27 At Birmingham New Street forms new service 2T28
+10:00 2T26 Arrives & departs Tame Bridge Parkway
+10:00 2T28 New service at Birmingham New Street from 2G27
+10:00 2P55 Arrives & departs Bournville
+10:00 2P49 Arrives & departs Wylde Green
+10:00 2P48 Departs from Birmingham New Street
+10:00 7G50 Enters at Nuneaton Link
+10:00 6H18 Exits railway at Derby Link
+10:01 2K14 Arrives & departs Tyseley
+10:01 2J15 Arrives & departs Jewellery Quarter
+10:01 2J15 Passes Snow Hill Approach (W)
+10:01 2G18 At Snow Hill forms new service 2A19
+10:01 2A19 New service at Snow Hill from 2G18
+10:01 2M89 Passes New Street Approach (NW)
+10:01 2M88 Arrives & departs Smethwick Galton Bridge
+10:02 1S38 Passes New Street Approach (NE)
+10:02 1A47 Enters at Wolverhampton Link
+10:02 1A47 Passes Galton Br. Approach (W)
+10:02 2G29 Enters at Stafford Link
+10:02 2T26 Arrives & departs Bescot Stadium
+10:03 1A45 Passes New Street Approach (NW)
+10:03 2K14 Arrives & departs Small Heath
+10:03 2V43 Passes Kings Norton Approach (NE)
+10:03 2M87 Arrives & departs Lea Hall
+10:03 2M89 Arrives at Birmingham New Street
+10:03 2M88 Arrives & departs Sandwell & Dudley
+10:03 2M90 Arrives at Birmingham New Street
+10:03 2G29 Arrives & departs Bescot Stadium
+10:03 2T26 Exits railway at Stafford Link
+10:03 2P55 Arrives & departs Selly Oak
+10:03 2P49 Arrives & departs Sutton Coldfield
+10:03 2P48 Arrives & departs Five Ways
+10:04 2F44 Enters at Worcester Link
+10:04 2M88 Exits railway at Wolverhampton Link
+10:05 1A47 Passes New Street Approach (NW)
+10:05 2J15 Arrives at Snow Hill
+10:05 2A19 Departs from Snow Hill
+10:05 2V43 Exits railway at Worcester Link
+10:05 2F44 Passes Kings Norton Approach (W)
+10:05 2M87 Arrives & departs Marston Green
+10:05 2M92 Enters at Coventry Link
+10:05 2P55 Arrives & departs University
+10:05 2P49 Arrives at Four Oaks
+10:05 2P49 Changes direction at Four Oaks
+10:05 2P48 Arrives & departs University
+10:06 2M87 Exits railway at Coventry Link
+10:06 2M92 Arrives & departs Marston Green
+10:06 2G29 Arrives & departs Tame Bridge Parkway
+10:06 2P55 Passes New Street Approach (SW)
+10:06 2P48 Repeat shuttle service at Four Oaks from  2P49
+10:06 2P49 At Four Oaks forms new service  2P48
+10:07 2K14 Arrives & departs Moor Street
+10:07 2J15 Departs from Snow Hill
+10:07 2F44 Passes New Street Approach (SW)
+10:07 2M89 Departs from Birmingham New Street
+10:07 2M90 Departs from Birmingham New Street
+10:07 2M92 Arrives & departs Lea Hall
+10:07 2G29 Passes Perry Barr Jn. Approach (W)
+10:07 2P48 Departs from Four Oaks
+10:08 1S38 Arrives at Birmingham New Street
+10:08 1A45 Arrives at Birmingham New Street
+10:08 2K14 Passes Snow Hill Approach (E)
+10:08 2A19 Arrives & departs Moor Street
+10:08 2M91 Enters at Wolverhampton Link
+10:08 2P55 Arrives & departs Five Ways
+10:08 2P48 Arrives & departs Selly Oak
+10:09 1S38 Splits from rear at Birmingham New Street to form 1S40
+10:09 1S40 New service at Birmingham New Street split from 1S38
+10:09 2M91 Arrives & departs Sandwell & Dudley
+10:09 2M92 Arrives & departs Stechford
+10:09 2P48 Arrives & departs Sutton Coldfield
+10:09 2P48 Passes Kings Norton Approach (NE)
+10:10 1A47 Arrives at Birmingham New Street
+10:10 2K14 Arrives at Snow Hill
+10:10 2J15 Arrives & departs Moor Street
+10:10 2F44 Arrives at Birmingham New Street
+10:10 2M91 Passes Galton Br. Approach (W)
+10:10 2M90 Passes Soho Jn. Approach (E)
+10:10 2G29 Arrives & departs Hamstead
+10:10 2P48 Arrives & departs Bournville
+10:11 1A45 At Birmingham New Street joins 1A47
+10:11 1A47 Joined at Birmingham New Street by 1A45
+10:11 2K14 Departs from Snow Hill
+10:11 2M89 Arrives & departs Adderley Park
+10:11 2M92 Arrives & departs Adderley Park
+10:11 2P55 Arrives at Birmingham New Street
+10:12 2M91 Arrives & departs Smethwick Galton Bridge
+10:12 2M92 Passes New Street Approach (NE)
+10:12 2T28 Departs from Birmingham New Street
+10:12 2P48 Arrives & departs Wylde Green
+10:12 2P48 Arrives & departs Kings Norton
+10:13 1S38 Departs from Birmingham New Street
+10:13 2K14 Arrives & departs Jewellery Quarter
+10:13 2A19 Exits railway at Leamington Link
+10:13 2F44 Departs from Birmingham New Street
+10:13 2G29 Arrives & departs Perry Barr
+10:14 2J15 Arrives & departs Small Heath
+10:14 2M91 Arrives & departs Smethwick Rolfe Street
+10:14 2M90 Arrives & departs Smethwick Rolfe Street
+10:14 2P48 Arrives & departs Chester Road
+10:15 1S40 Departs from Birmingham New Street
+10:15 1A47 Departs from Birmingham New Street
+10:15 2M89 Arrives & departs Stechford
+10:15 2G29 Arrives & departs Witton
+10:15 2P55 Departs from Birmingham New Street
+10:15 2P48 Arrives at Kings Norton Loop
+10:15 2P48 Changes direction at Kings Norton Loop
+10:16 2J15 Arrives & departs Tyseley
+10:16 2M91 Passes New Street Approach (NW)
+10:16 2M90 Arrives & departs Smethwick Galton Bridge
+10:16 2G29 Passes Aston Jn. Approach (W)
+10:16 2T28 Arrives & departs Duddeston
+10:16 2P48 Arrives & departs Erdington
+10:17 1S38 Passes Soho Jn. Approach (E)
+10:17 2J15 Exits railway at Leamington Link
+10:17 2P55 Arrives & departs Duddeston
+10:17 2P48 Passes Aston Jn. Approach (N)
+10:18 2K14 Arrives & departs The Hawthorns
+10:18 2M89 Arrives & departs Lea Hall
+10:18 2M91 Arrives at Birmingham New Street
+10:18 2M90 Arrives & departs Sandwell & Dudley
+10:18 2M92 Arrives at Birmingham New Street
+10:18 2G29 Arrives & departs Aston
+10:19 1S40 Passes Soho Jn. Approach (E)
+10:19 2K14 Passes Galton Br. Approach (E)
+10:19 2V45 Enters at Derby Link
+10:19 2F44 Exits railway at Derby Link
+10:19 2M90 Exits railway at Wolverhampton Link
+10:19 2T28 Arrives & departs Aston
+10:19 2P48 Arrives & departs Gravelly Hill
+10:20 2K14 Arrives & departs Smethwick Galton Bridge
+10:20 2G20 Enters at Leamington Link
+10:20 2M89 Arrives & departs Marston Green
+10:20 2M94 Enters at Coventry Link
+10:20 2P55 Arrives & departs Aston
+10:20 7G50 Passes Washwood Heath Down
+10:21 1S38 Exits railway at Wolverhampton Link
+10:21 2M89 Exits railway at Coventry Link
+10:21 2M94 Arrives & departs Marston Green
+10:21 2G29 Arrives & departs Duddeston
+10:21 2T28 Arrives & departs Witton
+10:22 2K14 Arrives & departs Langley Green
+10:22 2J15 Enters at Kidderminster Link
+10:22 2M91 Departs from Birmingham New Street
+10:22 2M92 Departs from Birmingham New Street
+10:22 2M94 Arrives & departs Lea Hall
+10:22 2T28 Passes Perry Barr Jn. Approach (E)
+10:22 2P48 Arrives & departs Aston
+10:23 1S40 Exits railway at Wolverhampton Link
+10:23 1A47 Exits railway at Coventry Link
+10:23 2K14 Exits railway at Kidderminster Link
+10:23 2J15 Arrives & departs Langley Green
+10:23 2M93 Enters at Wolverhampton Link
+10:23 2T28 Arrives & departs Perry Barr
+10:24 2J15 Passes Smethwick Approach (W)
+10:24 2M93 Arrives & departs Sandwell & Dudley
+10:24 2M94 Arrives & departs Stechford
+10:24 2P55 Arrives & departs Gravelly Hill
+10:24 2P48 Arrives & departs Duddeston
+10:24 2P48 Departs from Kings Norton Loop
+10:25 2J15 Arrives & departs Smethwick Galton Bridge
+10:25 2G20 Arrives at Moor Street
+10:25 2V45 Arrives at Birmingham New Street
+10:25 2M93 Passes Galton Br. Approach (W)
+10:25 2M92 Passes Soho Jn. Approach (E)
+10:25 3L31 Enters at Freightliner Terminal
+10:26 2G20 Departs from Moor Street
+10:26 2G20 Passes Snow Hill Approach (E)
+10:26 2M91 Arrives & departs Adderley Park
+10:26 2M94 Arrives & departs Adderley Park
+10:26 2T28 Arrives & departs Hamstead
+10:26 2P55 Arrives & departs Erdington
+10:26 2P48 Arrives at Kings Norton
+10:26 2P48 At Kings Norton forms new service 2P49
+10:26 2P49 New service at Kings Norton from 2P48
+10:27 2M93 Arrives & departs Smethwick Galton Bridge
+10:27 2M94 Passes New Street Approach (NE)
+10:28 2J15 Arrives & departs The Hawthorns
+10:28 2G20 Arrives at Snow Hill
+10:28 2G29 Arrives at Birmingham New Street
+10:28 2P55 Arrives & departs Chester Road
+10:28 2P48 Arrives at Birmingham New Street
+10:28 2P49 Departs from Kings Norton
+10:29 2K14 Enters at Leamington Link
+10:29 2G20 Changes direction at Snow Hill
+10:29 2V45 Departs from Birmingham New Street
+10:29 2M93 Arrives & departs Smethwick Rolfe Street
+10:29 2M92 Arrives & departs Smethwick Rolfe Street
+10:29 2G29 Changes direction at Birmingham New Street
+10:30 1S42 Enters at Coventry Link
+10:30 1A49 Enters at Wolverhampton Link
+10:30 1A49 Passes Galton Br. Approach (W)
+10:30 2M91 Arrives & departs Stechford
+10:30 2G29 At Birmingham New Street forms new service 2T30
+10:30 2T28 Arrives & departs Tame Bridge Parkway
+10:30 2T30 New service at Birmingham New Street from 2G29
+10:30 2P55 Arrives & departs Wylde Green
+10:30 2P49 Arrives & departs Bournville
+10:31 2K14 Arrives & departs Tyseley
+10:31 2J15 Arrives & departs Jewellery Quarter
+10:31 2J15 Passes Snow Hill Approach (W)
+10:31 2G20 At Snow Hill forms new service 2A21
+10:31 2A21 New service at Snow Hill from 2G20
+10:31 2M93 Passes New Street Approach (NW)
+10:31 2M92 Arrives & departs Smethwick Galton Bridge
+10:31 2P48 Departs from Birmingham New Street
+10:32 1S42 Passes New Street Approach (NE)
+10:32 1A51 Enters at Wolverhampton Link
+10:32 1A51 Passes Galton Br. Approach (W)
+10:32 2G31 Enters at Stafford Link
+10:32 2T28 Arrives & departs Bescot Stadium
+10:33 1A49 Passes New Street Approach (NW)
+10:33 2K14 Arrives & departs Small Heath
+10:33 2V45 Passes Kings Norton Approach (NE)
+10:33 2M91 Arrives & departs Lea Hall
+10:33 2M93 Arrives at Birmingham New Street
+10:33 2M92 Arrives & departs Sandwell & Dudley
+10:33 2M94 Arrives at Birmingham New Street
+10:33 2G31 Arrives & departs Bescot Stadium
+10:33 2T28 Exits railway at Stafford Link
+10:33 2P55 Arrives & departs Sutton Coldfield
+10:33 2P48 Arrives & departs Five Ways
+10:33 2P49 Arrives & departs Selly Oak
+10:34 2F46 Enters at Worcester Link
+10:34 2M92 Exits railway at Wolverhampton Link
+10:35 1A51 Passes New Street Approach (NW)
+10:35 2J15 Arrives at Snow Hill
+10:35 2A21 Departs from Snow Hill
+10:35 2V45 Exits railway at Worcester Link
+10:35 2F46 Passes Kings Norton Approach (W)
+10:35 2M91 Arrives & departs Marston Green
+10:35 2M96 Enters at Coventry Link
+10:35 2P55 Arrives at Four Oaks
+10:35 2P55 Changes direction at Four Oaks
+10:35 2P48 Arrives & departs University
+10:35 2P49 Arrives & departs University
+10:36 2M91 Exits railway at Coventry Link
+10:36 2M96 Arrives & departs Marston Green
+10:36 2G31 Arrives & departs Tame Bridge Parkway
+10:36 2P60 Repeat shuttle service at Four Oaks from  2P55
+10:36 2P55 At Four Oaks forms new service  2P60
+10:37 2K14 Arrives & departs Moor Street
+10:37 2J15 Departs from Snow Hill
+10:37 2F46 Passes New Street Approach (SW)
+10:37 2M93 Departs from Birmingham New Street
+10:37 2M94 Departs from Birmingham New Street
+10:37 2M96 Arrives & departs Lea Hall
+10:37 2G31 Passes Perry Barr Jn. Approach (W)
+10:37 2P60 Departs from Four Oaks
+10:38 1S42 Arrives at Birmingham New Street
+10:38 1A49 Arrives at Birmingham New Street
+10:38 2K14 Passes Snow Hill Approach (E)
+10:38 2A21 Arrives & departs Moor Street
+10:38 2M95 Enters at Wolverhampton Link
+10:38 2P48 Arrives & departs Selly Oak
+10:38 2P49 Arrives & departs Five Ways
+10:39 1S42 Splits from rear at Birmingham New Street to form 1S44
+10:39 1S44 New service at Birmingham New Street split from 1S42
+10:39 2M95 Arrives & departs Sandwell & Dudley
+10:39 2M96 Arrives & departs Stechford
+10:39 2P60 Arrives & departs Sutton Coldfield
+10:39 2P48 Passes Kings Norton Approach (NE)
+10:40 1A51 Arrives at Birmingham New Street
+10:40 2K14 Arrives at Snow Hill
+10:40 2J15 Arrives & departs Moor Street
+10:40 2F46 Arrives at Birmingham New Street
+10:40 2M95 Passes Galton Br. Approach (W)
+10:40 2M94 Passes Soho Jn. Approach (E)
+10:40 2G31 Arrives & departs Hamstead
+10:40 2P48 Arrives & departs Bournville
+10:40 7G50 Arrives at Small Heath Up Goods Loop
+10:40 7G50 Terminates at Small Heath Up Goods Loop
+10:40 3L31 Passes Moseley Tunnel
+10:41 1A49 At Birmingham New Street joins 1A51
+10:41 1A51 Joined at Birmingham New Street by 1A49
+10:41 2K14 Departs from Snow Hill
+10:41 2M93 Arrives & departs Adderley Park
+10:41 2M96 Arrives & departs Adderley Park
+10:41 2P49 Arrives at Birmingham New Street
+10:42 2M95 Arrives & departs Smethwick Galton Bridge
+10:42 2M96 Passes New Street Approach (NE)
+10:42 2T30 Departs from Birmingham New Street
+10:42 2P60 Arrives & departs Wylde Green
+10:42 2P48 Arrives & departs Kings Norton
+10:43 1S42 Departs from Birmingham New Street
+10:43 2K14 Arrives & departs Jewellery Quarter
+10:43 2A21 Exits railway at Leamington Link
+10:43 2F46 Departs from Birmingham New Street
+10:43 2G31 Arrives & departs Perry Barr
+10:44 2J15 Arrives & departs Small Heath
+10:44 2M95 Arrives & departs Smethwick Rolfe Street
+10:44 2M94 Arrives & departs Smethwick Rolfe Street
+10:44 2P60 Arrives & departs Chester Road
+10:45 1S44 Departs from Birmingham New Street
+10:45 1A51 Departs from Birmingham New Street
+10:45 2M93 Arrives & departs Stechford
+10:45 2G31 Arrives & departs Witton
+10:45 2P48 Arrives at Kings Norton Loop
+10:45 2P48 Changes direction at Kings Norton Loop
+10:45 2P49 Departs from Birmingham New Street
+10:46 2J15 Arrives & departs Tyseley
+10:46 2M95 Passes New Street Approach (NW)
+10:46 2M94 Arrives & departs Smethwick Galton Bridge
+10:46 2G31 Passes Aston Jn. Approach (W)
+10:46 2T30 Arrives & departs Duddeston
+10:46 2P60 Arrives & departs Erdington
+10:46 3L31 Passes Kings Norton Approach (SE)
+10:47 1S42 Passes Soho Jn. Approach (E)
+10:47 2J15 Exits railway at Leamington Link
+10:47 2P60 Passes Aston Jn. Approach (N)
+10:47 2P49 Arrives & departs Duddeston
+10:48 2K14 Arrives & departs The Hawthorns
+10:48 2M93 Arrives & departs Lea Hall
+10:48 2M95 Arrives at Birmingham New Street
+10:48 2M94 Arrives & departs Sandwell & Dudley
+10:48 2M96 Arrives at Birmingham New Street
+10:48 2G31 Arrives & departs Aston
+10:49 1S44 Passes Soho Jn. Approach (E)
+10:49 2K14 Passes Galton Br. Approach (E)
+10:49 2V47 Enters at Derby Link
+10:49 2F46 Exits railway at Derby Link
+10:49 2M94 Exits railway at Wolverhampton Link
+10:49 2T30 Arrives & departs Aston
+10:49 2P60 Arrives & departs Gravelly Hill
+10:50 2K14 Arrives & departs Smethwick Galton Bridge
+10:50 2G22 Enters at Leamington Link
+10:50 2M93 Arrives & departs Marston Green
+10:50 2M98 Enters at Coventry Link
+10:50 2P49 Arrives & departs Aston
+10:50 3L31 Exits railway at Worcester Link
+10:51 1S42 Exits railway at Wolverhampton Link
+10:51 2M93 Exits railway at Coventry Link
+10:51 2M98 Arrives & departs Marston Green
+10:51 2G31 Arrives & departs Duddeston
+10:51 2T30 Arrives & departs Witton
+10:52 2K14 Arrives & departs Langley Green
+10:52 2J15 Enters at Kidderminster Link
+10:52 2M95 Departs from Birmingham New Street
+10:52 2M96 Departs from Birmingham New Street
+10:52 2M98 Arrives & departs Lea Hall
+10:52 2T30 Passes Perry Barr Jn. Approach (E)
+10:52 2P60 Arrives & departs Aston
+10:53 1S44 Exits railway at Wolverhampton Link
+10:53 1A51 Exits railway at Coventry Link
+10:53 2K14 Exits railway at Kidderminster Link
+10:53 2J15 Arrives & departs Langley Green
+10:53 2M97 Enters at Wolverhampton Link
+10:53 2T30 Arrives & departs Perry Barr
+10:54 2J15 Passes Smethwick Approach (W)
+10:54 2M97 Arrives & departs Sandwell & Dudley
+10:54 2M98 Arrives & departs Stechford
+10:54 2P60 Arrives & departs Duddeston
+10:54 2P48 Departs from Kings Norton Loop
+10:54 2P49 Arrives & departs Gravelly Hill
+10:55 2J15 Arrives & departs Smethwick Galton Bridge
+10:55 2G22 Arrives at Moor Street
+10:55 2V47 Arrives at Birmingham New Street
+10:55 2M97 Passes Galton Br. Approach (W)
+10:55 2M96 Passes Soho Jn. Approach (E)
+10:56 2G22 Departs from Moor Street
+10:56 2G22 Passes Snow Hill Approach (E)
+10:56 2M95 Arrives & departs Adderley Park
+10:56 2M98 Arrives & departs Adderley Park
+10:56 2T30 Arrives & departs Hamstead
+10:56 2P48 Arrives at Kings Norton
+10:56 2P48 At Kings Norton forms new service 2P49
+10:56 2P49 New service at Kings Norton from 2P48
+10:56 2P49 Arrives & departs Erdington
+10:57 2M97 Arrives & departs Smethwick Galton Bridge
+10:57 2M98 Passes New Street Approach (NE)
+10:58 2J15 Arrives & departs The Hawthorns
+10:58 2G22 Arrives at Snow Hill
+10:58 2G31 Arrives at Birmingham New Street
+10:58 2P60 Arrives at Birmingham New Street
+10:58 2P49 Departs from Kings Norton
+10:58 2P49 Arrives & departs Chester Road
+10:59 2K14 Enters at Leamington Link
+10:59 2G22 Changes direction at Snow Hill
+10:59 2V47 Departs from Birmingham New Street
+10:59 2M97 Arrives & departs Smethwick Rolfe Street
+10:59 2M96 Arrives & departs Smethwick Rolfe Street
+10:59 2G31 Changes direction at Birmingham New Street
+11:00 1S46 Enters at Coventry Link
+11:00 1A53 Enters at Wolverhampton Link
+11:00 1A53 Passes Galton Br. Approach (W)
+11:00 2M95 Arrives & departs Stechford
+11:00 2G31 At Birmingham New Street forms new service 2T32
+11:00 2T30 Arrives & departs Tame Bridge Parkway
+11:00 2T32 New service at Birmingham New Street from 2G31
+11:00 2P60 Departs from Birmingham New Street
+11:00 2P49 Arrives & departs Bournville
+11:00 2P49 Arrives & departs Wylde Green
+11:00 7G52 Enters at Nuneaton Link
+11:01 2K14 Arrives & departs Tyseley
+11:01 2J15 Arrives & departs Jewellery Quarter
+11:01 2J15 Passes Snow Hill Approach (W)
+11:01 2G22 At Snow Hill forms new service 2A23
+11:01 2A23 New service at Snow Hill from 2G22
+11:01 2M97 Passes New Street Approach (NW)
+11:01 2M96 Arrives & departs Smethwick Galton Bridge
+11:02 1S46 Passes New Street Approach (NE)
+11:02 1A55 Enters at Wolverhampton Link
+11:02 1A55 Passes Galton Br. Approach (W)
+11:02 2G33 Enters at Stafford Link
+11:02 2T30 Arrives & departs Bescot Stadium
+11:03 1A53 Passes New Street Approach (NW)
+11:03 2K14 Arrives & departs Small Heath
+11:03 2V47 Passes Kings Norton Approach (NE)
+11:03 2M95 Arrives & departs Lea Hall
+11:03 2M97 Arrives at Birmingham New Street
+11:03 2M96 Arrives & departs Sandwell & Dudley
+11:03 2M98 Arrives at Birmingham New Street
+11:03 2G33 Arrives & departs Bescot Stadium
+11:03 2T30 Exits railway at Stafford Link
+11:03 2P60 Arrives & departs Five Ways
+11:03 2P49 Arrives & departs Selly Oak
+11:03 2P49 Arrives & departs Sutton Coldfield
+11:04 2F48 Enters at Worcester Link
+11:04 2M96 Exits railway at Wolverhampton Link
+11:05 1A55 Passes New Street Approach (NW)
+11:05 2J15 Arrives at Snow Hill
+11:05 2A23 Departs from Snow Hill
+11:05 2V47 Exits railway at Worcester Link
+11:05 2F48 Passes Kings Norton Approach (W)
+11:05 2M95 Arrives & departs Marston Green
+11:05 2M00 Enters at Coventry Link
+11:05 2P60 Arrives & departs University
+11:05 2P49 Arrives & departs University
+11:05 2P49 Arrives at Four Oaks
+11:05 2P49 Changes direction at Four Oaks
+11:06 2M95 Exits railway at Coventry Link
+11:06 2M00 Arrives & departs Marston Green
+11:06 2G33 Arrives & departs Tame Bridge Parkway
+11:06 2P48 Repeat shuttle service at Four Oaks from  2P49
+11:06 2P49 At Four Oaks forms new service  2P48
+11:07 2K14 Arrives & departs Moor Street
+11:07 2J15 Departs from Snow Hill
+11:07 2F48 Passes New Street Approach (SW)
+11:07 2M97 Departs from Birmingham New Street
+11:07 2M98 Departs from Birmingham New Street
+11:07 2M00 Arrives & departs Lea Hall
+11:07 2G33 Passes Perry Barr Jn. Approach (W)
+11:07 2P48 Departs from Four Oaks
+11:08 1S46 Arrives at Birmingham New Street
+11:08 1A53 Arrives at Birmingham New Street
+11:08 2K14 Passes Snow Hill Approach (E)
+11:08 2A23 Arrives & departs Moor Street
+11:08 2M99 Enters at Wolverhampton Link
+11:08 2P60 Arrives & departs Selly Oak
+11:08 2P49 Arrives & departs Five Ways
+11:09 1S46 Splits from rear at Birmingham New Street to form 1S48
+11:09 1S48 New service at Birmingham New Street split from 1S46
+11:09 2M99 Arrives & departs Sandwell & Dudley
+11:09 2M00 Arrives & departs Stechford
+11:09 2P60 Passes Kings Norton Approach (NE)
+11:09 2P48 Arrives & departs Sutton Coldfield
+11:10 1A55 Arrives at Birmingham New Street
+11:10 2K14 Arrives at Snow Hill
+11:10 2J15 Arrives & departs Moor Street
+11:10 2F48 Arrives at Birmingham New Street
+11:10 2M99 Passes Galton Br. Approach (W)
+11:10 2M98 Passes Soho Jn. Approach (E)
+11:10 2G33 Arrives & departs Hamstead
+11:10 2P60 Arrives & departs Bournville
+11:11 1A53 At Birmingham New Street joins 1A55
+11:11 1A55 Joined at Birmingham New Street by 1A53
+11:11 2K14 Departs from Snow Hill
+11:11 2M97 Arrives & departs Adderley Park
+11:11 2M00 Arrives & departs Adderley Park
+11:11 2P49 Arrives at Birmingham New Street
+11:12 2M99 Arrives & departs Smethwick Galton Bridge
+11:12 2M00 Passes New Street Approach (NE)
+11:12 2T32 Departs from Birmingham New Street
+11:12 2P60 Arrives & departs Kings Norton
+11:12 2P48 Arrives & departs Wylde Green
+11:13 1S46 Departs from Birmingham New Street
+11:13 2K14 Arrives & departs Jewellery Quarter
+11:13 2A23 Exits railway at Leamington Link
+11:13 2F48 Departs from Birmingham New Street
+11:13 2G33 Arrives & departs Perry Barr
+11:14 2J15 Arrives & departs Small Heath
+11:14 2M99 Arrives & departs Smethwick Rolfe Street
+11:14 2M98 Arrives & departs Smethwick Rolfe Street
+11:14 2P48 Arrives & departs Chester Road
+11:15 1S48 Departs from Birmingham New Street
+11:15 1A55 Departs from Birmingham New Street
+11:15 2M97 Arrives & departs Stechford
+11:15 2G33 Arrives & departs Witton
+11:15 2P60 Arrives at Kings Norton Loop
+11:15 2P60 Changes direction at Kings Norton Loop
+11:15 2P49 Departs from Birmingham New Street
+11:16 2J15 Arrives & departs Tyseley
+11:16 2M99 Passes New Street Approach (NW)
+11:16 2M98 Arrives & departs Smethwick Galton Bridge
+11:16 2G33 Passes Aston Jn. Approach (W)
+11:16 2T32 Arrives & departs Duddeston
+11:16 2P48 Arrives & departs Erdington
+11:17 1S46 Passes Soho Jn. Approach (E)
+11:17 2J15 Exits railway at Leamington Link
+11:17 2P49 Arrives & departs Duddeston
+11:17 2P48 Passes Aston Jn. Approach (N)
+11:18 2K14 Arrives & departs The Hawthorns
+11:18 2M97 Arrives & departs Lea Hall
+11:18 2M99 Arrives at Birmingham New Street
+11:18 2M98 Arrives & departs Sandwell & Dudley
+11:18 2M00 Arrives at Birmingham New Street
+11:18 2G33 Arrives & departs Aston
+11:19 1S48 Passes Soho Jn. Approach (E)
+11:19 2K14 Passes Galton Br. Approach (E)
+11:19 2V49 Enters at Derby Link
+11:19 2F48 Exits railway at Derby Link
+11:19 2M98 Exits railway at Wolverhampton Link
+11:19 2T32 Arrives & departs Aston
+11:19 2P48 Arrives & departs Gravelly Hill
+11:20 2K14 Arrives & departs Smethwick Galton Bridge
+11:20 2G24 Enters at Leamington Link
+11:20 2M97 Arrives & departs Marston Green
+11:20 2M02 Enters at Coventry Link
+11:20 2P49 Arrives & departs Aston
+11:20 7G52 Passes Washwood Heath Down
+11:21 1S46 Exits railway at Wolverhampton Link
+11:21 2M97 Exits railway at Coventry Link
+11:21 2M02 Arrives & departs Marston Green
+11:21 2G33 Arrives & departs Duddeston
+11:21 2T32 Arrives & departs Witton
+11:22 2K14 Arrives & departs Langley Green
+11:22 2J15 Enters at Kidderminster Link
+11:22 2M99 Departs from Birmingham New Street
+11:22 2M00 Departs from Birmingham New Street
+11:22 2M02 Arrives & departs Lea Hall
+11:22 2T32 Passes Perry Barr Jn. Approach (E)
+11:22 2P48 Arrives & departs Aston
+11:23 1S48 Exits railway at Wolverhampton Link
+11:23 1A55 Exits railway at Coventry Link
+11:23 2K14 Exits railway at Kidderminster Link
+11:23 2J15 Arrives & departs Langley Green
+11:23 2M01 Enters at Wolverhampton Link
+11:23 2T32 Arrives & departs Perry Barr
+11:24 2J15 Passes Smethwick Approach (W)
+11:24 2M01 Arrives & departs Sandwell & Dudley
+11:24 2M02 Arrives & departs Stechford
+11:24 2P60 Departs from Kings Norton Loop
+11:24 2P49 Arrives & departs Gravelly Hill
+11:24 2P48 Arrives & departs Duddeston
+11:25 2J15 Arrives & departs Smethwick Galton Bridge
+11:25 2G24 Arrives at Moor Street
+11:25 2V49 Arrives at Birmingham New Street
+11:25 2M01 Passes Galton Br. Approach (W)
+11:25 2M00 Passes Soho Jn. Approach (E)
+11:26 2G24 Departs from Moor Street
+11:26 2G24 Passes Snow Hill Approach (E)
+11:26 2M99 Arrives & departs Adderley Park
+11:26 2M02 Arrives & departs Adderley Park
+11:26 2T32 Arrives & departs Hamstead
+11:26 2P60 Arrives at Kings Norton
+11:26 2P60 At Kings Norton forms new service 2P61
+11:26 2P61 New service at Kings Norton from 2P60
+11:26 2P49 Arrives & departs Erdington
+11:27 2M01 Arrives & departs Smethwick Galton Bridge
+11:27 2M02 Passes New Street Approach (NE)
+11:28 2J15 Arrives & departs The Hawthorns
+11:28 2G24 Arrives at Snow Hill
+11:28 2G33 Arrives at Birmingham New Street
+11:28 2P61 Departs from Kings Norton
+11:28 2P49 Arrives & departs Chester Road
+11:28 2P48 Arrives at Birmingham New Street
+11:29 2K14 Enters at Leamington Link
+11:29 2G24 Changes direction at Snow Hill
+11:29 2V49 Departs from Birmingham New Street
+11:29 2M01 Arrives & departs Smethwick Rolfe Street
+11:29 2M00 Arrives & departs Smethwick Rolfe Street
+11:29 2G33 Changes direction at Birmingham New Street
+11:30 1S50 Enters at Coventry Link
+11:30 1A57 Enters at Wolverhampton Link
+11:30 1A57 Passes Galton Br. Approach (W)
+11:30 2M99 Arrives & departs Stechford
+11:30 2G33 At Birmingham New Street forms new service 2T34
+11:30 2T32 Arrives & departs Tame Bridge Parkway
+11:30 2T34 New service at Birmingham New Street from 2G33
+11:30 2P61 Arrives & departs Bournville
+11:30 2P49 Arrives & departs Wylde Green
+11:30 2P48 Departs from Birmingham New Street
+11:30 6H20 Enters at Worcester Link
+11:31 2K14 Arrives & departs Tyseley
+11:31 2J15 Arrives & departs Jewellery Quarter
+11:31 2J15 Passes Snow Hill Approach (W)
+11:31 2G24 At Snow Hill forms new service 2A25
+11:31 2A25 New service at Snow Hill from 2G24
+11:31 2M01 Passes New Street Approach (NW)
+11:31 2M00 Arrives & departs Smethwick Galton Bridge
+11:32 1S50 Passes New Street Approach (NE)
+11:32 1A59 Enters at Wolverhampton Link
+11:32 1A59 Passes Galton Br. Approach (W)
+11:32 2G35 Enters at Stafford Link
+11:32 2T32 Arrives & departs Bescot Stadium
+11:33 1A57 Passes New Street Approach (NW)
+11:33 2K14 Arrives & departs Small Heath
+11:33 2V49 Passes Kings Norton Approach (NE)
+11:33 2M99 Arrives & departs Lea Hall
+11:33 2M01 Arrives at Birmingham New Street
+11:33 2M00 Arrives & departs Sandwell & Dudley
+11:33 2M02 Arrives at Birmingham New Street
+11:33 2G35 Arrives & departs Bescot Stadium
+11:33 2T32 Exits railway at Stafford Link
+11:33 2P61 Arrives & departs Selly Oak
+11:33 2P49 Arrives & departs Sutton Coldfield
+11:33 2P48 Arrives & departs Five Ways
+11:34 2F50 Enters at Worcester Link
+11:34 2M00 Exits railway at Wolverhampton Link
+11:35 1A59 Passes New Street Approach (NW)
+11:35 2J15 Arrives at Snow Hill
+11:35 2A25 Departs from Snow Hill
+11:35 2V49 Exits railway at Worcester Link
+11:35 2F50 Passes Kings Norton Approach (W)
+11:35 2M99 Arrives & departs Marston Green
+11:35 2M04 Enters at Coventry Link
+11:35 2P61 Arrives & departs University
+11:35 2P49 Arrives at Four Oaks
+11:35 2P49 Changes direction at Four Oaks
+11:35 2P48 Arrives & departs University
+11:36 2M99 Exits railway at Coventry Link
+11:36 2M04 Arrives & departs Marston Green
+11:36 2G35 Arrives & departs Tame Bridge Parkway
+11:36 2P61 Passes New Street Approach (SW)
+11:36 2P48 Repeat shuttle service at Four Oaks from  2P49
+11:36 2P49 At Four Oaks forms new service  2P48
+11:37 2K14 Arrives & departs Moor Street
+11:37 2J15 Departs from Snow Hill
+11:37 2F50 Passes New Street Approach (SW)
+11:37 2M01 Departs from Birmingham New Street
+11:37 2M02 Departs from Birmingham New Street
+11:37 2M04 Arrives & departs Lea Hall
+11:37 2G35 Passes Perry Barr Jn. Approach (W)
+11:37 2P48 Departs from Four Oaks
+11:38 1S50 Arrives at Birmingham New Street
+11:38 1A57 Arrives at Birmingham New Street
+11:38 2K14 Passes Snow Hill Approach (E)
+11:38 2A25 Arrives & departs Moor Street
+11:38 2M03 Enters at Wolverhampton Link
+11:38 2P61 Arrives & departs Five Ways
+11:38 2P48 Arrives & departs Selly Oak
+11:39 1S50 Splits from rear at Birmingham New Street to form 1S52
+11:39 1S52 New service at Birmingham New Street split from 1S50
+11:39 2M03 Arrives & departs Sandwell & Dudley
+11:39 2M04 Arrives & departs Stechford
+11:39 2P48 Arrives & departs Sutton Coldfield
+11:39 2P48 Passes Kings Norton Approach (NE)
+11:40 1A59 Arrives at Birmingham New Street
+11:40 2K14 Arrives at Snow Hill
+11:40 2J15 Arrives & departs Moor Street
+11:40 2F50 Arrives at Birmingham New Street
+11:40 2M03 Passes Galton Br. Approach (W)
+11:40 2M02 Passes Soho Jn. Approach (E)
+11:40 2G35 Arrives & departs Hamstead
+11:40 2P48 Arrives & departs Bournville
+11:40 7G52 Arrives at Small Heath Up Goods Loop
+11:40 7G52 Terminates at Small Heath Up Goods Loop
+11:41 1A57 At Birmingham New Street joins 1A59
+11:41 1A59 Joined at Birmingham New Street by 1A57
+11:41 2K14 Departs from Snow Hill
+11:41 2M01 Arrives & departs Adderley Park
+11:41 2M04 Arrives & departs Adderley Park
+11:41 2P61 Arrives at Birmingham New Street
+11:42 2M03 Arrives & departs Smethwick Galton Bridge
+11:42 2M04 Passes New Street Approach (NE)
+11:42 2T34 Departs from Birmingham New Street
+11:42 2P48 Arrives & departs Wylde Green
+11:42 2P48 Arrives & departs Kings Norton
+11:43 1S50 Departs from Birmingham New Street
+11:43 2K14 Arrives & departs Jewellery Quarter
+11:43 2A25 Exits railway at Leamington Link
+11:43 2F50 Departs from Birmingham New Street
+11:43 2G35 Arrives & departs Perry Barr
+11:44 2J15 Arrives & departs Small Heath
+11:44 2M03 Arrives & departs Smethwick Rolfe Street
+11:44 2M02 Arrives & departs Smethwick Rolfe Street
+11:44 2P48 Arrives & departs Chester Road
+11:45 1S52 Departs from Birmingham New Street
+11:45 1A59 Departs from Birmingham New Street
+11:45 2M01 Arrives & departs Stechford
+11:45 2G35 Arrives & departs Witton
+11:45 2P61 Departs from Birmingham New Street
+11:45 2P48 Arrives at Kings Norton Loop
+11:45 2P48 Changes direction at Kings Norton Loop
+11:45 6H20 Passes Moseley Tunnel
+11:46 2J15 Arrives & departs Tyseley
+11:46 2M03 Passes New Street Approach (NW)
+11:46 2M02 Arrives & departs Smethwick Galton Bridge
+11:46 2G35 Passes Aston Jn. Approach (W)
+11:46 2T34 Arrives & departs Duddeston
+11:46 2P48 Arrives & departs Erdington
+11:47 1S50 Passes Soho Jn. Approach (E)
+11:47 2J15 Exits railway at Leamington Link
+11:47 2P61 Arrives & departs Duddeston
+11:47 2P48 Passes Aston Jn. Approach (N)
+11:48 2K14 Arrives & departs The Hawthorns
+11:48 2M01 Arrives & departs Lea Hall
+11:48 2M03 Arrives at Birmingham New Street
+11:48 2M02 Arrives & departs Sandwell & Dudley
+11:48 2M04 Arrives at Birmingham New Street
+11:48 2G35 Arrives & departs Aston
+11:49 1S52 Passes Soho Jn. Approach (E)
+11:49 2K14 Passes Galton Br. Approach (E)
+11:49 2V51 Enters at Derby Link
+11:49 2F50 Exits railway at Derby Link
+11:49 2M02 Exits railway at Wolverhampton Link
+11:49 2T34 Arrives & departs Aston
+11:49 2P48 Arrives & departs Gravelly Hill
+11:50 2K14 Arrives & departs Smethwick Galton Bridge
+11:50 2G26 Enters at Leamington Link
+11:50 2M01 Arrives & departs Marston Green
+11:50 2M06 Enters at Coventry Link
+11:50 2P61 Arrives & departs Aston
+11:51 1S50 Exits railway at Wolverhampton Link
+11:51 2M01 Exits railway at Coventry Link
+11:51 2M06 Arrives & departs Marston Green
+11:51 2G35 Arrives & departs Duddeston
+11:51 2T34 Arrives & departs Witton
+11:52 2K14 Arrives & departs Langley Green
+11:52 2J15 Enters at Kidderminster Link
+11:52 2M03 Departs from Birmingham New Street
+11:52 2M04 Departs from Birmingham New Street
+11:52 2M06 Arrives & departs Lea Hall
+11:52 2T34 Passes Perry Barr Jn. Approach (E)
+11:52 2P48 Arrives & departs Aston
+11:53 1S52 Exits railway at Wolverhampton Link
+11:53 1A59 Exits railway at Coventry Link
+11:53 2K14 Exits railway at Kidderminster Link
+11:53 2J15 Arrives & departs Langley Green
+11:53 2M05 Enters at Wolverhampton Link
+11:53 2T34 Arrives & departs Perry Barr
+11:54 2J15 Passes Smethwick Approach (W)
+11:54 2M05 Arrives & departs Sandwell & Dudley
+11:54 2M06 Arrives & departs Stechford
+11:54 2P61 Arrives & departs Gravelly Hill
+11:54 2P48 Arrives & departs Duddeston
+11:54 2P48 Departs from Kings Norton Loop
+11:55 2J15 Arrives & departs Smethwick Galton Bridge
+11:55 2G26 Arrives at Moor Street
+11:55 2V51 Arrives at Birmingham New Street
+11:55 2M05 Passes Galton Br. Approach (W)
+11:55 2M04 Passes Soho Jn. Approach (E)
+11:55 3L33 Enters at Freightliner Terminal
+11:56 2G26 Departs from Moor Street
+11:56 2G26 Passes Snow Hill Approach (E)
+11:56 2M03 Arrives & departs Adderley Park
+11:56 2M06 Arrives & departs Adderley Park
+11:56 2T34 Arrives & departs Hamstead
+11:56 2P61 Arrives & departs Erdington
+11:56 2P48 Arrives at Kings Norton
+11:56 2P48 At Kings Norton forms new service 2P49
+11:56 2P49 New service at Kings Norton from 2P48
+11:57 2M05 Arrives & departs Smethwick Galton Bridge
+11:57 2M06 Passes New Street Approach (NE)
+11:58 2J15 Arrives & departs The Hawthorns
+11:58 2G26 Arrives at Snow Hill
+11:58 2G35 Arrives at Birmingham New Street
+11:58 2P61 Arrives & departs Chester Road
+11:58 2P48 Arrives at Birmingham New Street
+11:58 2P49 Departs from Kings Norton
+11:59 2K14 Enters at Leamington Link
+11:59 2G26 Changes direction at Snow Hill
+11:59 2V51 Departs from Birmingham New Street
+11:59 2M05 Arrives & departs Smethwick Rolfe Street
+11:59 2M04 Arrives & departs Smethwick Rolfe Street
+11:59 2G35 Changes direction at Birmingham New Street
+12:00 1S54 Enters at Coventry Link
+12:00 1A61 Enters at Wolverhampton Link
+12:00 1A61 Passes Galton Br. Approach (W)
+12:00 2M03 Arrives & departs Stechford
+12:00 2G35 At Birmingham New Street forms new service 2T36
+12:00 2T34 Arrives & departs Tame Bridge Parkway
+12:00 2T36 New service at Birmingham New Street from 2G35
+12:00 2P61 Arrives & departs Wylde Green
+12:00 2P49 Arrives & departs Bournville
+12:00 6H20 Exits railway at Derby Link
+12:01 2K14 Arrives & departs Tyseley
+12:01 2J15 Arrives & departs Jewellery Quarter
+12:01 2J15 Passes Snow Hill Approach (W)
+12:01 2G26 At Snow Hill forms new service 2A27
+12:01 2A27 New service at Snow Hill from 2G26
+12:01 2M05 Passes New Street Approach (NW)
+12:01 2M04 Arrives & departs Smethwick Galton Bridge
+12:01 2P48 Departs from Birmingham New Street
+12:02 1S54 Passes New Street Approach (NE)
+12:02 1A63 Enters at Wolverhampton Link
+12:02 1A63 Passes Galton Br. Approach (W)
+12:02 2G37 Enters at Stafford Link
+12:02 2T34 Arrives & departs Bescot Stadium
+12:03 1A61 Passes New Street Approach (NW)
+12:03 2K14 Arrives & departs Small Heath
+12:03 2V51 Passes Kings Norton Approach (NE)
+12:03 2M03 Arrives & departs Lea Hall
+12:03 2M05 Arrives at Birmingham New Street
+12:03 2M04 Arrives & departs Sandwell & Dudley
+12:03 2M06 Arrives at Birmingham New Street
+12:03 2G37 Arrives & departs Bescot Stadium
+12:03 2T34 Exits railway at Stafford Link
+12:03 2P61 Arrives & departs Sutton Coldfield
+12:03 2P48 Arrives & departs Five Ways
+12:03 2P49 Arrives & departs Selly Oak
+12:04 2F52 Enters at Worcester Link
+12:04 2M04 Exits railway at Wolverhampton Link
+12:05 1A63 Passes New Street Approach (NW)
+12:05 2J15 Arrives at Snow Hill
+12:05 2A27 Departs from Snow Hill
+12:05 2V51 Exits railway at Worcester Link
+12:05 2F52 Passes Kings Norton Approach (W)
+12:05 2M03 Arrives & departs Marston Green
+12:05 2M08 Enters at Coventry Link
+12:05 2P61 Arrives at Four Oaks
+12:05 2P61 Changes direction at Four Oaks
+12:05 2P48 Arrives & departs University
+12:05 2P49 Arrives & departs University
+12:06 2M03 Exits railway at Coventry Link
+12:06 2M08 Arrives & departs Marston Green
+12:06 2G37 Arrives & departs Tame Bridge Parkway
+12:06 2P66 Repeat shuttle service at Four Oaks from  2P61
+12:06 2P61 At Four Oaks forms new service  2P66
+12:07 2K14 Arrives & departs Moor Street
+12:07 2J15 Departs from Snow Hill
+12:07 2F52 Passes New Street Approach (SW)
+12:07 2M05 Departs from Birmingham New Street
+12:07 2M06 Departs from Birmingham New Street
+12:07 2M08 Arrives & departs Lea Hall
+12:07 2G37 Passes Perry Barr Jn. Approach (W)
+12:07 2P66 Departs from Four Oaks
+12:08 1S54 Arrives at Birmingham New Street
+12:08 1A61 Arrives at Birmingham New Street
+12:08 2K14 Passes Snow Hill Approach (E)
+12:08 2A27 Arrives & departs Moor Street
+12:08 2M07 Enters at Wolverhampton Link
+12:08 2P48 Arrives & departs Selly Oak
+12:08 2P49 Arrives & departs Five Ways
+12:09 1S54 Splits from rear at Birmingham New Street to form 1S56
+12:09 1S56 New service at Birmingham New Street split from 1S54
+12:09 2M07 Arrives & departs Sandwell & Dudley
+12:09 2M08 Arrives & departs Stechford
+12:09 2P66 Arrives & departs Sutton Coldfield
+12:09 2P48 Passes Kings Norton Approach (NE)
+12:10 1A63 Arrives at Birmingham New Street
+12:10 2K14 Arrives at Snow Hill
+12:10 2J15 Arrives & departs Moor Street
+12:10 2F52 Arrives at Birmingham New Street
+12:10 2M07 Passes Galton Br. Approach (W)
+12:10 2M06 Passes Soho Jn. Approach (E)
+12:10 2G37 Arrives & departs Hamstead
+12:10 2P48 Arrives & departs Bournville
+12:10 3L33 Passes Moseley Tunnel
+12:11 1A61 At Birmingham New Street joins 1A63
+12:11 1A63 Joined at Birmingham New Street by 1A61
+12:11 2K14 Departs from Snow Hill
+12:11 2M05 Arrives & departs Adderley Park
+12:11 2M08 Arrives & departs Adderley Park
+12:11 2P49 Arrives at Birmingham New Street
+12:12 2M07 Arrives & departs Smethwick Galton Bridge
+12:12 2M08 Passes New Street Approach (NE)
+12:12 2T36 Departs from Birmingham New Street
+12:12 2P66 Arrives & departs Wylde Green
+12:12 2P48 Arrives & departs Kings Norton
+12:13 1S54 Departs from Birmingham New Street
+12:13 2K14 Arrives & departs Jewellery Quarter
+12:13 2A27 Exits railway at Leamington Link
+12:13 2F52 Departs from Birmingham New Street
+12:13 2G37 Arrives & departs Perry Barr
+12:14 2J15 Arrives & departs Small Heath
+12:14 2M07 Arrives & departs Smethwick Rolfe Street
+12:14 2M06 Arrives & departs Smethwick Rolfe Street
+12:14 2P66 Arrives & departs Chester Road
+12:15 1S56 Departs from Birmingham New Street
+12:15 1A63 Departs from Birmingham New Street
+12:15 2M05 Arrives & departs Stechford
+12:15 2G37 Arrives & departs Witton
+12:15 2P48 Arrives at Kings Norton Loop
+12:15 2P48 Changes direction at Kings Norton Loop
+12:15 2P49 Departs from Birmingham New Street
+12:16 2J15 Arrives & departs Tyseley
+12:16 2M07 Passes New Street Approach (NW)
+12:16 2M06 Arrives & departs Smethwick Galton Bridge
+12:16 2G37 Passes Aston Jn. Approach (W)
+12:16 2T36 Arrives & departs Duddeston
+12:16 2P66 Arrives & departs Erdington
+12:16 3L33 Passes Kings Norton Approach (SE)
+12:17 1S54 Passes Soho Jn. Approach (E)
+12:17 2J15 Exits railway at Leamington Link
+12:17 2P66 Passes Aston Jn. Approach (N)
+12:17 2P49 Arrives & departs Duddeston
+12:18 2K14 Arrives & departs The Hawthorns
+12:18 2M05 Arrives & departs Lea Hall
+12:18 2M07 Arrives at Birmingham New Street
+12:18 2M06 Arrives & departs Sandwell & Dudley
+12:18 2M08 Arrives at Birmingham New Street
+12:18 2G37 Arrives & departs Aston
+12:19 1S56 Passes Soho Jn. Approach (E)
+12:19 2K14 Passes Galton Br. Approach (E)
+12:19 2V53 Enters at Derby Link
+12:19 2F52 Exits railway at Derby Link
+12:19 2M06 Exits railway at Wolverhampton Link
+12:19 2T36 Arrives & departs Aston
+12:19 2P66 Arrives & departs Gravelly Hill
+12:20 2K14 Arrives & departs Smethwick Galton Bridge
+12:20 2G28 Enters at Leamington Link
+12:20 2M05 Arrives & departs Marston Green
+12:20 2M10 Enters at Coventry Link
+12:20 2P49 Arrives & departs Aston
+12:20 3L33 Exits railway at Worcester Link
+12:21 1S54 Exits railway at Wolverhampton Link
+12:21 2M05 Exits railway at Coventry Link
+12:21 2M10 Arrives & departs Marston Green
+12:21 2G37 Arrives & departs Duddeston
+12:21 2T36 Arrives & departs Witton
+12:22 2K14 Arrives & departs Langley Green
+12:22 2J15 Enters at Kidderminster Link
+12:22 2M07 Departs from Birmingham New Street
+12:22 2M08 Departs from Birmingham New Street
+12:22 2M10 Arrives & departs Lea Hall
+12:22 2T36 Passes Perry Barr Jn. Approach (E)
+12:22 2P66 Arrives & departs Aston
+12:23 1S56 Exits railway at Wolverhampton Link
+12:23 1A63 Exits railway at Coventry Link
+12:23 2K14 Exits railway at Kidderminster Link
+12:23 2J15 Arrives & departs Langley Green
+12:23 2M09 Enters at Wolverhampton Link
+12:23 2T36 Arrives & departs Perry Barr
+12:24 2J15 Passes Smethwick Approach (W)
+12:24 2M09 Arrives & departs Sandwell & Dudley
+12:24 2M10 Arrives & departs Stechford
+12:24 2P66 Arrives & departs Duddeston
+12:24 2P48 Departs from Kings Norton Loop
+12:24 2P49 Arrives & departs Gravelly Hill
+12:25 2J15 Arrives & departs Smethwick Galton Bridge
+12:25 2G28 Arrives at Moor Street
+12:25 2V53 Arrives at Birmingham New Street
+12:25 2M09 Passes Galton Br. Approach (W)
+12:25 2M08 Passes Soho Jn. Approach (E)
+12:26 2G28 Departs from Moor Street
+12:26 2G28 Passes Snow Hill Approach (E)
+12:26 2M07 Arrives & departs Adderley Park
+12:26 2M10 Arrives & departs Adderley Park
+12:26 2T36 Arrives & departs Hamstead
+12:26 2P48 Arrives at Kings Norton
+12:26 2P48 At Kings Norton forms new service 2P49
+12:26 2P49 New service at Kings Norton from 2P48
+12:26 2P49 Arrives & departs Erdington
+12:27 2M09 Arrives & departs Smethwick Galton Bridge
+12:27 2M10 Passes New Street Approach (NE)
+12:28 2J15 Arrives & departs The Hawthorns
+12:28 2G28 Arrives at Snow Hill
+12:28 2G37 Arrives at Birmingham New Street
+12:28 2P66 Arrives at Birmingham New Street
+12:28 2P49 Departs from Kings Norton
+12:28 2P49 Arrives & departs Chester Road
+12:29 2K14 Enters at Leamington Link
+12:29 2G28 Changes direction at Snow Hill
+12:29 2V53 Departs from Birmingham New Street
+12:29 2M09 Arrives & departs Smethwick Rolfe Street
+12:29 2M08 Arrives & departs Smethwick Rolfe Street
+12:29 2G37 Changes direction at Birmingham New Street
+12:30 1S58 Enters at Coventry Link
+12:30 1A65 Enters at Wolverhampton Link
+12:30 1A65 Passes Galton Br. Approach (W)
+12:30 2M07 Arrives & departs Stechford
+12:30 2G37 At Birmingham New Street forms new service 2T38
+12:30 2T36 Arrives & departs Tame Bridge Parkway
+12:30 2T38 New service at Birmingham New Street from 2G37
+12:30 2P66 Departs from Birmingham New Street
+12:30 2P49 Arrives & departs Bournville
+12:30 2P49 Arrives & departs Wylde Green
+12:31 2K14 Arrives & departs Tyseley
+12:31 2J15 Arrives & departs Jewellery Quarter
+12:31 2J15 Passes Snow Hill Approach (W)
+12:31 2G28 At Snow Hill forms new service 2A29
+12:31 2A29 New service at Snow Hill from 2G28
+12:31 2M09 Passes New Street Approach (NW)
+12:31 2M08 Arrives & departs Smethwick Galton Bridge
+12:32 1S58 Passes New Street Approach (NE)
+12:32 1A67 Enters at Wolverhampton Link
+12:32 1A67 Passes Galton Br. Approach (W)
+12:32 2G39 Enters at Stafford Link
+12:32 2T36 Arrives & departs Bescot Stadium
+12:33 1A65 Passes New Street Approach (NW)
+12:33 2K14 Arrives & departs Small Heath
+12:33 2V53 Passes Kings Norton Approach (NE)
+12:33 2M07 Arrives & departs Lea Hall
+12:33 2M09 Arrives at Birmingham New Street
+12:33 2M08 Arrives & departs Sandwell & Dudley
+12:33 2M10 Arrives at Birmingham New Street
+12:33 2G39 Arrives & departs Bescot Stadium
+12:33 2T36 Exits railway at Stafford Link
+12:33 2P66 Arrives & departs Five Ways
+12:33 2P49 Arrives & departs Selly Oak
+12:33 2P49 Arrives & departs Sutton Coldfield
+12:34 2F54 Enters at Worcester Link
+12:34 2M08 Exits railway at Wolverhampton Link
+12:35 1A67 Passes New Street Approach (NW)
+12:35 2J15 Arrives at Snow Hill
+12:35 2A29 Departs from Snow Hill
+12:35 2V53 Exits railway at Worcester Link
+12:35 2F54 Passes Kings Norton Approach (W)
+12:35 2M07 Arrives & departs Marston Green
+12:35 2M12 Enters at Coventry Link
+12:35 2P66 Arrives & departs University
+12:35 2P49 Arrives & departs University
+12:35 2P49 Arrives at Four Oaks
+12:35 2P49 Changes direction at Four Oaks
+12:36 2M07 Exits railway at Coventry Link
+12:36 2M12 Arrives & departs Marston Green
+12:36 2G39 Arrives & departs Tame Bridge Parkway
+12:36 2P48 Repeat shuttle service at Four Oaks from  2P49
+12:36 2P49 At Four Oaks forms new service  2P48
+12:37 2K14 Arrives & departs Moor Street
+12:37 2J15 Departs from Snow Hill
+12:37 2F54 Passes New Street Approach (SW)
+12:37 2M09 Departs from Birmingham New Street
+12:37 2M10 Departs from Birmingham New Street
+12:37 2M12 Arrives & departs Lea Hall
+12:37 2G39 Passes Perry Barr Jn. Approach (W)
+12:37 2P48 Departs from Four Oaks
+12:38 1S58 Arrives at Birmingham New Street
+12:38 1A65 Arrives at Birmingham New Street
+12:38 2K14 Passes Snow Hill Approach (E)
+12:38 2A29 Arrives & departs Moor Street
+12:38 2M11 Enters at Wolverhampton Link
+12:38 2P66 Arrives & departs Selly Oak
+12:38 2P49 Arrives & departs Five Ways
+12:39 1S58 Splits from rear at Birmingham New Street to form 1S60
+12:39 1S60 New service at Birmingham New Street split from 1S58
+12:39 2M11 Arrives & departs Sandwell & Dudley
+12:39 2M12 Arrives & departs Stechford
+12:39 2P66 Passes Kings Norton Approach (NE)
+12:39 2P48 Arrives & departs Sutton Coldfield
+12:40 1A67 Arrives at Birmingham New Street
+12:40 2K14 Arrives at Snow Hill
+12:40 2J15 Arrives & departs Moor Street
+12:40 2F54 Arrives at Birmingham New Street
+12:40 2M11 Passes Galton Br. Approach (W)
+12:40 2M10 Passes Soho Jn. Approach (E)
+12:40 2G39 Arrives & departs Hamstead
+12:40 2P66 Arrives & departs Bournville
+12:41 1A65 At Birmingham New Street joins 1A67
+12:41 1A67 Joined at Birmingham New Street by 1A65
+12:41 2K14 Departs from Snow Hill
+12:41 2M09 Arrives & departs Adderley Park
+12:41 2M12 Arrives & departs Adderley Park
+12:41 2P49 Arrives at Birmingham New Street
+12:42 2M11 Arrives & departs Smethwick Galton Bridge
+12:42 2M12 Passes New Street Approach (NE)
+12:42 2T38 Departs from Birmingham New Street
+12:42 2P66 Arrives & departs Kings Norton
+12:42 2P48 Arrives & departs Wylde Green
+12:43 1S58 Departs from Birmingham New Street
+12:43 2K14 Arrives & departs Jewellery Quarter
+12:43 2A29 Exits railway at Leamington Link
+12:43 2F54 Departs from Birmingham New Street
+12:43 2G39 Arrives & departs Perry Barr
+12:44 2J15 Arrives & departs Small Heath
+12:44 2M11 Arrives & departs Smethwick Rolfe Street
+12:44 2M10 Arrives & departs Smethwick Rolfe Street
+12:44 2P48 Arrives & departs Chester Road
+12:45 1S60 Departs from Birmingham New Street
+12:45 1A67 Departs from Birmingham New Street
+12:45 2M09 Arrives & departs Stechford
+12:45 2G39 Arrives & departs Witton
+12:45 2P66 Arrives at Kings Norton Loop
+12:45 2P66 Changes direction at Kings Norton Loop
+12:45 2P49 Departs from Birmingham New Street
+12:46 2J15 Arrives & departs Tyseley
+12:46 2M11 Passes New Street Approach (NW)
+12:46 2M10 Arrives & departs Smethwick Galton Bridge
+12:46 2G39 Passes Aston Jn. Approach (W)
+12:46 2T38 Arrives & departs Duddeston
+12:46 2P48 Arrives & departs Erdington
+12:47 1S58 Passes Soho Jn. Approach (E)
+12:47 2J15 Exits railway at Leamington Link
+12:47 2P49 Arrives & departs Duddeston
+12:47 2P48 Passes Aston Jn. Approach (N)
+12:48 2K14 Arrives & departs The Hawthorns
+12:48 2M09 Arrives & departs Lea Hall
+12:48 2M11 Arrives at Birmingham New Street
+12:48 2M10 Arrives & departs Sandwell & Dudley
+12:48 2M12 Arrives at Birmingham New Street
+12:48 2G39 Arrives & departs Aston
+12:49 1S60 Passes Soho Jn. Approach (E)
+12:49 2K14 Passes Galton Br. Approach (E)
+12:49 2V55 Enters at Derby Link
+12:49 2F54 Exits railway at Derby Link
+12:49 2M10 Exits railway at Wolverhampton Link
+12:49 2T38 Arrives & departs Aston
+12:49 2P48 Arrives & departs Gravelly Hill
+12:50 2K14 Arrives & departs Smethwick Galton Bridge
+12:50 2G30 Enters at Leamington Link
+12:50 2M09 Arrives & departs Marston Green
+12:50 2M14 Enters at Coventry Link
+12:50 2P49 Arrives & departs Aston
+12:51 1S58 Exits railway at Wolverhampton Link
+12:51 2M09 Exits railway at Coventry Link
+12:51 2M14 Arrives & departs Marston Green
+12:51 2G39 Arrives & departs Duddeston
+12:51 2T38 Arrives & departs Witton
+12:52 2K14 Arrives & departs Langley Green
+12:52 2J15 Enters at Kidderminster Link
+12:52 2M11 Departs from Birmingham New Street
+12:52 2M12 Departs from Birmingham New Street
+12:52 2M14 Arrives & departs Lea Hall
+12:52 2T38 Passes Perry Barr Jn. Approach (E)
+12:52 2P48 Arrives & departs Aston
+12:53 1S60 Exits railway at Wolverhampton Link
+12:53 1A67 Exits railway at Coventry Link
+12:53 2K14 Exits railway at Kidderminster Link
+12:53 2J15 Arrives & departs Langley Green
+12:53 2M13 Enters at Wolverhampton Link
+12:53 2T38 Arrives & departs Perry Barr
+12:54 2J15 Passes Smethwick Approach (W)
+12:54 2M13 Arrives & departs Sandwell & Dudley
+12:54 2M14 Arrives & departs Stechford
+12:54 2P66 Departs from Kings Norton Loop
+12:54 2P49 Arrives & departs Gravelly Hill
+12:54 2P48 Arrives & departs Duddeston
+12:55 2J15 Arrives & departs Smethwick Galton Bridge
+12:55 2G30 Arrives at Moor Street
+12:55 2V55 Arrives at Birmingham New Street
+12:55 2M13 Passes Galton Br. Approach (W)
+12:55 2M12 Passes Soho Jn. Approach (E)
+12:56 2G30 Departs from Moor Street
+12:56 2G30 Passes Snow Hill Approach (E)
+12:56 2M11 Arrives & departs Adderley Park
+12:56 2M14 Arrives & departs Adderley Park
+12:56 2T38 Arrives & departs Hamstead
+12:56 2P66 Arrives at Kings Norton
+12:56 2P66 At Kings Norton forms new service 2P67
+12:56 2P67 New service at Kings Norton from 2P66
+12:56 2P49 Arrives & departs Erdington
+12:57 2M13 Arrives & departs Smethwick Galton Bridge
+12:57 2M14 Passes New Street Approach (NE)
+12:58 2J15 Arrives & departs The Hawthorns
+12:58 2G30 Arrives at Snow Hill
+12:58 2G39 Arrives at Birmingham New Street
+12:58 2P67 Departs from Kings Norton
+12:58 2P49 Arrives & departs Chester Road
+12:58 2P48 Arrives at Birmingham New Street
+12:59 2K14 Enters at Leamington Link
+12:59 2G30 Changes direction at Snow Hill
+12:59 2V55 Departs from Birmingham New Street
+12:59 2M13 Arrives & departs Smethwick Rolfe Street
+12:59 2M12 Arrives & departs Smethwick Rolfe Street
+12:59 2G39 Changes direction at Birmingham New Street
+13:00 1S62 Enters at Coventry Link
+13:00 1A69 Enters at Wolverhampton Link
+13:00 1A69 Passes Galton Br. Approach (W)
+13:00 2M11 Arrives & departs Stechford
+13:00 2G39 At Birmingham New Street forms new service 2T40
+13:00 2T38 Arrives & departs Tame Bridge Parkway
+13:00 2T40 New service at Birmingham New Street from 2G39
+13:00 2P67 Arrives & departs Bournville
+13:00 2P49 Arrives & departs Wylde Green
+13:00 2P48 Departs from Birmingham New Street
+13:01 2K14 Arrives & departs Tyseley
+13:01 2J15 Arrives & departs Jewellery Quarter
+13:01 2J15 Passes Snow Hill Approach (W)
+13:01 2G30 At Snow Hill forms new service 2A31
+13:01 2A31 New service at Snow Hill from 2G30
+13:01 2M13 Passes New Street Approach (NW)
+13:01 2M12 Arrives & departs Smethwick Galton Bridge
+13:02 1S62 Passes New Street Approach (NE)
+13:02 1A71 Enters at Wolverhampton Link
+13:02 1A71 Passes Galton Br. Approach (W)
+13:02 2G41 Enters at Stafford Link
+13:02 2T38 Arrives & departs Bescot Stadium
+13:03 1A69 Passes New Street Approach (NW)
+13:03 2K14 Arrives & departs Small Heath
+13:03 2V55 Passes Kings Norton Approach (NE)
+13:03 2M11 Arrives & departs Lea Hall
+13:03 2M13 Arrives at Birmingham New Street
+13:03 2M12 Arrives & departs Sandwell & Dudley
+13:03 2M14 Arrives at Birmingham New Street
+13:03 2G41 Arrives & departs Bescot Stadium
+13:03 2T38 Exits railway at Stafford Link
+13:03 2P67 Arrives & departs Selly Oak
+13:03 2P49 Arrives & departs Sutton Coldfield
+13:03 2P48 Arrives & departs Five Ways
+13:04 2F56 Enters at Worcester Link
+13:04 2M12 Exits railway at Wolverhampton Link
+13:05 1A71 Passes New Street Approach (NW)
+13:05 2J15 Arrives at Snow Hill
+13:05 2A31 Departs from Snow Hill
+13:05 2V55 Exits railway at Worcester Link
+13:05 2F56 Passes Kings Norton Approach (W)
+13:05 2M11 Arrives & departs Marston Green
+13:05 2M16 Enters at Coventry Link
+13:05 2P67 Arrives & departs University
+13:05 2P49 Arrives at Four Oaks
+13:05 2P49 Changes direction at Four Oaks
+13:05 2P48 Arrives & departs University
+13:06 2M11 Exits railway at Coventry Link
+13:06 2M16 Arrives & departs Marston Green
+13:06 2G41 Arrives & departs Tame Bridge Parkway
+13:06 2P67 Passes New Street Approach (SW)
+13:06 2P48 Repeat shuttle service at Four Oaks from  2P49
+13:06 2P49 At Four Oaks forms new service  2P48
+13:07 2K14 Arrives & departs Moor Street
+13:07 2J15 Departs from Snow Hill
+13:07 2F56 Passes New Street Approach (SW)
+13:07 2M13 Departs from Birmingham New Street
+13:07 2M14 Departs from Birmingham New Street
+13:07 2M16 Arrives & departs Lea Hall
+13:07 2G41 Passes Perry Barr Jn. Approach (W)
+13:07 2P48 Departs from Four Oaks
+13:08 1S62 Arrives at Birmingham New Street
+13:08 1A69 Arrives at Birmingham New Street
+13:08 2K14 Passes Snow Hill Approach (E)
+13:08 2A31 Arrives & departs Moor Street
+13:08 2M15 Enters at Wolverhampton Link
+13:08 2P67 Arrives & departs Five Ways
+13:08 2P48 Arrives & departs Selly Oak
+13:09 1S62 Splits from rear at Birmingham New Street to form 1S64
+13:09 1S64 New service at Birmingham New Street split from 1S62
+13:09 2M15 Arrives & departs Sandwell & Dudley
+13:09 2M16 Arrives & departs Stechford
+13:09 2P48 Arrives & departs Sutton Coldfield
+13:09 2P48 Passes Kings Norton Approach (NE)
+13:10 1A71 Arrives at Birmingham New Street
+13:10 2K14 Arrives at Snow Hill
+13:10 2J15 Arrives & departs Moor Street
+13:10 2F56 Arrives at Birmingham New Street
+13:10 2M15 Passes Galton Br. Approach (W)
+13:10 2M14 Passes Soho Jn. Approach (E)
+13:10 2G41 Arrives & departs Hamstead
+13:10 2P48 Arrives & departs Bournville
+13:11 1A69 At Birmingham New Street joins 1A71
+13:11 1A71 Joined at Birmingham New Street by 1A69
+13:11 2K14 Departs from Snow Hill
+13:11 2M13 Arrives & departs Adderley Park
+13:11 2M16 Arrives & departs Adderley Park
+13:11 2P67 Arrives at Birmingham New Street
+13:12 2M15 Arrives & departs Smethwick Galton Bridge
+13:12 2M16 Passes New Street Approach (NE)
+13:12 2T40 Departs from Birmingham New Street
+13:12 2P48 Arrives & departs Wylde Green
+13:12 2P48 Arrives & departs Kings Norton
+13:13 1S62 Departs from Birmingham New Street
+13:13 2K14 Arrives & departs Jewellery Quarter
+13:13 2A31 Exits railway at Leamington Link
+13:13 2F56 Departs from Birmingham New Street
+13:13 2G41 Arrives & departs Perry Barr
+13:14 2J15 Arrives & departs Small Heath
+13:14 2M15 Arrives & departs Smethwick Rolfe Street
+13:14 2M14 Arrives & departs Smethwick Rolfe Street
+13:14 2P48 Arrives & departs Chester Road
+13:15 1S64 Departs from Birmingham New Street
+13:15 1A71 Departs from Birmingham New Street
+13:15 2M13 Arrives & departs Stechford
+13:15 2G41 Arrives & departs Witton
+13:15 2P67 Departs from Birmingham New Street
+13:15 2P48 Arrives at Kings Norton Loop
+13:15 2P48 Changes direction at Kings Norton Loop
+13:16 2J15 Arrives & departs Tyseley
+13:16 2M15 Passes New Street Approach (NW)
+13:16 2M14 Arrives & departs Smethwick Galton Bridge
+13:16 2G41 Passes Aston Jn. Approach (W)
+13:16 2T40 Arrives & departs Duddeston
+13:16 2P48 Arrives & departs Erdington
+13:17 1S62 Passes Soho Jn. Approach (E)
+13:17 2J15 Exits railway at Leamington Link
+13:17 2P67 Arrives & departs Duddeston
+13:17 2P48 Passes Aston Jn. Approach (N)
+13:18 2K14 Arrives & departs The Hawthorns
+13:18 2M13 Arrives & departs Lea Hall
+13:18 2M15 Arrives at Birmingham New Street
+13:18 2M14 Arrives & departs Sandwell & Dudley
+13:18 2M16 Arrives at Birmingham New Street
+13:18 2G41 Arrives & departs Aston
+13:19 1S64 Passes Soho Jn. Approach (E)
+13:19 2K14 Passes Galton Br. Approach (E)
+13:19 2V57 Enters at Derby Link
+13:19 2F56 Exits railway at Derby Link
+13:19 2M14 Exits railway at Wolverhampton Link
+13:19 2T40 Arrives & departs Aston
+13:19 2P48 Arrives & departs Gravelly Hill
+13:20 2K14 Arrives & departs Smethwick Galton Bridge
+13:20 2G32 Enters at Leamington Link
+13:20 2M13 Arrives & departs Marston Green
+13:20 2P67 Arrives & departs Aston
+13:21 1S62 Exits railway at Wolverhampton Link
+13:21 2M13 Exits railway at Coventry Link
+13:21 2G41 Arrives & departs Duddeston
+13:21 2T40 Arrives & departs Witton
+13:22 2K14 Arrives & departs Langley Green
+13:22 2J15 Enters at Kidderminster Link
+13:22 2M15 Departs from Birmingham New Street
+13:22 2M16 Departs from Birmingham New Street
+13:22 2T40 Passes Perry Barr Jn. Approach (E)
+13:22 2P48 Arrives & departs Aston
+13:23 1S64 Exits railway at Wolverhampton Link
+13:23 1A71 Exits railway at Coventry Link
+13:23 2K14 Exits railway at Kidderminster Link
+13:23 2J15 Arrives & departs Langley Green
+13:23 2T40 Arrives & departs Perry Barr
+13:24 2J15 Passes Smethwick Approach (W)
+13:24 2P67 Arrives & departs Gravelly Hill
+13:24 2P48 Arrives & departs Duddeston
+13:24 2P48 Departs from Kings Norton Loop
+13:25 2J15 Arrives & departs Smethwick Galton Bridge
+13:25 2G32 Arrives at Moor Street
+13:25 2V57 Arrives at Birmingham New Street
+13:25 2M16 Passes Soho Jn. Approach (E)
+13:25 3L35 Enters at Freightliner Terminal
+13:26 2G32 Departs from Moor Street
+13:26 2G32 Passes Snow Hill Approach (E)
+13:26 2M15 Arrives & departs Adderley Park
+13:26 2T40 Arrives & departs Hamstead
+13:26 2P67 Arrives & departs Erdington
+13:26 2P48 Arrives at Kings Norton
+13:26 2P48 At Kings Norton forms new service 2P49
+13:26 2P49 New service at Kings Norton from 2P48
+13:28 2J15 Arrives & departs The Hawthorns
+13:28 2G32 Arrives at Snow Hill
+13:28 2G41 Arrives at Birmingham New Street
+13:28 2P67 Arrives & departs Chester Road
+13:28 2P48 Arrives at Birmingham New Street
+13:28 2P49 Departs from Kings Norton
+13:29 2K14 Enters at Leamington Link
+13:29 2G32 Changes direction at Snow Hill
+13:29 2V57 Departs from Birmingham New Street
+13:29 2M16 Arrives & departs Smethwick Rolfe Street
+13:29 2G41 Changes direction at Birmingham New Street
+13:30 2M15 Arrives & departs Stechford
+13:30 2G41 At Birmingham New Street forms new service 2T42
+13:30 2T40 Arrives & departs Tame Bridge Parkway
+13:30 2T42 New service at Birmingham New Street from 2G41
+13:30 2P67 Arrives & departs Wylde Green
+13:30 2P49 Arrives & departs Bournville
+13:30 6H22 Enters at Worcester Link
+13:31 2K14 Arrives & departs Tyseley
+13:31 2J15 Arrives & departs Jewellery Quarter
+13:31 2J15 Passes Snow Hill Approach (W)
+13:31 2G32 At Snow Hill forms new service 2A33
+13:31 2A33 New service at Snow Hill from 2G32
+13:31 2M16 Arrives & departs Smethwick Galton Bridge
+13:31 2P48 Departs from Birmingham New Street
+13:32 2G43 Enters at Stafford Link
+13:32 2T40 Arrives & departs Bescot Stadium
+13:33 2K14 Arrives & departs Small Heath
+13:33 2V57 Passes Kings Norton Approach (NE)
+13:33 2M15 Arrives & departs Lea Hall
+13:33 2M16 Arrives & departs Sandwell & Dudley
+13:33 2G43 Arrives & departs Bescot Stadium
+13:33 2T40 Exits railway at Stafford Link
+13:33 2P67 Arrives & departs Sutton Coldfield
+13:33 2P48 Arrives & departs Five Ways
+13:33 2P49 Arrives & departs Selly Oak
+13:34 2M16 Exits railway at Wolverhampton Link
+13:35 2J15 Arrives at Snow Hill
+13:35 2A33 Departs from Snow Hill
+13:35 2V57 Exits railway at Worcester Link
+13:35 2M15 Arrives & departs Marston Green
+13:35 2P67 Arrives at Four Oaks
+13:35 2P67 Changes direction at Four Oaks
+13:35 2P48 Arrives & departs University
+13:35 2P49 Arrives & departs University
+13:36 2M15 Exits railway at Coventry Link
+13:36 2G43 Arrives & departs Tame Bridge Parkway
+13:36 2P72 Repeat shuttle service at Four Oaks from  2P67
+13:36 2P67 At Four Oaks forms new service  2P72
+13:37 2K14 Arrives & departs Moor Street
+13:37 2J15 Departs from Snow Hill
+13:37 2G43 Passes Perry Barr Jn. Approach (W)
+13:37 2P72 Departs from Four Oaks
+13:38 2K14 Passes Snow Hill Approach (E)
+13:38 2A33 Arrives & departs Moor Street
+13:38 2P48 Arrives & departs Selly Oak
+13:38 2P49 Arrives & departs Five Ways
+13:39 2P72 Arrives & departs Sutton Coldfield
+13:39 2P48 Passes Kings Norton Approach (NE)
+13:40 2K14 Arrives at Snow Hill
+13:40 2J15 Arrives & departs Moor Street
+13:40 2G43 Arrives & departs Hamstead
+13:40 2P48 Arrives & departs Bournville
+13:40 3L35 Passes Moseley Tunnel
+13:41 2K14 Departs from Snow Hill
+13:41 2P49 Arrives at Birmingham New Street
+13:42 2T42 Departs from Birmingham New Street
+13:42 2P72 Arrives & departs Wylde Green
+13:42 2P48 Arrives & departs Kings Norton
+13:43 2K14 Arrives & departs Jewellery Quarter
+13:43 2A33 Exits railway at Leamington Link
+13:43 2G43 Arrives & departs Perry Barr
+13:44 2J15 Arrives & departs Small Heath
+13:44 2P72 Arrives & departs Chester Road
+13:45 2G43 Arrives & departs Witton
+13:45 2P48 Arrives at Kings Norton Loop
+13:45 2P48 Changes direction at Kings Norton Loop
+13:45 2P49 Departs from Birmingham New Street
+13:45 6H22 Passes Moseley Tunnel
+13:46 2J15 Arrives & departs Tyseley
+13:46 2G43 Passes Aston Jn. Approach (W)
+13:46 2T42 Arrives & departs Duddeston
+13:46 2P72 Arrives & departs Erdington
+13:46 3L35 Passes Kings Norton Approach (SE)
+13:47 2J15 Exits railway at Leamington Link
+13:47 2P72 Passes Aston Jn. Approach (N)
+13:47 2P49 Arrives & departs Duddeston
+13:48 2K14 Arrives & departs The Hawthorns
+13:48 2G43 Arrives & departs Aston
+13:49 2K14 Passes Galton Br. Approach (E)
+13:49 2T42 Arrives & departs Aston
+13:49 2P72 Arrives & departs Gravelly Hill
+13:50 2K14 Arrives & departs Smethwick Galton Bridge
+13:50 2P49 Arrives & departs Aston
+13:50 3L35 Exits railway at Worcester Link
+13:51 2G43 Arrives & departs Duddeston
+13:51 2T42 Arrives & departs Witton
+13:52 2K14 Arrives & departs Langley Green
+13:52 2J15 Enters at Kidderminster Link
+13:52 2T42 Passes Perry Barr Jn. Approach (E)
+13:52 2P72 Arrives & departs Aston
+13:53 2K14 Exits railway at Kidderminster Link
+13:53 2J15 Arrives & departs Langley Green
+13:53 2T42 Arrives & departs Perry Barr
+13:54 2J15 Passes Smethwick Approach (W)
+13:54 2P72 Arrives & departs Duddeston
+13:54 2P48 Departs from Kings Norton Loop
+13:54 2P49 Arrives & departs Gravelly Hill
+13:55 2J15 Arrives & departs Smethwick Galton Bridge
+13:56 2T42 Arrives & departs Hamstead
+13:56 2P48 Arrives at Kings Norton
+13:56 2P48 At Kings Norton forms new service 2P49
+13:56 2P49 New service at Kings Norton from 2P48
+13:56 2P49 Arrives & departs Erdington
+13:58 2J15 Arrives & departs The Hawthorns
+13:58 2G43 Arrives at Birmingham New Street
+13:58 2P72 Arrives at Birmingham New Street
+13:58 2P49 Departs from Kings Norton
+13:58 2P49 Arrives & departs Chester Road
+13:59 2K14 Enters at Leamington Link
+13:59 2G43 Changes direction at Birmingham New Street
+14:00 2G43 At Birmingham New Street forms new service 2T44
+14:00 2T42 Arrives & departs Tame Bridge Parkway
+14:00 2T44 New service at Birmingham New Street from 2G43
+14:00 2P72 Departs from Birmingham New Street
+14:00 2P49 Arrives & departs Bournville
+14:00 2P49 Arrives & departs Wylde Green
+14:00 6H22 Exits railway at Derby Link
+14:01 2K14 Arrives & departs Tyseley
+14:01 2J15 Arrives & departs Jewellery Quarter
+14:01 2J15 Passes Snow Hill Approach (W)
+14:02 2G45 Enters at Stafford Link
+14:02 2T42 Arrives & departs Bescot Stadium
+14:03 2K14 Arrives & departs Small Heath
+14:03 2G45 Arrives & departs Bescot Stadium
+14:03 2T42 Exits railway at Stafford Link
+14:03 2P72 Arrives & departs Five Ways
+14:03 2P49 Arrives & departs Selly Oak
+14:03 2P49 Arrives & departs Sutton Coldfield
+14:05 2J15 Arrives at Snow Hill
+14:05 2P72 Arrives & departs University
+14:05 2P49 Arrives & departs University
+14:05 2P49 Arrives at Four Oaks
+14:05 2P49 Changes direction at Four Oaks
+14:06 2G45 Arrives & departs Tame Bridge Parkway
+14:06 2P48 Repeat shuttle service at Four Oaks from  2P49
+14:06 2P49 At Four Oaks forms new service  2P48
+14:07 2K14 Arrives & departs Moor Street
+14:07 2J15 Departs from Snow Hill
+14:07 2G45 Passes Perry Barr Jn. Approach (W)
+14:07 2P48 Departs from Four Oaks
+14:08 2K14 Passes Snow Hill Approach (E)
+14:08 2P72 Arrives & departs Selly Oak
+14:08 2P49 Arrives & departs Five Ways
+14:09 2P72 Passes Kings Norton Approach (NE)
+14:09 2P48 Arrives & departs Sutton Coldfield
+14:10 2K14 Arrives at Snow Hill
+14:10 2J15 Arrives & departs Moor Street
+14:10 2G45 Arrives & departs Hamstead
+14:10 2P72 Arrives & departs Bournville
+14:11 2K14 Departs from Snow Hill
+14:11 2P49 Arrives at Birmingham New Street
+14:12 2T44 Departs from Birmingham New Street
+14:12 2P72 Arrives & departs Kings Norton
+14:12 2P48 Arrives & departs Wylde Green
+14:13 2K14 Arrives & departs Jewellery Quarter
+14:13 2G45 Arrives & departs Perry Barr
+14:14 2J15 Arrives & departs Small Heath
+14:14 2P48 Arrives & departs Chester Road
+14:15 2G45 Arrives & departs Witton
+14:15 2P72 Arrives at Kings Norton Loop
+14:15 2P72 Changes direction at Kings Norton Loop
+14:15 2P49 Departs from Birmingham New Street
+14:16 2J15 Arrives & departs Tyseley
+14:16 2G45 Passes Aston Jn. Approach (W)
+14:16 2T44 Arrives & departs Duddeston
+14:16 2P48 Arrives & departs Erdington
+14:17 2J15 Exits railway at Leamington Link
+14:17 2P49 Arrives & departs Duddeston
+14:17 2P48 Passes Aston Jn. Approach (N)
+14:18 2K14 Arrives & departs The Hawthorns
+14:18 2G45 Arrives & departs Aston
+14:19 2K14 Passes Galton Br. Approach (E)
+14:19 2T44 Arrives & departs Aston
+14:19 2P48 Arrives & departs Gravelly Hill
+14:20 2K14 Arrives & departs Smethwick Galton Bridge
+14:20 2P49 Arrives & departs Aston
+14:21 2G45 Arrives & departs Duddeston
+14:21 2T44 Arrives & departs Witton
+14:22 2K14 Arrives & departs Langley Green
+14:22 2J15 Enters at Kidderminster Link
+14:22 2T44 Passes Perry Barr Jn. Approach (E)
+14:22 2P48 Arrives & departs Aston
+14:23 2K14 Exits railway at Kidderminster Link
+14:23 2J15 Arrives & departs Langley Green
+14:23 2T44 Arrives & departs Perry Barr
+14:24 2J15 Passes Smethwick Approach (W)
+14:24 2P72 Departs from Kings Norton Loop
+14:24 2P49 Arrives & departs Gravelly Hill
+14:24 2P48 Arrives & departs Duddeston
+14:25 2J15 Arrives & departs Smethwick Galton Bridge
+14:26 2T44 Arrives & departs Hamstead
+14:26 2P72 Arrives at Kings Norton
+14:26 2P72 At Kings Norton forms new service 2P73
+14:26 2P73 New service at Kings Norton from 2P72
+14:26 2P49 Arrives & departs Erdington
+14:28 2J15 Arrives & departs The Hawthorns
+14:28 2G45 Arrives at Birmingham New Street
+14:28 2P73 Departs from Kings Norton
+14:28 2P49 Arrives & departs Chester Road
+14:28 2P48 Arrives at Birmingham New Street
+14:29 2K14 Enters at Leamington Link
+14:29 2G45 Changes direction at Birmingham New Street
+14:30 2G45 At Birmingham New Street forms new service 2T46
+14:30 2T44 Arrives & departs Tame Bridge Parkway
+14:30 2T46 New service at Birmingham New Street from 2G45
+14:30 2P73 Arrives & departs Bournville
+14:30 2P49 Arrives & departs Wylde Green
+14:30 2P48 Departs from Birmingham New Street
+14:31 2K14 Arrives & departs Tyseley
+14:31 2J15 Arrives & departs Jewellery Quarter
+14:31 2J15 Passes Snow Hill Approach (W)
+14:32 2G47 Enters at Stafford Link
+14:32 2T44 Arrives & departs Bescot Stadium
+14:33 2K14 Arrives & departs Small Heath
+14:33 2G47 Arrives & departs Bescot Stadium
+14:33 2T44 Exits railway at Stafford Link
+14:33 2P73 Arrives & departs Selly Oak
+14:33 2P49 Arrives & departs Sutton Coldfield
+14:33 2P48 Arrives & departs Five Ways
+14:35 2J15 Arrives at Snow Hill
+14:35 2P73 Arrives & departs University
+14:35 2P49 Arrives at Four Oaks
+14:35 2P49 Changes direction at Four Oaks
+14:35 2P48 Arrives & departs University
+14:36 2G47 Arrives & departs Tame Bridge Parkway
+14:36 2P73 Passes New Street Approach (SW)
+14:36 2P48 Repeat shuttle service at Four Oaks from  2P49
+14:36 2P49 At Four Oaks forms new service  2P48
+14:37 2K14 Arrives & departs Moor Street
+14:37 2J15 Departs from Snow Hill
+14:37 2G47 Passes Perry Barr Jn. Approach (W)
+14:37 2P48 Departs from Four Oaks
+14:38 2K14 Passes Snow Hill Approach (E)
+14:38 2P73 Arrives & departs Five Ways
+14:38 2P48 Arrives & departs Selly Oak
+14:39 2P48 Arrives & departs Sutton Coldfield
+14:39 2P48 Passes Kings Norton Approach (NE)
+14:40 2K14 Arrives at Snow Hill
+14:40 2J15 Arrives & departs Moor Street
+14:40 2G47 Arrives & departs Hamstead
+14:40 2P48 Arrives & departs Bournville
+14:41 2K14 Departs from Snow Hill
+14:41 2P73 Arrives at Birmingham New Street
+14:42 2T46 Departs from Birmingham New Street
+14:42 2P48 Arrives & departs Wylde Green
+14:42 2P48 Arrives & departs Kings Norton
+14:43 2K14 Arrives & departs Jewellery Quarter
+14:43 2G47 Arrives & departs Perry Barr
+14:44 2J15 Arrives & departs Small Heath
+14:44 2P48 Arrives & departs Chester Road
+14:45 2G47 Arrives & departs Witton
+14:45 2P73 Departs from Birmingham New Street
+14:45 2P48 Arrives at Kings Norton Loop
+14:45 2P48 Changes direction at Kings Norton Loop
+14:46 2J15 Arrives & departs Tyseley
+14:46 2G47 Passes Aston Jn. Approach (W)
+14:46 2T46 Arrives & departs Duddeston
+14:46 2P48 Arrives & departs Erdington
+14:47 2J15 Exits railway at Leamington Link
+14:47 2P73 Arrives & departs Duddeston
+14:47 2P48 Passes Aston Jn. Approach (N)
+14:48 2K14 Arrives & departs The Hawthorns
+14:48 2G47 Arrives & departs Aston
+14:49 2K14 Passes Galton Br. Approach (E)
+14:49 2T46 Arrives & departs Aston
+14:49 2P48 Arrives & departs Gravelly Hill
+14:50 2K14 Arrives & departs Smethwick Galton Bridge
+14:50 2P73 Arrives & departs Aston
+14:51 2G47 Arrives & departs Duddeston
+14:51 2T46 Arrives & departs Witton
+14:52 2K14 Arrives & departs Langley Green
+14:52 2J15 Enters at Kidderminster Link
+14:52 2T46 Passes Perry Barr Jn. Approach (E)
+14:52 2P48 Arrives & departs Aston
+14:53 2K14 Exits railway at Kidderminster Link
+14:53 2J15 Arrives & departs Langley Green
+14:53 2T46 Arrives & departs Perry Barr
+14:54 2J15 Passes Smethwick Approach (W)
+14:54 2P73 Arrives & departs Gravelly Hill
+14:54 2P48 Arrives & departs Duddeston
+14:54 2P48 Departs from Kings Norton Loop
+14:55 2J15 Arrives & departs Smethwick Galton Bridge
+14:55 3L37 Enters at Freightliner Terminal
+14:56 2T46 Arrives & departs Hamstead
+14:56 2P73 Arrives & departs Erdington
+14:56 2P48 Arrives at Kings Norton
+14:56 2P48 At Kings Norton forms new service 2P49
+14:56 2P49 New service at Kings Norton from 2P48
+14:58 2J15 Arrives & departs The Hawthorns
+14:58 2G47 Arrives at Birmingham New Street
+14:58 2P73 Arrives & departs Chester Road
+14:58 2P48 Arrives at Birmingham New Street
+14:58 2P49 Departs from Kings Norton
+14:59 2K14 Enters at Leamington Link
+14:59 2G47 Changes direction at Birmingham New Street
+15:00 2G47 At Birmingham New Street forms new service 2T48
+15:00 2T46 Arrives & departs Tame Bridge Parkway
+15:00 2T48 New service at Birmingham New Street from 2G47
+15:00 2P73 Arrives & departs Wylde Green
+15:00 2P49 Arrives & departs Bournville
+15:01 2K14 Arrives & departs Tyseley
+15:01 2J15 Arrives & departs Jewellery Quarter
+15:01 2J15 Passes Snow Hill Approach (W)
+15:01 2P48 Departs from Birmingham New Street
+15:02 2G49 Enters at Stafford Link
+15:02 2T46 Arrives & departs Bescot Stadium
+15:03 2K14 Arrives & departs Small Heath
+15:03 2G49 Arrives & departs Bescot Stadium
+15:03 2T46 Exits railway at Stafford Link
+15:03 2P73 Arrives & departs Sutton Coldfield
+15:03 2P48 Arrives & departs Five Ways
+15:03 2P49 Arrives & departs Selly Oak
+15:05 2J15 Arrives at Snow Hill
+15:05 2P73 Arrives at Four Oaks
+15:05 2P73 Changes direction at Four Oaks
+15:05 2P48 Arrives & departs University
+15:05 2P49 Arrives & departs University
+15:06 2G49 Arrives & departs Tame Bridge Parkway
+15:06 2P78 Repeat shuttle service at Four Oaks from  2P73
+15:06 2P73 At Four Oaks forms new service  2P78
+15:07 2K14 Arrives & departs Moor Street
+15:07 2J15 Departs from Snow Hill
+15:07 2G49 Passes Perry Barr Jn. Approach (W)
+15:07 2P78 Departs from Four Oaks
+15:08 2K14 Passes Snow Hill Approach (E)
+15:08 2P48 Arrives & departs Selly Oak
+15:08 2P49 Arrives & departs Five Ways
+15:09 2P78 Arrives & departs Sutton Coldfield
+15:09 2P48 Passes Kings Norton Approach (NE)
+15:10 2K14 Arrives at Snow Hill
+15:10 2J15 Arrives & departs Moor Street
+15:10 2G49 Arrives & departs Hamstead
+15:10 2P48 Arrives & departs Bournville
+15:10 3L37 Passes Moseley Tunnel
+15:11 2K14 Departs from Snow Hill
+15:11 2P49 Arrives at Birmingham New Street
+15:12 2T48 Departs from Birmingham New Street
+15:12 2P78 Arrives & departs Wylde Green
+15:12 2P48 Arrives & departs Kings Norton
+15:13 2K14 Arrives & departs Jewellery Quarter
+15:13 2G49 Arrives & departs Perry Barr
+15:14 2J15 Arrives & departs Small Heath
+15:14 2P78 Arrives & departs Chester Road
+15:15 2G49 Arrives & departs Witton
+15:15 2P48 Arrives at Kings Norton Loop
+15:15 2P48 Changes direction at Kings Norton Loop
+15:15 2P49 Departs from Birmingham New Street
+15:16 2J15 Arrives & departs Tyseley
+15:16 2G49 Passes Aston Jn. Approach (W)
+15:16 2T48 Arrives & departs Duddeston
+15:16 2P78 Arrives & departs Erdington
+15:16 3L37 Passes Kings Norton Approach (SE)
+15:17 2J15 Exits railway at Leamington Link
+15:17 2P78 Passes Aston Jn. Approach (N)
+15:17 2P49 Arrives & departs Duddeston
+15:18 2K14 Arrives & departs The Hawthorns
+15:18 2G49 Arrives & departs Aston
+15:19 2K14 Passes Galton Br. Approach (E)
+15:19 2T48 Arrives & departs Aston
+15:19 2P78 Arrives & departs Gravelly Hill
+15:20 2K14 Arrives & departs Smethwick Galton Bridge
+15:20 2P49 Arrives & departs Aston
+15:20 3L37 Exits railway at Worcester Link
+15:21 2G49 Arrives & departs Duddeston
+15:21 2T48 Arrives & departs Witton
+15:22 2K14 Arrives & departs Langley Green
+15:22 2J15 Enters at Kidderminster Link
+15:22 2T48 Passes Perry Barr Jn. Approach (E)
+15:22 2P78 Arrives & departs Aston
+15:23 2K14 Exits railway at Kidderminster Link
+15:23 2J15 Arrives & departs Langley Green
+15:23 2T48 Arrives & departs Perry Barr
+15:24 2J15 Passes Smethwick Approach (W)
+15:24 2P78 Arrives & departs Duddeston
+15:24 2P48 Departs from Kings Norton Loop
+15:24 2P49 Arrives & departs Gravelly Hill
+15:25 2J15 Arrives & departs Smethwick Galton Bridge
+15:26 2T48 Arrives & departs Hamstead
+15:26 2P48 Arrives at Kings Norton
+15:26 2P48 At Kings Norton forms new service 2P49
+15:26 2P49 New service at Kings Norton from 2P48
+15:26 2P49 Arrives & departs Erdington
+15:28 2J15 Arrives & departs The Hawthorns
+15:28 2G49 Arrives at Birmingham New Street
+15:28 2P78 Arrives at Birmingham New Street
+15:28 2P49 Departs from Kings Norton
+15:28 2P49 Arrives & departs Chester Road
+15:29 2K14 Enters at Leamington Link
+15:29 2G49 Changes direction at Birmingham New Street
+15:30 2G49 At Birmingham New Street forms new service 2T50
+15:30 2T48 Arrives & departs Tame Bridge Parkway
+15:30 2T50 New service at Birmingham New Street from 2G49
+15:30 2P78 Departs from Birmingham New Street
+15:30 2P49 Arrives & departs Bournville
+15:30 2P49 Arrives & departs Wylde Green
+15:30 6H24 Enters at Worcester Link
+15:31 2K14 Arrives & departs Tyseley
+15:31 2J15 Arrives & departs Jewellery Quarter
+15:31 2J15 Passes Snow Hill Approach (W)
+15:32 2T48 Arrives & departs Bescot Stadium
+15:33 2K14 Arrives & departs Small Heath
+15:33 2T48 Exits railway at Stafford Link
+15:33 2P78 Arrives & departs Five Ways
+15:33 2P49 Arrives & departs Selly Oak
+15:33 2P49 Arrives & departs Sutton Coldfield
+15:35 2J15 Arrives at Snow Hill
+15:35 2P78 Arrives & departs University
+15:35 2P49 Arrives & departs University
+15:35 2P49 Arrives at Four Oaks
+15:35 2P49 Changes direction at Four Oaks
+15:36 2P48 Repeat shuttle service at Four Oaks from  2P49
+15:36 2P49 At Four Oaks forms new service  2P48
+15:37 2K14 Arrives & departs Moor Street
+15:37 2J15 Departs from Snow Hill
+15:37 2P48 Departs from Four Oaks
+15:38 2K14 Passes Snow Hill Approach (E)
+15:38 2P78 Arrives & departs Selly Oak
+15:38 2P49 Arrives & departs Five Ways
+15:39 2P78 Passes Kings Norton Approach (NE)
+15:39 2P48 Arrives & departs Sutton Coldfield
+15:40 2K14 Arrives at Snow Hill
+15:40 2J15 Arrives & departs Moor Street
+15:40 2P78 Arrives & departs Bournville
+15:41 2K14 Departs from Snow Hill
+15:41 2P49 Arrives at Birmingham New Street
+15:42 2T50 Departs from Birmingham New Street
+15:42 2P78 Arrives & departs Kings Norton
+15:42 2P48 Arrives & departs Wylde Green
+15:43 2K14 Arrives & departs Jewellery Quarter
+15:44 2J15 Arrives & departs Small Heath
+15:44 2P48 Arrives & departs Chester Road
+15:45 2P78 Arrives at Kings Norton Loop
+15:45 2P78 Changes direction at Kings Norton Loop
+15:45 2P49 Departs from Birmingham New Street
+15:45 6H24 Passes Moseley Tunnel
+15:46 2J15 Arrives & departs Tyseley
+15:46 2T50 Arrives & departs Duddeston
+15:46 2P48 Arrives & departs Erdington
+15:47 2J15 Exits railway at Leamington Link
+15:47 2P49 Arrives & departs Duddeston
+15:47 2P48 Passes Aston Jn. Approach (N)
+15:48 2K14 Arrives & departs The Hawthorns
+15:49 2K14 Passes Galton Br. Approach (E)
+15:49 2T50 Arrives & departs Aston
+15:49 2P48 Arrives & departs Gravelly Hill
+15:50 2K14 Arrives & departs Smethwick Galton Bridge
+15:50 2P49 Arrives & departs Aston
+15:51 2T50 Arrives & departs Witton
+15:52 2K14 Arrives & departs Langley Green
+15:52 2T50 Passes Perry Barr Jn. Approach (E)
+15:52 2P48 Arrives & departs Aston
+15:53 2K14 Exits railway at Kidderminster Link
+15:53 2T50 Arrives & departs Perry Barr
+15:54 2P78 Departs from Kings Norton Loop
+15:54 2P49 Arrives & departs Gravelly Hill
+15:54 2P48 Arrives & departs Duddeston
+15:56 2T50 Arrives & departs Hamstead
+15:56 2P78 Arrives at Kings Norton
+15:56 2P78 At Kings Norton forms new service 2P79
+15:56 2P79 New service at Kings Norton from 2P78
+15:56 2P49 Arrives & departs Erdington
+15:58 2P79 Departs from Kings Norton
+15:58 2P49 Arrives & departs Chester Road
+15:58 2P48 Arrives at Birmingham New Street
+16:00 2T50 Arrives & departs Tame Bridge Parkway
+16:00 2P79 Arrives & departs Bournville
+16:00 2P49 Arrives & departs Wylde Green
+16:00 2P48 Departs from Birmingham New Street
+16:00 6H24 Exits railway at Derby Link
+16:02 2T50 Arrives & departs Bescot Stadium
+16:03 2T50 Exits railway at Stafford Link
+16:03 2P79 Arrives & departs Selly Oak
+16:03 2P49 Arrives & departs Sutton Coldfield
+16:03 2P48 Arrives & departs Five Ways
+16:05 2P79 Arrives & departs University
+16:05 2P49 Arrives at Four Oaks
+16:05 2P49 Changes direction at Four Oaks
+16:05 2P48 Arrives & departs University
+16:06 2P79 Passes New Street Approach (SW)
+16:06 2P48 Repeat shuttle service at Four Oaks from  2P49
+16:06 2P49 At Four Oaks forms new service  2P48
+16:07 2P48 Departs from Four Oaks
+16:08 2P79 Arrives & departs Five Ways
+16:08 2P48 Arrives & departs Selly Oak
+16:09 2P48 Arrives & departs Sutton Coldfield
+16:09 2P48 Passes Kings Norton Approach (NE)
+16:10 2P48 Arrives & departs Bournville
+16:11 2P79 Arrives at Birmingham New Street
+16:12 2P48 Arrives & departs Wylde Green
+16:12 2P48 Arrives & departs Kings Norton
+16:14 2P48 Arrives & departs Chester Road
+16:15 2P79 Departs from Birmingham New Street
+16:15 2P48 Arrives at Kings Norton Loop
+16:15 2P48 Changes direction at Kings Norton Loop
+16:16 2P48 Arrives & departs Erdington
+16:17 2P79 Arrives & departs Duddeston
+16:17 2P48 Passes Aston Jn. Approach (N)
+16:19 2P48 Arrives & departs Gravelly Hill
+16:20 2P79 Arrives & departs Aston
+16:22 2P48 Arrives & departs Aston
+16:24 2P79 Arrives & departs Gravelly Hill
+16:24 2P48 Arrives & departs Duddeston
+16:24 2P48 Departs from Kings Norton Loop
+16:25 3L39 Enters at Freightliner Terminal
+16:26 2P79 Arrives & departs Erdington
+16:26 2P48 Arrives at Kings Norton
+16:26 2P48 At Kings Norton forms new service 2P49
+16:26 2P49 New service at Kings Norton from 2P48
+16:28 2P79 Arrives & departs Chester Road
+16:28 2P48 Arrives at Birmingham New Street
+16:28 2P49 Departs from Kings Norton
+16:30 2P79 Arrives & departs Wylde Green
+16:30 2P49 Arrives & departs Bournville
+16:31 2P48 Departs from Birmingham New Street
+16:33 2P79 Arrives & departs Sutton Coldfield
+16:33 2P48 Arrives & departs Five Ways
+16:33 2P49 Arrives & departs Selly Oak
+16:35 2P79 Arrives at Four Oaks
+16:35 2P79 Changes direction at Four Oaks
+16:35 2P48 Arrives & departs University
+16:35 2P49 Arrives & departs University
+16:36 2P84 Repeat shuttle service at Four Oaks from  2P79
+16:36 2P79 At Four Oaks forms new service  2P84
+16:37 2P84 Departs from Four Oaks
+16:38 2P48 Arrives & departs Selly Oak
+16:38 2P49 Arrives & departs Five Ways
+16:39 2P84 Arrives & departs Sutton Coldfield
+16:39 2P48 Passes Kings Norton Approach (NE)
+16:40 2P48 Arrives & departs Bournville
+16:40 3L39 Passes Moseley Tunnel
+16:41 2P49 Arrives at Birmingham New Street
+16:42 2P84 Arrives & departs Wylde Green
+16:42 2P48 Arrives & departs Kings Norton
+16:44 2P84 Arrives & departs Chester Road
+16:45 2P48 Arrives at Kings Norton Loop
+16:45 2P48 Changes direction at Kings Norton Loop
+16:45 2P49 Departs from Birmingham New Street
+16:46 2P84 Arrives & departs Erdington
+16:46 3L39 Passes Kings Norton Approach (SE)
+16:47 2P84 Passes Aston Jn. Approach (N)
+16:47 2P49 Arrives & departs Duddeston
+16:49 2P84 Arrives & departs Gravelly Hill
+16:50 2P49 Arrives & departs Aston
+16:50 3L39 Exits railway at Worcester Link
+16:52 2P84 Arrives & departs Aston
+16:54 2P84 Arrives & departs Duddeston
+16:54 2P48 Departs from Kings Norton Loop
+16:54 2P49 Arrives & departs Gravelly Hill
+16:56 2P48 Arrives at Kings Norton
+16:56 2P48 At Kings Norton forms new service 2P49
+16:56 2P49 New service at Kings Norton from 2P48
+16:56 2P49 Arrives & departs Erdington
+16:58 2P84 Arrives at Birmingham New Street
+16:58 2P49 Departs from Kings Norton
+16:58 2P49 Arrives & departs Chester Road
+17:00 2P84 Departs from Birmingham New Street
+17:00 2P49 Arrives & departs Bournville
+17:00 2P49 Arrives & departs Wylde Green
+17:03 2P84 Arrives & departs Five Ways
+17:03 2P49 Arrives & departs Selly Oak
+17:03 2P49 Arrives & departs Sutton Coldfield
+17:05 2P84 Arrives & departs University
+17:05 2P49 Arrives & departs University
+17:05 2P49 Arrives at Four Oaks
+17:05 2P49 Changes direction at Four Oaks
+17:06 2P48 Repeat shuttle service at Four Oaks from  2P49
+17:06 2P49 At Four Oaks forms new service  2P48
+17:07 2P48 Departs from Four Oaks
+17:08 2P84 Arrives & departs Selly Oak
+17:08 2P49 Arrives & departs Five Ways
+17:09 2P84 Passes Kings Norton Approach (NE)
+17:09 2P48 Arrives & departs Sutton Coldfield
+17:10 2P84 Arrives & departs Bournville
+17:11 2P49 Arrives at Birmingham New Street
+17:12 2P84 Arrives & departs Kings Norton
+17:12 2P48 Arrives & departs Wylde Green
+17:14 2P48 Arrives & departs Chester Road
+17:15 2P84 Arrives at Kings Norton Loop
+17:15 2P84 Changes direction at Kings Norton Loop
+17:15 2P49 Departs from Birmingham New Street
+17:16 2P48 Arrives & departs Erdington
+17:17 2P49 Arrives & departs Duddeston
+17:17 2P48 Passes Aston Jn. Approach (N)
+17:19 2P48 Arrives & departs Gravelly Hill
+17:20 2P49 Arrives & departs Aston
+17:22 2P48 Arrives & departs Aston
+17:24 2P84 Departs from Kings Norton Loop
+17:24 2P49 Arrives & departs Gravelly Hill
+17:24 2P48 Arrives & departs Duddeston
+17:26 2P84 Arrives at Kings Norton
+17:26 2P84 At Kings Norton forms new service 2P85
+17:26 2P85 New service at Kings Norton from 2P84
+17:26 2P49 Arrives & departs Erdington
+17:28 2P85 Departs from Kings Norton
+17:28 2P49 Arrives & departs Chester Road
+17:28 2P48 Arrives at Birmingham New Street
+17:30 2P85 Arrives & departs Bournville
+17:30 2P49 Arrives & departs Wylde Green
+17:30 2P48 Departs from Birmingham New Street
+17:30 6H26 Enters at Worcester Link
+17:33 2P85 Arrives & departs Selly Oak
+17:33 2P49 Arrives & departs Sutton Coldfield
+17:33 2P48 Arrives & departs Five Ways
+17:35 2P85 Arrives & departs University
+17:35 2P49 Arrives at Four Oaks
+17:35 2P49 Changes direction at Four Oaks
+17:35 2P48 Arrives & departs University
+17:36 2P85 Passes New Street Approach (SW)
+17:36 2P48 Repeat shuttle service at Four Oaks from  2P49
+17:36 2P49 At Four Oaks forms new service  2P48
+17:37 2P48 Departs from Four Oaks
+17:38 2P85 Arrives & departs Five Ways
+17:38 2P48 Arrives & departs Selly Oak
+17:39 2P48 Arrives & departs Sutton Coldfield
+17:39 2P48 Passes Kings Norton Approach (NE)
+17:40 2P48 Arrives & departs Bournville
+17:41 2P85 Arrives at Birmingham New Street
+17:42 2P48 Arrives & departs Wylde Green
+17:42 2P48 Arrives & departs Kings Norton
+17:44 2P48 Arrives & departs Chester Road
+17:45 2P85 Departs from Birmingham New Street
+17:45 2P48 Arrives at Kings Norton Loop
+17:45 2P48 Changes direction at Kings Norton Loop
+17:45 6H26 Passes Moseley Tunnel
+17:46 2P48 Arrives & departs Erdington
+17:47 2P85 Arrives & departs Duddeston
+17:47 2P48 Passes Aston Jn. Approach (N)
+17:49 2P48 Arrives & departs Gravelly Hill
+17:50 2P85 Arrives & departs Aston
+17:52 2P48 Arrives & departs Aston
+17:54 2P85 Arrives & departs Gravelly Hill
+17:54 2P48 Arrives & departs Duddeston
+17:54 2P48 Departs from Kings Norton Loop
+17:55 3L41 Enters at Freightliner Terminal
+17:56 2P85 Arrives & departs Erdington
+17:56 2P48 Arrives at Kings Norton
+17:56 2P48 At Kings Norton forms new service 2P49
+17:56 2P49 New service at Kings Norton from 2P48
+17:58 2P85 Arrives & departs Chester Road
+17:58 2P48 Arrives at Birmingham New Street
+17:58 2P49 Departs from Kings Norton
+18:00 2P85 Arrives & departs Wylde Green
+18:00 2P49 Arrives & departs Bournville
+18:00 6H26 Exits railway at Derby Link
+18:01 2P48 Departs from Birmingham New Street
+18:03 2P85 Arrives & departs Sutton Coldfield
+18:03 2P48 Arrives & departs Five Ways
+18:03 2P49 Arrives & departs Selly Oak
+18:05 2P85 Arrives at Four Oaks
+18:05 2P85 Changes direction at Four Oaks
+18:05 2P48 Arrives & departs University
+18:05 2P49 Arrives & departs University
+18:06 2P90 Repeat shuttle service at Four Oaks from  2P85
+18:06 2P85 At Four Oaks forms new service  2P90
+18:07 2P90 Departs from Four Oaks
+18:08 2P48 Arrives & departs Selly Oak
+18:08 2P49 Arrives & departs Five Ways
+18:09 2P90 Arrives & departs Sutton Coldfield
+18:09 2P48 Passes Kings Norton Approach (NE)
+18:10 2P48 Arrives & departs Bournville
+18:10 3L41 Passes Moseley Tunnel
+18:11 2P49 Arrives at Birmingham New Street
+18:12 2P90 Arrives & departs Wylde Green
+18:12 2P48 Arrives & departs Kings Norton
+18:14 2P90 Arrives & departs Chester Road
+18:15 2P48 Arrives at Kings Norton Loop
+18:15 2P48 Changes direction at Kings Norton Loop
+18:15 2P49 Departs from Birmingham New Street
+18:16 2P90 Arrives & departs Erdington
+18:16 3L41 Passes Kings Norton Approach (SE)
+18:17 2P90 Passes Aston Jn. Approach (N)
+18:17 2P49 Arrives & departs Duddeston
+18:19 2P90 Arrives & departs Gravelly Hill
+18:20 2P49 Arrives & departs Aston
+18:20 3L41 Exits railway at Worcester Link
+18:22 2P90 Arrives & departs Aston
+18:24 2P90 Arrives & departs Duddeston
+18:24 2P48 Departs from Kings Norton Loop
+18:24 2P49 Arrives & departs Gravelly Hill
+18:26 2P48 Arrives at Kings Norton
+18:26 2P48 At Kings Norton forms new service 2P49
+18:26 2P49 New service at Kings Norton from 2P48
+18:26 2P49 Arrives & departs Erdington
+18:28 2P90 Arrives at Birmingham New Street
+18:28 2P49 Departs from Kings Norton
+18:28 2P49 Arrives & departs Chester Road
+18:30 2P90 Departs from Birmingham New Street
+18:30 2P49 Arrives & departs Bournville
+18:30 2P49 Arrives & departs Wylde Green
+18:33 2P90 Arrives & departs Five Ways
+18:33 2P49 Arrives & departs Selly Oak
+18:33 2P49 Arrives & departs Sutton Coldfield
+18:35 2P90 Arrives & departs University
+18:35 2P49 Arrives & departs University
+18:35 2P49 Arrives at Four Oaks
+18:35 2P49 Changes direction at Four Oaks
+18:36 2P48 Repeat shuttle service at Four Oaks from  2P49
+18:36 2P49 At Four Oaks forms new service  2P48
+18:37 2P48 Departs from Four Oaks
+18:38 2P90 Arrives & departs Selly Oak
+18:38 2P49 Arrives & departs Five Ways
+18:39 2P90 Passes Kings Norton Approach (NE)
+18:39 2P48 Arrives & departs Sutton Coldfield
+18:40 2P90 Arrives & departs Bournville
+18:41 2P49 Arrives at Birmingham New Street
+18:42 2P90 Arrives & departs Kings Norton
+18:42 2P48 Arrives & departs Wylde Green
+18:44 2P48 Arrives & departs Chester Road
+18:45 2P90 Arrives at Kings Norton Loop
+18:45 2P90 Changes direction at Kings Norton Loop
+18:45 2P49 Departs from Birmingham New Street
+18:46 2P48 Arrives & departs Erdington
+18:47 2P49 Arrives & departs Duddeston
+18:47 2P48 Passes Aston Jn. Approach (N)
+18:49 2P48 Arrives & departs Gravelly Hill
+18:50 2P49 Arrives & departs Aston
+18:52 2P48 Arrives & departs Aston
+18:54 2P90 Departs from Kings Norton Loop
+18:54 2P49 Arrives & departs Gravelly Hill
+18:54 2P48 Arrives & departs Duddeston
+18:56 2P90 Arrives at Kings Norton
+18:56 2P90 At Kings Norton forms new service 2P91
+18:56 2P91 New service at Kings Norton from 2P90
+18:56 2P49 Arrives & departs Erdington
+18:58 2P91 Departs from Kings Norton
+18:58 2P49 Arrives & departs Chester Road
+18:58 2P48 Arrives at Birmingham New Street
+19:00 2P91 Arrives & departs Bournville
+19:00 2P49 Arrives & departs Wylde Green
+19:00 2P48 Departs from Birmingham New Street
+19:03 2P91 Arrives & departs Selly Oak
+19:03 2P49 Arrives & departs Sutton Coldfield
+19:03 2P48 Arrives & departs Five Ways
+19:05 2P91 Arrives & departs University
+19:05 2P49 Arrives at Four Oaks
+19:05 2P49 Changes direction at Four Oaks
+19:05 2P48 Arrives & departs University
+19:06 2P91 Passes New Street Approach (SW)
+19:06 2P48 Repeat shuttle service at Four Oaks from  2P49
+19:06 2P49 At Four Oaks forms new service  2P48
+19:07 2P48 Departs from Four Oaks
+19:08 2P91 Arrives & departs Five Ways
+19:08 2P48 Arrives & departs Selly Oak
+19:09 2P48 Arrives & departs Sutton Coldfield
+19:09 2P48 Passes Kings Norton Approach (NE)
+19:10 2P48 Arrives & departs Bournville
+19:11 2P91 Arrives at Birmingham New Street
+19:12 2P48 Arrives & departs Wylde Green
+19:12 2P48 Arrives & departs Kings Norton
+19:14 2P48 Arrives & departs Chester Road
+19:15 2P91 Departs from Birmingham New Street
+19:15 2P48 Arrives at Kings Norton Loop
+19:15 2P48 Changes direction at Kings Norton Loop
+19:16 2P48 Arrives & departs Erdington
+19:17 2P91 Arrives & departs Duddeston
+19:17 2P48 Passes Aston Jn. Approach (N)
+19:19 2P48 Arrives & departs Gravelly Hill
+19:20 2P91 Arrives & departs Aston
+19:22 2P48 Arrives & departs Aston
+19:24 2P91 Arrives & departs Gravelly Hill
+19:24 2P48 Arrives & departs Duddeston
+19:24 2P48 Departs from Kings Norton Loop
+19:25 3L43 Enters at Freightliner Terminal
+19:26 2P91 Arrives & departs Erdington
+19:26 2P48 Arrives at Kings Norton
+19:26 2P48 At Kings Norton forms new service 2P49
+19:26 2P49 New service at Kings Norton from 2P48
+19:28 2P91 Arrives & departs Chester Road
+19:28 2P48 Arrives at Birmingham New Street
+19:28 2P49 Departs from Kings Norton
+19:30 2P91 Arrives & departs Wylde Green
+19:30 2P49 Arrives & departs Bournville
+19:30 6H28 Enters at Worcester Link
+19:31 2P48 Departs from Birmingham New Street
+19:33 2P91 Arrives & departs Sutton Coldfield
+19:33 2P48 Arrives & departs Five Ways
+19:33 2P49 Arrives & departs Selly Oak
+19:35 2P91 Arrives at Four Oaks
+19:35 2P91 Changes direction at Four Oaks
+19:35 2P48 Arrives & departs University
+19:35 2P49 Arrives & departs University
+19:36 2P96 Repeat shuttle service at Four Oaks from  2P91
+19:36 2P91 At Four Oaks forms new service  2P96
+19:37 2P96 Departs from Four Oaks
+19:38 2P48 Arrives & departs Selly Oak
+19:38 2P49 Arrives & departs Five Ways
+19:39 2P96 Arrives & departs Sutton Coldfield
+19:39 2P48 Passes Kings Norton Approach (NE)
+19:40 2P48 Arrives & departs Bournville
+19:40 3L43 Passes Moseley Tunnel
+19:41 2P49 Arrives at Birmingham New Street
+19:42 2P96 Arrives & departs Wylde Green
+19:42 2P48 Arrives & departs Kings Norton
+19:44 2P96 Arrives & departs Chester Road
+19:45 2P48 Arrives at Kings Norton Loop
+19:45 2P48 Changes direction at Kings Norton Loop
+19:45 2P49 Departs from Birmingham New Street
+19:45 6H28 Passes Moseley Tunnel
+19:46 2P96 Arrives & departs Erdington
+19:46 3L43 Passes Kings Norton Approach (SE)
+19:47 2P96 Passes Aston Jn. Approach (N)
+19:47 2P49 Arrives & departs Duddeston
+19:49 2P96 Arrives & departs Gravelly Hill
+19:50 2P49 Arrives & departs Aston
+19:50 3L43 Exits railway at Worcester Link
+19:52 2P96 Arrives & departs Aston
+19:54 2P96 Arrives & departs Duddeston
+19:54 2P48 Departs from Kings Norton Loop
+19:54 2P49 Arrives & departs Gravelly Hill
+19:56 2P48 Arrives at Kings Norton
+19:56 2P48 At Kings Norton forms new service 2P49
+19:56 2P49 New service at Kings Norton from 2P48
+19:56 2P49 Arrives & departs Erdington
+19:58 2P96 Arrives at Birmingham New Street
+19:58 2P49 Departs from Kings Norton
+19:58 2P49 Arrives & departs Chester Road
+20:00 2P96 Departs from Birmingham New Street
+20:00 2P49 Arrives & departs Bournville
+20:00 2P49 Arrives & departs Wylde Green
+20:00 6H28 Exits railway at Derby Link
+20:03 2P96 Arrives & departs Five Ways
+20:03 2P49 Arrives & departs Selly Oak
+20:03 2P49 Arrives & departs Sutton Coldfield
+20:05 2P96 Arrives & departs University
+20:05 2P49 Arrives & departs University
+20:05 2P49 Arrives at Four Oaks
+20:05 2P49 Changes direction at Four Oaks
+20:06 2P48 Repeat shuttle service at Four Oaks from  2P49
+20:06 2P49 At Four Oaks forms new service  2P48
+20:07 2P48 Departs from Four Oaks
+20:08 2P96 Arrives & departs Selly Oak
+20:08 2P49 Arrives & departs Five Ways
+20:09 2P96 Passes Kings Norton Approach (NE)
+20:09 2P48 Arrives & departs Sutton Coldfield
+20:10 2P96 Arrives & departs Bournville
+20:11 2P49 Arrives at Birmingham New Street
+20:12 2P96 Arrives & departs Kings Norton
+20:12 2P48 Arrives & departs Wylde Green
+20:14 2P48 Arrives & departs Chester Road
+20:15 2P96 Arrives at Kings Norton Loop
+20:15 2P96 Changes direction at Kings Norton Loop
+20:15 2P49 Departs from Birmingham New Street
+20:16 2P48 Arrives & departs Erdington
+20:17 2P49 Arrives & departs Duddeston
+20:17 2P48 Passes Aston Jn. Approach (N)
+20:19 2P48 Arrives & departs Gravelly Hill
+20:20 2P49 Arrives & departs Aston
+20:22 2P48 Arrives & departs Aston
+20:24 2P96 Departs from Kings Norton Loop
+20:24 2P49 Arrives & departs Gravelly Hill
+20:24 2P48 Arrives & departs Duddeston
+20:26 2P96 Arrives at Kings Norton
+20:26 2P96 At Kings Norton forms new service 2P97
+20:26 2P97 New service at Kings Norton from 2P96
+20:26 2P49 Arrives & departs Erdington
+20:28 2P97 Departs from Kings Norton
+20:28 2P49 Arrives & departs Chester Road
+20:28 2P48 Arrives at Birmingham New Street
+20:30 2P97 Arrives & departs Bournville
+20:30 2P49 Arrives & departs Wylde Green
+20:30 2P48 Departs from Birmingham New Street
+20:33 2P97 Arrives & departs Selly Oak
+20:33 2P49 Arrives & departs Sutton Coldfield
+20:33 2P48 Arrives & departs Five Ways
+20:35 2P97 Arrives & departs University
+20:35 2P49 Arrives at Four Oaks
+20:35 2P49 Changes direction at Four Oaks
+20:35 2P48 Arrives & departs University
+20:36 2P97 Passes New Street Approach (SW)
+20:36 2P49 At Four Oaks forms new service 2P48
+20:36 2P48 New service at Four Oaks from 2P49
+20:37 2P48 Departs from Four Oaks
+20:38 2P97 Arrives & departs Five Ways
+20:38 2P48 Arrives & departs Selly Oak
+20:39 2P48 Arrives & departs Sutton Coldfield
+20:39 2P48 Passes Kings Norton Approach (NE)
+20:40 2P48 Arrives & departs Bournville
+20:41 2P97 Arrives at Birmingham New Street
+20:42 2P48 Arrives & departs Wylde Green
+20:42 2P48 Arrives & departs Kings Norton
+20:44 2P48 Arrives & departs Chester Road
+20:45 2P97 Departs from Birmingham New Street
+20:45 2P48 Arrives at Kings Norton Loop
+20:45 2P48 Changes direction at Kings Norton Loop
+20:46 2P48 Arrives & departs Erdington
+20:47 2P97 Arrives & departs Duddeston
+20:47 2P48 Passes Aston Jn. Approach (N)
+20:49 2P48 Arrives & departs Gravelly Hill
+20:50 2P97 Arrives & departs Aston
+20:52 2P48 Arrives & departs Aston
+20:54 2P97 Arrives & departs Gravelly Hill
+20:54 2P48 Arrives & departs Duddeston
+20:54 2P48 Departs from Kings Norton Loop
+20:56 2P97 Arrives & departs Erdington
+20:56 2P48 Arrives at Kings Norton
+20:56 2P48 At Kings Norton forms new service 2P49
+20:56 2P49 New service at Kings Norton from 2P48
+20:58 2P97 Arrives & departs Chester Road
+20:58 2P48 Arrives at Birmingham New Street
+20:58 2P48 At Birmingham New Street forms new service 5P28
+20:58 5P28 New service at Birmingham New Street from 2P48
+20:58 2P49 Departs from Kings Norton
+21:00 2P97 Arrives & departs Wylde Green
+21:00 5P28 Departs from Birmingham New Street
+21:00 2P49 Arrives & departs Bournville
+21:03 2P97 Arrives & departs Sutton Coldfield
+21:03 2P49 Arrives & departs Selly Oak
+21:05 2P97 Arrives at Four Oaks
+21:05 2P97 Changes direction at Four Oaks
+21:05 2P49 Arrives & departs University
+21:06 2P97 At Four Oaks forms new service 2P48
+21:06 2P48 New service at Four Oaks from 2P97
+21:06 5P28 Arrives at Soho Down Through Siding
+21:07 2P48 Departs from Four Oaks
+21:07 5P28 Changes direction at Soho Down Through Siding
+21:08 5P28 Departs from Soho Down Through Siding
+21:08 2P49 Arrives & departs Five Ways
+21:09 2P48 Arrives & departs Sutton Coldfield
+21:10 5P28 Exits railway at Soho Depot
+21:11 2P49 Arrives at Birmingham New Street
+21:12 2P48 Arrives & departs Wylde Green
+21:14 2P48 Arrives & departs Chester Road
+21:15 2P49 Departs from Birmingham New Street
+21:16 2P48 Arrives & departs Erdington
+21:17 2P48 Passes Aston Jn. Approach (N)
+21:17 2P49 Arrives & departs Duddeston
+21:19 2P48 Arrives & departs Gravelly Hill
+21:20 2P49 Arrives & departs Aston
+21:22 2P48 Arrives & departs Aston
+21:24 2P48 Arrives & departs Duddeston
+21:24 2P49 Arrives & departs Gravelly Hill
+21:26 2P49 Arrives & departs Erdington
+21:28 2P48 Arrives at Birmingham New Street
+21:28 2P48 At Birmingham New Street forms new service 5P28
+21:28 5P28 New service at Birmingham New Street from 2P48
+21:28 2P49 Arrives & departs Chester Road
+21:30 5P28 Departs from Birmingham New Street
+21:30 2P49 Arrives & departs Wylde Green
+21:33 2P49 Arrives & departs Sutton Coldfield
+21:35 2P49 Arrives at Four Oaks
+21:35 2P49 Changes direction at Four Oaks
+21:36 5P28 Arrives at Soho Down Through Siding
+21:36 2P49 At Four Oaks forms new service 2P48
+21:36 2P48 New service at Four Oaks from 2P49
+21:37 5P28 Changes direction at Soho Down Through Siding
+21:37 2P48 Departs from Four Oaks
+21:38 5P28 Departs from Soho Down Through Siding
+21:39 2P48 Arrives & departs Sutton Coldfield
+21:40 5P28 Exits railway at Soho Depot
+21:42 2P48 Arrives & departs Wylde Green
+21:44 2P48 Arrives & departs Chester Road
+21:46 2P48 Arrives & departs Erdington
+21:47 2P48 Passes Aston Jn. Approach (N)
+21:49 2P48 Arrives & departs Gravelly Hill
+21:52 2P48 Arrives & departs Aston
+21:54 2P48 Arrives & departs Duddeston
+21:58 2P48 Arrives at Birmingham New Street
+21:58 2P48 At Birmingham New Street forms new service 5P28
+21:58 5P28 New service at Birmingham New Street from 2P48
+22:00 5P28 Departs from Birmingham New Street
+22:06 5P28 Arrives at Soho Down Through Siding
+22:07 5P28 Changes direction at Soho Down Through Siding
+22:08 5P28 Departs from Soho Down Through Siding
+22:10 5P28 Exits railway at Soho Depot

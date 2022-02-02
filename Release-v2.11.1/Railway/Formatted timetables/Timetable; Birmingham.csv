@@ -1,0 +1,611 @@
+Railway: Birmingham; Timetable: Birmingham 0700 Start;  Start time: 07:00
+
+Non-timetabled train entered at Saltley; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,0X00
+
+Enters at Saltley Depot,07:00
+
+
+London to Edinburgh via Birmingham (Glasgow split at B'ham); Mass 400Te; Power 5000kW; Brake force 40Te; Maximum speed 200 km/h
+,1S14,1S18,1S22,1S26,1S30,1S34,1S38,1S42,1S46,1S50,1S54,1S58,1S62
+
+Enters at Coventry Link,07:00,07:30,08:00,08:30,09:00,09:30,10:00,10:30,11:00,11:30,12:00,12:30,13:00
+Passes New Street Approach (NE),07:02,07:32,08:02,08:32,09:02,09:32,10:02,10:32,11:02,11:32,12:02,12:32,13:02
+Arrives at Birmingham New Street,07:08,07:38,08:08,08:38,09:08,09:38,10:08,10:38,11:08,11:38,12:08,12:38,13:08
+Splits from rear at Birmingham New Street to form,1S16 at 07:09,1S20 at 07:39,1S24 at 08:09,1S28 at 08:39,1S32 at 09:09,1S36 at 09:39,1S40 at 10:09,1S44 at 10:39,1S48 at 11:09,1S52 at 11:39,1S56 at 12:09,1S60 at 12:39,1S64 at 13:09
+Departs from Birmingham New Street,07:13,07:43,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13
+Passes Soho Jn. Approach (E),07:17,07:47,08:17,08:47,09:17,09:47,10:17,10:47,11:17,11:47,12:17,12:47,13:17
+Exits railway at Wolverhampton Link,07:21,07:51,08:21,08:51,09:21,09:51,10:21,10:51,11:21,11:51,12:21,12:51,13:21
+
+
+London to Glasgow
+,1S16,1S20,1S24,1S28,1S32,1S36,1S40,1S44,1S48,1S52,1S56,1S60,1S64
+
+New service at Birmingham New Street split from,1S14 at 07:09,1S18 at 07:39,1S22 at 08:09,1S26 at 08:39,1S30 at 09:09,1S34 at 09:39,1S38 at 10:09,1S42 at 10:39,1S46 at 11:09,1S50 at 11:39,1S54 at 12:09,1S58 at 12:39,1S62 at 13:09
+Departs from Birmingham New Street,07:15,07:45,08:15,08:45,09:15,09:45,10:15,10:45,11:15,11:45,12:15,12:45,13:15
+Passes Soho Jn. Approach (E),07:19,07:49,08:19,08:49,09:19,09:49,10:19,10:49,11:19,11:49,12:19,12:49,13:19
+Exits railway at Wolverhampton Link,07:23,07:53,08:23,08:53,09:23,09:53,10:23,10:53,11:23,11:53,12:23,12:53,13:23
+
+
+Glasgow to London; Mass 200Te; Power 2500kW; Brake force 20Te; Maximum speed 200 km/h
+,1A21,1A25,1A29,1A33,1A37,1A41,1A45,1A49,1A53,1A57,1A61,1A65,1A69
+
+Enters at Wolverhampton Link,07:00,07:30,08:00,08:30,09:00,09:30,10:00,10:30,11:00,11:30,12:00,12:30,13:00
+Passes Galton Br. Approach (W),07:00,07:30,08:00,08:30,09:00,09:30,10:00,10:30,11:00,11:30,12:00,12:30,13:00
+Passes New Street Approach (NW),07:03,07:33,08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03
+Arrives at Birmingham New Street,07:08,07:38,08:08,08:38,09:08,09:38,10:08,10:38,11:08,11:38,12:08,12:38,13:08
+At Birmingham New Street joins,1A23 at 07:11,1A27 at 07:41,1A31 at 08:11,1A35 at 08:41,1A39 at 09:11,1A43 at 09:41,1A47 at 10:11,1A51 at 10:41,1A55 at 11:11,1A59 at 11:41,1A63 at 12:11,1A67 at 12:41,1A71 at 13:11
+
+
+Edinburgh to London; Mass 200Te; Power 2500kW; Brake force 20Te; Maximum speed 200 km/h
+,1A23,1A27,1A31,1A35,1A39,1A43,1A47,1A51,1A55,1A59,1A63,1A67,1A71
+
+Enters at Wolverhampton Link,07:02,07:32,08:02,08:32,09:02,09:32,10:02,10:32,11:02,11:32,12:02,12:32,13:02
+Passes Galton Br. Approach (W),07:02,07:32,08:02,08:32,09:02,09:32,10:02,10:32,11:02,11:32,12:02,12:32,13:02
+Passes New Street Approach (NW),07:05,07:35,08:05,08:35,09:05,09:35,10:05,10:35,11:05,11:35,12:05,12:35,13:05
+Arrives at Birmingham New Street,07:10,07:40,08:10,08:40,09:10,09:40,10:10,10:40,11:10,11:40,12:10,12:40,13:10
+Joined at Birmingham New Street by,1A21 at 07:11,1A25 at 07:41,1A29 at 08:11,1A33 at 08:41,1A37 at 09:11,1A41 at 09:41,1A45 at 10:11,1A49 at 10:41,1A53 at 11:11,1A57 at 11:41,1A61 at 12:11,1A65 at 12:41,1A69 at 13:11
+Departs from Birmingham New Street,07:15,07:45,08:15,08:45,09:15,09:45,10:15,10:45,11:15,11:45,12:15,12:45,13:15
+Exits railway at Coventry Link,07:23,07:53,08:23,08:53,09:23,09:53,10:23,10:53,11:23,11:53,12:23,12:53,13:23
+
+
+Shirley to Kidderminster; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,2K14
+
+Created at Tyseley,07:00
+Departs from Tyseley,07:01
+Arrives & departs Small Heath,07:03
+Arrives & departs Moor Street,07:07
+Passes Snow Hill Approach (E),07:08
+Arrives at Snow Hill,07:10
+Departs from Snow Hill,07:11
+Arrives & departs Jewellery Quarter,07:13
+Arrives & departs The Hawthorns,07:18
+Passes Galton Br. Approach (E),07:19
+Arrives & departs Smethwick Galton Bridge,07:20
+Arrives & departs Langley Green,07:22
+Exits railway at Kidderminster Link,07:23
+
+
+Shirley to Kidderminster; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,2K14,2K14,2K14,2K14,2K14,2K14,2K14,2K14,2K14,2K14,2K14,2K14,2K14,2K14,2K14,2K14,2K14
+
+Enters at Leamington Link,07:29,07:59,08:29,08:59,09:29,09:59,10:29,10:59,11:29,11:59,12:29,12:59,13:29,13:59,14:29,14:59,15:29
+Arrives & departs Tyseley,07:31,08:01,08:31,09:01,09:31,10:01,10:31,11:01,11:31,12:01,12:31,13:01,13:31,14:01,14:31,15:01,15:31
+Arrives & departs Small Heath,07:33,08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03,13:33,14:03,14:33,15:03,15:33
+Arrives & departs Moor Street,07:37,08:07,08:37,09:07,09:37,10:07,10:37,11:07,11:37,12:07,12:37,13:07,13:37,14:07,14:37,15:07,15:37
+Passes Snow Hill Approach (E),07:38,08:08,08:38,09:08,09:38,10:08,10:38,11:08,11:38,12:08,12:38,13:08,13:38,14:08,14:38,15:08,15:38
+Arrives at Snow Hill,07:40,08:10,08:40,09:10,09:40,10:10,10:40,11:10,11:40,12:10,12:40,13:10,13:40,14:10,14:40,15:10,15:40
+Departs from Snow Hill,07:41,08:11,08:41,09:11,09:41,10:11,10:41,11:11,11:41,12:11,12:41,13:11,13:41,14:11,14:41,15:11,15:41
+Arrives & departs Jewellery Quarter,07:43,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13,13:43,14:13,14:43,15:13,15:43
+Arrives & departs The Hawthorns,07:48,08:18,08:48,09:18,09:48,10:18,10:48,11:18,11:48,12:18,12:48,13:18,13:48,14:18,14:48,15:18,15:48
+Passes Galton Br. Approach (E),07:49,08:19,08:49,09:19,09:49,10:19,10:49,11:19,11:49,12:19,12:49,13:19,13:49,14:19,14:49,15:19,15:49
+Arrives & departs Smethwick Galton Bridge,07:50,08:20,08:50,09:20,09:50,10:20,10:50,11:20,11:50,12:20,12:50,13:20,13:50,14:20,14:50,15:20,15:50
+Arrives & departs Langley Green,07:52,08:22,08:52,09:22,09:52,10:22,10:52,11:22,11:52,12:22,12:52,13:22,13:52,14:22,14:52,15:22,15:52
+Exits railway at Kidderminster Link,07:53,08:23,08:53,09:23,09:53,10:23,10:53,11:23,11:53,12:23,12:53,13:23,13:53,14:23,14:53,15:23,15:53
+
+
+Kidderminster to Shirley; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,2J15
+
+Created at Jewellery Quarter,07:00
+Departs from Jewellery Quarter,07:01
+Passes Snow Hill Approach (W),07:01
+Arrives at Snow Hill,07:05
+Departs from Snow Hill,07:07
+Arrives & departs Moor Street,07:10
+Arrives & departs Small Heath,07:14
+Arrives & departs Tyseley,07:16
+Exits railway at Leamington Link,07:17
+
+
+Kidderminster to Shirley; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,2J15,2J15,2J15,2J15,2J15,2J15,2J15,2J15,2J15,2J15,2J15,2J15,2J15,2J15,2J15,2J15,2J15
+
+Enters at Kidderminster Link,07:22,07:52,08:22,08:52,09:22,09:52,10:22,10:52,11:22,11:52,12:22,12:52,13:22,13:52,14:22,14:52,15:22
+Arrives & departs Langley Green,07:23,07:53,08:23,08:53,09:23,09:53,10:23,10:53,11:23,11:53,12:23,12:53,13:23,13:53,14:23,14:53,15:23
+Passes Smethwick Approach (W),07:24,07:54,08:24,08:54,09:24,09:54,10:24,10:54,11:24,11:54,12:24,12:54,13:24,13:54,14:24,14:54,15:24
+Arrives & departs Smethwick Galton Bridge,07:25,07:55,08:25,08:55,09:25,09:55,10:25,10:55,11:25,11:55,12:25,12:55,13:25,13:55,14:25,14:55,15:25
+Arrives & departs The Hawthorns,07:28,07:58,08:28,08:58,09:28,09:58,10:28,10:58,11:28,11:58,12:28,12:58,13:28,13:58,14:28,14:58,15:28
+Arrives & departs Jewellery Quarter,07:31,08:01,08:31,09:01,09:31,10:01,10:31,11:01,11:31,12:01,12:31,13:01,13:31,14:01,14:31,15:01,15:31
+Passes Snow Hill Approach (W),07:31,08:01,08:31,09:01,09:31,10:01,10:31,11:01,11:31,12:01,12:31,13:01,13:31,14:01,14:31,15:01,15:31
+Arrives at Snow Hill,07:35,08:05,08:35,09:05,09:35,10:05,10:35,11:05,11:35,12:05,12:35,13:05,13:35,14:05,14:35,15:05,15:35
+Departs from Snow Hill,07:37,08:07,08:37,09:07,09:37,10:07,10:37,11:07,11:37,12:07,12:37,13:07,13:37,14:07,14:37,15:07,15:37
+Arrives & departs Moor Street,07:40,08:10,08:40,09:10,09:40,10:10,10:40,11:10,11:40,12:10,12:40,13:10,13:40,14:10,14:40,15:10,15:40
+Arrives & departs Small Heath,07:44,08:14,08:44,09:14,09:44,10:14,10:44,11:14,11:44,12:14,12:44,13:14,13:44,14:14,14:44,15:14,15:44
+Arrives & departs Tyseley,07:46,08:16,08:46,09:16,09:46,10:16,10:46,11:16,11:46,12:16,12:46,13:16,13:46,14:16,14:46,15:16,15:46
+Exits railway at Leamington Link,07:47,08:17,08:47,09:17,09:47,10:17,10:47,11:17,11:47,12:17,12:47,13:17,13:47,14:17,14:47,15:17,15:47
+
+
+London Marylebone to Birmingham Snow Hill; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 150 km/h
+,2G08,2G10,2G12,2G14,2G16,2G18,2G20,2G22,2G24,2G26,2G28,2G30,2G32
+
+Enters at Leamington Link,07:20,07:50,08:20,08:50,09:20,09:50,10:20,10:50,11:20,11:50,12:20,12:50,13:20
+Arrives at Moor Street,07:25,07:55,08:25,08:55,09:25,09:55,10:25,10:55,11:25,11:55,12:25,12:55,13:25
+Departs from Moor Street,07:26,07:56,08:26,08:56,09:26,09:56,10:26,10:56,11:26,11:56,12:26,12:56,13:26
+Passes Snow Hill Approach (E),07:26,07:56,08:26,08:56,09:26,09:56,10:26,10:56,11:26,11:56,12:26,12:56,13:26
+Arrives at Snow Hill,07:28,07:58,08:28,08:58,09:28,09:58,10:28,10:58,11:28,11:58,12:28,12:58,13:28
+Changes direction at Snow Hill,07:29,07:59,08:29,08:59,09:29,09:59,10:29,10:59,11:29,11:59,12:29,12:59,13:29
+At Snow Hill forms new service,2A09 at 07:31,2A11 at 08:01,2A13 at 08:31,2A15 at 09:01,2A17 at 09:31,2A19 at 10:01,2A21 at 10:31,2A23 at 11:01,2A25 at 11:31,2A27 at 12:01,2A29 at 12:31,2A31 at 13:01,2A33 at 13:31
+
+
+Birmingham Snow Hill to London Marylebone
+,2A09,2A11,2A13,2A15,2A17,2A19,2A21,2A23,2A25,2A27,2A29,2A31,2A33
+
+New service at Snow Hill from,2G08 at 07:31,2G10 at 08:01,2G12 at 08:31,2G14 at 09:01,2G16 at 09:31,2G18 at 10:01,2G20 at 10:31,2G22 at 11:01,2G24 at 11:31,2G26 at 12:01,2G28 at 12:31,2G30 at 13:01,2G32 at 13:31
+Departs from Snow Hill,07:35,08:05,08:35,09:05,09:35,10:05,10:35,11:05,11:35,12:05,12:35,13:05,13:35
+Arrives & departs Moor Street,07:38,08:08,08:38,09:08,09:38,10:08,10:38,11:08,11:38,12:08,12:38,13:08,13:38
+Exits railway at Leamington Link,07:43,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13,13:43
+
+
+Nottingham to Cardiff; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 150 km/h
+,2V31
+
+Created at N20-29,07:00
+Passes Kings Norton Approach (NE),07:03
+Exits railway at Worcester Link,07:05
+
+
+Nottingham to Cardiff; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 150 km/h
+,2V33,2V35,2V37,2V39,2V41,2V43,2V45,2V47,2V49,2V51,2V53,2V55,2V57
+
+Enters at Derby Link,07:19,07:49,08:19,08:49,09:19,09:49,10:19,10:49,11:19,11:49,12:19,12:49,13:19
+Arrives at Birmingham New Street,07:25,07:55,08:25,08:55,09:25,09:55,10:25,10:55,11:25,11:55,12:25,12:55,13:25
+Departs from Birmingham New Street,07:29,07:59,08:29,08:59,09:29,09:59,10:29,10:59,11:29,11:59,12:29,12:59,13:29
+Passes Kings Norton Approach (NE),07:33,08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03,13:33
+Exits railway at Worcester Link,07:35,08:05,08:35,09:05,09:35,10:05,10:35,11:05,11:35,12:05,12:35,13:05,13:35
+
+
+Cardiff to Nottingham; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 150 km/h
+,2F32,2F34,2F36,2F38,2F40,2F42,2F44,2F46,2F48,2F50,2F52,2F54,2F56
+
+Enters at Worcester Link,07:04,07:34,08:04,08:34,09:04,09:34,10:04,10:34,11:04,11:34,12:04,12:34,13:04
+Passes Kings Norton Approach (W),07:05,07:35,08:05,08:35,09:05,09:35,10:05,10:35,11:05,11:35,12:05,12:35,13:05
+Passes New Street Approach (SW),07:07,07:37,08:07,08:37,09:07,09:37,10:07,10:37,11:07,11:37,12:07,12:37,13:07
+Arrives at Birmingham New Street,07:10,07:40,08:10,08:40,09:10,09:40,10:10,10:40,11:10,11:40,12:10,12:40,13:10
+Departs from Birmingham New Street,07:13,07:43,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13
+Exits railway at Derby Link,07:19,07:49,08:19,08:49,09:19,09:49,10:19,10:49,11:19,11:49,12:19,12:49,13:19
+
+
+Wolverhampton to Birmingham International; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,2M67,2M69,2M71,2M73,2M75,2M77,2M79,2M81,2M83,2M85,2M87,2M89,2M91,2M93,2M95,2M97,2M99,2M01,2M03,2M05,2M07,2M09,2M11,2M13,2M15
+
+Enters at Wolverhampton Link,07:08,07:23,07:38,07:53,08:08,08:23,08:38,08:53,09:08,09:23,09:38,09:53,10:08,10:23,10:38,10:53,11:08,11:23,11:38,11:53,12:08,12:23,12:38,12:53,13:08
+Arrives & departs Sandwell & Dudley,07:09,07:24,07:39,07:54,08:09,08:24,08:39,08:54,09:09,09:24,09:39,09:54,10:09,10:24,10:39,10:54,11:09,11:24,11:39,11:54,12:09,12:24,12:39,12:54,13:09
+Passes Galton Br. Approach (W),07:10,07:25,07:40,07:55,08:10,08:25,08:40,08:55,09:10,09:25,09:40,09:55,10:10,10:25,10:40,10:55,11:10,11:25,11:40,11:55,12:10,12:25,12:40,12:55,13:10
+Arrives & departs Smethwick Galton Bridge,07:12,07:27,07:42,07:57,08:12,08:27,08:42,08:57,09:12,09:27,09:42,09:57,10:12,10:27,10:42,10:57,11:12,11:27,11:42,11:57,12:12,12:27,12:42,12:57,13:12
+Arrives & departs Smethwick Rolfe Street,07:14,07:29,07:44,07:59,08:14,08:29,08:44,08:59,09:14,09:29,09:44,09:59,10:14,10:29,10:44,10:59,11:14,11:29,11:44,11:59,12:14,12:29,12:44,12:59,13:14
+Passes New Street Approach (NW),07:16,07:31,07:46,08:01,08:16,08:31,08:46,09:01,09:16,09:31,09:46,10:01,10:16,10:31,10:46,11:01,11:16,11:31,11:46,12:01,12:16,12:31,12:46,13:01,13:16
+Arrives at Birmingham New Street,07:18,07:33,07:48,08:03,08:18,08:33,08:48,09:03,09:18,09:33,09:48,10:03,10:18,10:33,10:48,11:03,11:18,11:33,11:48,12:03,12:18,12:33,12:48,13:03,13:18
+Departs from Birmingham New Street,07:22,07:37,07:52,08:07,08:22,08:37,08:52,09:07,09:22,09:37,09:52,10:07,10:22,10:37,10:52,11:07,11:22,11:37,11:52,12:07,12:22,12:37,12:52,13:07,13:22
+Arrives & departs Adderley Park,07:26,07:41,07:56,08:11,08:26,08:41,08:56,09:11,09:26,09:41,09:56,10:11,10:26,10:41,10:56,11:11,11:26,11:41,11:56,12:11,12:26,12:41,12:56,13:11,13:26
+Arrives & departs Stechford,07:30,07:45,08:00,08:15,08:30,08:45,09:00,09:15,09:30,09:45,10:00,10:15,10:30,10:45,11:00,11:15,11:30,11:45,12:00,12:15,12:30,12:45,13:00,13:15,13:30
+Arrives & departs Lea Hall,07:33,07:48,08:03,08:18,08:33,08:48,09:03,09:18,09:33,09:48,10:03,10:18,10:33,10:48,11:03,11:18,11:33,11:48,12:03,12:18,12:33,12:48,13:03,13:18,13:33
+Arrives & departs Marston Green,07:35,07:50,08:05,08:20,08:35,08:50,09:05,09:20,09:35,09:50,10:05,10:20,10:35,10:50,11:05,11:20,11:35,11:50,12:05,12:20,12:35,12:50,13:05,13:20,13:35
+Exits railway at Coventry Link,07:36,07:51,08:06,08:21,08:36,08:51,09:06,09:21,09:36,09:51,10:06,10:21,10:36,10:51,11:06,11:21,11:36,11:51,12:06,12:21,12:36,12:51,13:06,13:21,13:36
+
+
+Birmingham International to Wolverhampton; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,2M66
+
+Created at Birmingham New Street,07:00
+Departs from Birmingham New Street,07:07
+Passes Soho Jn. Approach (E),07:11
+Arrives & departs Smethwick Rolfe Street,07:14
+Arrives & departs Smethwick Galton Bridge,07:16
+Arrives & departs Sandwell & Dudley,07:18
+Exits railway at Wolverhampton Link,07:19
+
+
+Birmingham International to Wolverhampton; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,2M68,2M70,2M72,2M74,2M76,2M78,2M80,2M82,2M84,2M86,2M88,2M90,2M92,2M94,2M96,2M98,2M00,2M02,2M04,2M06,2M08,2M10,2M12,2M14,2M16
+
+Enters at Coventry Link,07:05,07:20,07:35,07:50,08:05,08:20,08:35,08:50,09:05,09:20,09:35,09:50,10:05,10:20,10:35,10:50,11:05,11:20,11:35,11:50,12:05,12:20,12:35,12:50,13:05
+Arrives & departs Marston Green,07:06,07:21,07:36,07:51,08:06,08:21,08:36,08:51,09:06,09:21,09:36,09:51,10:06,10:21,10:36,10:51,11:06,11:21,11:36,11:51,12:06,12:21,12:36,12:51,13:06
+Arrives & departs Lea Hall,07:07,07:22,07:37,07:52,08:07,08:22,08:37,08:52,09:07,09:22,09:37,09:52,10:07,10:22,10:37,10:52,11:07,11:22,11:37,11:52,12:07,12:22,12:37,12:52,13:07
+Arrives & departs Stechford,07:09,07:24,07:39,07:54,08:09,08:24,08:39,08:54,09:09,09:24,09:39,09:54,10:09,10:24,10:39,10:54,11:09,11:24,11:39,11:54,12:09,12:24,12:39,12:54,13:09
+Arrives & departs Adderley Park,07:11,07:26,07:41,07:56,08:11,08:26,08:41,08:56,09:11,09:26,09:41,09:56,10:11,10:26,10:41,10:56,11:11,11:26,11:41,11:56,12:11,12:26,12:41,12:56,13:11
+Passes New Street Approach (NE),07:12,07:27,07:42,07:57,08:12,08:27,08:42,08:57,09:12,09:27,09:42,09:57,10:12,10:27,10:42,10:57,11:12,11:27,11:42,11:57,12:12,12:27,12:42,12:57,13:12
+Arrives at Birmingham New Street,07:18,07:33,07:48,08:03,08:18,08:33,08:48,09:03,09:18,09:33,09:48,10:03,10:18,10:33,10:48,11:03,11:18,11:33,11:48,12:03,12:18,12:33,12:48,13:03,13:18
+Departs from Birmingham New Street,07:22,07:37,07:52,08:07,08:22,08:37,08:52,09:07,09:22,09:37,09:52,10:07,10:22,10:37,10:52,11:07,11:22,11:37,11:52,12:07,12:22,12:37,12:52,13:07,13:22
+Passes Soho Jn. Approach (E),07:25,07:40,07:55,08:10,08:25,08:40,08:55,09:10,09:25,09:40,09:55,10:10,10:25,10:40,10:55,11:10,11:25,11:40,11:55,12:10,12:25,12:40,12:55,13:10,13:25
+Arrives & departs Smethwick Rolfe Street,07:29,07:44,07:59,08:14,08:29,08:44,08:59,09:14,09:29,09:44,09:59,10:14,10:29,10:44,10:59,11:14,11:29,11:44,11:59,12:14,12:29,12:44,12:59,13:14,13:29
+Arrives & departs Smethwick Galton Bridge,07:31,07:46,08:01,08:16,08:31,08:46,09:01,09:16,09:31,09:46,10:01,10:16,10:31,10:46,11:01,11:16,11:31,11:46,12:01,12:16,12:31,12:46,13:01,13:16,13:31
+Arrives & departs Sandwell & Dudley,07:33,07:48,08:03,08:18,08:33,08:48,09:03,09:18,09:33,09:48,10:03,10:18,10:33,10:48,11:03,11:18,11:33,11:48,12:03,12:18,12:33,12:48,13:03,13:18,13:33
+Exits railway at Wolverhampton Link,07:34,07:49,08:04,08:19,08:34,08:49,09:04,09:19,09:34,09:49,10:04,10:19,10:34,10:49,11:04,11:19,11:34,11:49,12:04,12:19,12:34,12:49,13:04,13:19,13:34
+
+
+Walsall to Birmingham; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,2G17,2G19,2G21,2G23,2G25,2G27,2G29,2G31,2G33,2G35,2G37,2G39,2G41,2G43,2G45,2G47,2G49
+
+Enters at Stafford Link,07:02,07:32,08:02,08:32,09:02,09:32,10:02,10:32,11:02,11:32,12:02,12:32,13:02,13:32,14:02,14:32,15:02
+Arrives & departs Bescot Stadium,07:03,07:33,08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03,13:33,14:03,14:33,15:03
+Arrives & departs Tame Bridge Parkway,07:06,07:36,08:06,08:36,09:06,09:36,10:06,10:36,11:06,11:36,12:06,12:36,13:06,13:36,14:06,14:36,15:06
+Passes Perry Barr Jn. Approach (W),07:07,07:37,08:07,08:37,09:07,09:37,10:07,10:37,11:07,11:37,12:07,12:37,13:07,13:37,14:07,14:37,15:07
+Arrives & departs Hamstead,07:10,07:40,08:10,08:40,09:10,09:40,10:10,10:40,11:10,11:40,12:10,12:40,13:10,13:40,14:10,14:40,15:10
+Arrives & departs Perry Barr,07:13,07:43,08:13,08:43,09:13,09:43,10:13,10:43,11:13,11:43,12:13,12:43,13:13,13:43,14:13,14:43,15:13
+Arrives & departs Witton,07:15,07:45,08:15,08:45,09:15,09:45,10:15,10:45,11:15,11:45,12:15,12:45,13:15,13:45,14:15,14:45,15:15
+Passes Aston Jn. Approach (W),07:16,07:46,08:16,08:46,09:16,09:46,10:16,10:46,11:16,11:46,12:16,12:46,13:16,13:46,14:16,14:46,15:16
+Arrives & departs Aston,07:18,07:48,08:18,08:48,09:18,09:48,10:18,10:48,11:18,11:48,12:18,12:48,13:18,13:48,14:18,14:48,15:18
+Arrives & departs Duddeston,07:21,07:51,08:21,08:51,09:21,09:51,10:21,10:51,11:21,11:51,12:21,12:51,13:21,13:51,14:21,14:51,15:21
+Arrives at Birmingham New Street,07:28,07:58,08:28,08:58,09:28,09:58,10:28,10:58,11:28,11:58,12:28,12:58,13:28,13:58,14:28,14:58,15:28
+Changes direction at Birmingham New Street,07:29,07:59,08:29,08:59,09:29,09:59,10:29,10:59,11:29,11:59,12:29,12:59,13:29,13:59,14:29,14:59,15:29
+At Birmingham New Street forms new service,2T18 at 07:30,2T20 at 08:00,2T22 at 08:30,2T24 at 09:00,2T26 at 09:30,2T28 at 10:00,2T30 at 10:30,2T32 at 11:00,2T34 at 11:30,2T36 at 12:00,2T38 at 12:30,2T40 at 13:00,2T42 at 13:30,2T44 at 14:00,2T46 at 14:30,2T48 at 15:00,2T50 at 15:30
+
+
+Birmingham to Walsall; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,2T16
+
+Created at Birmingham New Street,07:00
+Departs from Birmingham New Street,07:12
+Arrives & departs Duddeston,07:16
+Arrives & departs Aston,07:19
+Arrives & departs Witton,07:21
+Passes Perry Barr Jn. Approach (E),07:22
+Arrives & departs Perry Barr,07:23
+Arrives & departs Hamstead,07:26
+Arrives & departs Tame Bridge Parkway,07:30
+Arrives & departs Bescot Stadium,07:32
+Exits railway at Stafford Link,07:33
+
+
+Birmingham to Walsall
+,2T18,2T20,2T22,2T24,2T26,2T28,2T30,2T32,2T34,2T36,2T38,2T40,2T42,2T44,2T46,2T48,2T50
+
+New service at Birmingham New Street from,2G17 at 07:30,2G19 at 08:00,2G21 at 08:30,2G23 at 09:00,2G25 at 09:30,2G27 at 10:00,2G29 at 10:30,2G31 at 11:00,2G33 at 11:30,2G35 at 12:00,2G37 at 12:30,2G39 at 13:00,2G41 at 13:30,2G43 at 14:00,2G45 at 14:30,2G47 at 15:00,2G49 at 15:30
+Departs from Birmingham New Street,07:42,08:12,08:42,09:12,09:42,10:12,10:42,11:12,11:42,12:12,12:42,13:12,13:42,14:12,14:42,15:12,15:42
+Arrives & departs Duddeston,07:46,08:16,08:46,09:16,09:46,10:16,10:46,11:16,11:46,12:16,12:46,13:16,13:46,14:16,14:46,15:16,15:46
+Arrives & departs Aston,07:49,08:19,08:49,09:19,09:49,10:19,10:49,11:19,11:49,12:19,12:49,13:19,13:49,14:19,14:49,15:19,15:49
+Arrives & departs Witton,07:51,08:21,08:51,09:21,09:51,10:21,10:51,11:21,11:51,12:21,12:51,13:21,13:51,14:21,14:51,15:21,15:51
+Passes Perry Barr Jn. Approach (E),07:52,08:22,08:52,09:22,09:52,10:22,10:52,11:22,11:52,12:22,12:52,13:22,13:52,14:22,14:52,15:22,15:52
+Arrives & departs Perry Barr,07:53,08:23,08:53,09:23,09:53,10:23,10:53,11:23,11:53,12:23,12:53,13:23,13:53,14:23,14:53,15:23,15:53
+Arrives & departs Hamstead,07:56,08:26,08:56,09:26,09:56,10:26,10:56,11:26,11:56,12:26,12:56,13:26,13:56,14:26,14:56,15:26,15:56
+Arrives & departs Tame Bridge Parkway,08:00,08:30,09:00,09:30,10:00,10:30,11:00,11:30,12:00,12:30,13:00,13:30,14:00,14:30,15:00,15:30,16:00
+Arrives & departs Bescot Stadium,08:02,08:32,09:02,09:32,10:02,10:32,11:02,11:32,12:02,12:32,13:02,13:32,14:02,14:32,15:02,15:32,16:02
+Exits railway at Stafford Link,08:03,08:33,09:03,09:33,10:03,10:33,11:03,11:33,12:03,12:33,13:03,13:33,14:03,14:33,15:03,15:33,16:03
+
+
+Soho Depot to Birmingham New Street for Four Oaks service; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,5P49
+
+Enters at Soho Depot,07:00
+Arrives at Soho Down Through Siding,07:02
+Changes direction at Soho Down Through Siding,07:02
+Departs from Soho Down Through Siding,07:04
+Arrives at Birmingham New Street,07:10
+At Birmingham New Street forms new service,2P49 at 07:11
+
+
+New Street to Four Oaks
+,2P49
+
+New service at Birmingham New Street from,5P49 at 07:11
+Departs from Birmingham New Street,07:15
+Arrives & departs Duddeston,07:17
+Arrives & departs Aston,07:20
+Arrives & departs Gravelly Hill,07:24
+Arrives & departs Erdington,07:26
+Arrives & departs Chester Road,07:28
+Arrives & departs Wylde Green,07:30
+Arrives & departs Sutton Coldfield,07:33
+Arrives at Four Oaks,07:35
+Changes direction at Four Oaks,07:35
+At Four Oaks forms new service,2P48 at 07:36
+
+
+Four Oaks to Kings Norton via New Street
+,2P48,2P54,2P60,2P66,2P72,2P78,2P84,2P90,2P96
+
+New service at Four Oaks from,2P49 at 07:36,2P49 at 09:06,2P55 at 10:36,2P61 at 12:06,2P67 at 13:36,2P73 at 15:06,2P79 at 16:36,2P85 at 18:06,2P91 at 19:36
+Departs from Four Oaks,07:37,09:07,10:37,12:07,13:37,15:07,16:37,18:07,19:37
+Arrives & departs Sutton Coldfield,07:39,09:09,10:39,12:09,13:39,15:09,16:39,18:09,19:39
+Arrives & departs Wylde Green,07:42,09:12,10:42,12:12,13:42,15:12,16:42,18:12,19:42
+Arrives & departs Chester Road,07:44,09:14,10:44,12:14,13:44,15:14,16:44,18:14,19:44
+Arrives & departs Erdington,07:46,09:16,10:46,12:16,13:46,15:16,16:46,18:16,19:46
+Passes Aston Jn. Approach (N),07:47,09:17,10:47,12:17,13:47,15:17,16:47,18:17,19:47
+Arrives & departs Gravelly Hill,07:49,09:19,10:49,12:19,13:49,15:19,16:49,18:19,19:49
+Arrives & departs Aston,07:52,09:22,10:52,12:22,13:52,15:22,16:52,18:22,19:52
+Arrives & departs Duddeston,07:54,09:24,10:54,12:24,13:54,15:24,16:54,18:24,19:54
+Arrives at Birmingham New Street,07:58,09:28,10:58,12:28,13:58,15:28,16:58,18:28,19:58
+Departs from Birmingham New Street,08:00,09:30,11:00,12:30,14:00,15:30,17:00,18:30,20:00
+Arrives & departs Five Ways,08:03,09:33,11:03,12:33,14:03,15:33,17:03,18:33,20:03
+Arrives & departs University,08:05,09:35,11:05,12:35,14:05,15:35,17:05,18:35,20:05
+Arrives & departs Selly Oak,08:08,09:38,11:08,12:38,14:08,15:38,17:08,18:38,20:08
+Passes Kings Norton Approach (NE),08:09,09:39,11:09,12:39,14:09,15:39,17:09,18:39,20:09
+Arrives & departs Bournville,08:10,09:40,11:10,12:40,14:10,15:40,17:10,18:40,20:10
+Arrives & departs Kings Norton,08:12,09:42,11:12,12:42,14:12,15:42,17:12,18:42,20:12
+Arrives at Kings Norton Loop,08:15,09:45,11:15,12:45,14:15,15:45,17:15,18:45,20:15
+Changes direction at Kings Norton Loop,08:15,09:45,11:15,12:45,14:15,15:45,17:15,18:45,20:15
+Departs from Kings Norton Loop,08:24,09:54,11:24,12:54,14:24,15:54,17:24,18:54,20:24
+Arrives at Kings Norton,08:26,09:56,11:26,12:56,14:26,15:56,17:26,18:56,20:26
+At Kings Norton forms new service,2P49 at 08:26,2P55 at 09:56,2P61 at 11:26,2P67 at 12:56,2P73 at 14:26,2P79 at 15:56,2P85 at 17:26,2P91 at 18:56,2P97 at 20:26
+
+
+Kings Norton to Four Oaks via New Street
+,2P49,2P55,2P61,2P67,2P73,2P79,2P85,2P91,2P97
+
+New service at Kings Norton from,2P48 at 08:26,2P54 at 09:56,2P60 at 11:26,2P66 at 12:56,2P72 at 14:26,2P78 at 15:56,2P84 at 17:26,2P90 at 18:56,2P96 at 20:26
+Departs from Kings Norton,08:28,09:58,11:28,12:58,14:28,15:58,17:28,18:58,20:28
+Arrives & departs Bournville,08:30,10:00,11:30,13:00,14:30,16:00,17:30,19:00,20:30
+Arrives & departs Selly Oak,08:33,10:03,11:33,13:03,14:33,16:03,17:33,19:03,20:33
+Arrives & departs University,08:35,10:05,11:35,13:05,14:35,16:05,17:35,19:05,20:35
+Passes New Street Approach (SW),08:36,10:06,11:36,13:06,14:36,16:06,17:36,19:06,20:36
+Arrives & departs Five Ways,08:38,10:08,11:38,13:08,14:38,16:08,17:38,19:08,20:38
+Arrives at Birmingham New Street,08:41,10:11,11:41,13:11,14:41,16:11,17:41,19:11,20:41
+Departs from Birmingham New Street,08:45,10:15,11:45,13:15,14:45,16:15,17:45,19:15,20:45
+Arrives & departs Duddeston,08:47,10:17,11:47,13:17,14:47,16:17,17:47,19:17,20:47
+Arrives & departs Aston,08:50,10:20,11:50,13:20,14:50,16:20,17:50,19:20,20:50
+Arrives & departs Gravelly Hill,08:54,10:24,11:54,13:24,14:54,16:24,17:54,19:24,20:54
+Arrives & departs Erdington,08:56,10:26,11:56,13:26,14:56,16:26,17:56,19:26,20:56
+Arrives & departs Chester Road,08:58,10:28,11:58,13:28,14:58,16:28,17:58,19:28,20:58
+Arrives & departs Wylde Green,09:00,10:30,12:00,13:30,15:00,16:30,18:00,19:30,21:00
+Arrives & departs Sutton Coldfield,09:03,10:33,12:03,13:33,15:03,16:33,18:03,19:33,21:03
+Arrives at Four Oaks,09:05,10:35,12:05,13:35,15:05,16:35,18:05,19:35,21:05
+Changes direction at Four Oaks,09:05,10:35,12:05,13:35,15:05,16:35,18:05,19:35,21:05
+At Four Oaks forms new service ,2P54 at 09:06,2P60 at 10:36,2P66 at 12:06,2P72 at 13:36,2P78 at 15:06,2P84 at 16:36,2P90 at 18:06,2P96 at 19:36,2P48 at 21:06
+
+
+Four Oaks to Soho Depot via New Street
+,2P48
+
+New service at Four Oaks from,2P97 at 21:06
+Departs from Four Oaks,21:07
+Arrives & departs Sutton Coldfield,21:09
+Arrives & departs Wylde Green,21:12
+Arrives & departs Chester Road,21:14
+Arrives & departs Erdington,21:16
+Passes Aston Jn. Approach (N),21:17
+Arrives & departs Gravelly Hill,21:19
+Arrives & departs Aston,21:22
+Arrives & departs Duddeston,21:24
+Arrives at Birmingham New Street,21:28
+At Birmingham New Street forms new service,5P28 at 21:28
+
+
+Four Oaks to Soho Depot via New Street
+,5P28
+
+New service at Birmingham New Street from,2P48 at 21:28
+Departs from Birmingham New Street,21:30
+Arrives at Soho Down Through Siding,21:36
+Changes direction at Soho Down Through Siding,21:37
+Departs from Soho Down Through Siding,21:38
+Exits railway at Soho Depot,21:40
+
+
+New Street to Four Oaks; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,2P49
+
+Created at Wylde Green,07:00
+Departs from Wylde Green,07:01
+Arrives & departs Sutton Coldfield,07:03
+Arrives at Four Oaks,07:05
+Changes direction at Four Oaks,07:05
+At Four Oaks forms new service,2P48 at 07:06
+
+
+Four Oaks to Kings Norton via New Street
+,2P48,2P48,2P48,2P48,2P48,2P48,2P48,2P48,2P48
+
+New service at Four Oaks from,2P49 at 07:06,2P49 at 08:36,2P49 at 10:06,2P49 at 11:36,2P49 at 13:06,2P49 at 14:36,2P49 at 16:06,2P49 at 17:36,2P49 at 19:06
+Departs from Four Oaks,07:07,08:37,10:07,11:37,13:07,14:37,16:07,17:37,19:07
+Arrives & departs Sutton Coldfield,07:09,08:39,10:09,11:39,13:09,14:39,16:09,17:39,19:09
+Arrives & departs Wylde Green,07:12,08:42,10:12,11:42,13:12,14:42,16:12,17:42,19:12
+Arrives & departs Chester Road,07:14,08:44,10:14,11:44,13:14,14:44,16:14,17:44,19:14
+Arrives & departs Erdington,07:16,08:46,10:16,11:46,13:16,14:46,16:16,17:46,19:16
+Passes Aston Jn. Approach (N),07:17,08:47,10:17,11:47,13:17,14:47,16:17,17:47,19:17
+Arrives & departs Gravelly Hill,07:19,08:49,10:19,11:49,13:19,14:49,16:19,17:49,19:19
+Arrives & departs Aston,07:22,08:52,10:22,11:52,13:22,14:52,16:22,17:52,19:22
+Arrives & departs Duddeston,07:24,08:54,10:24,11:54,13:24,14:54,16:24,17:54,19:24
+Arrives at Birmingham New Street,07:28,08:58,10:28,11:58,13:28,14:58,16:28,17:58,19:28
+Departs from Birmingham New Street,07:31,09:01,10:31,12:01,13:31,15:01,16:31,18:01,19:31
+Arrives & departs Five Ways,07:33,09:03,10:33,12:03,13:33,15:03,16:33,18:03,19:33
+Arrives & departs University,07:35,09:05,10:35,12:05,13:35,15:05,16:35,18:05,19:35
+Arrives & departs Selly Oak,07:38,09:08,10:38,12:08,13:38,15:08,16:38,18:08,19:38
+Passes Kings Norton Approach (NE),07:39,09:09,10:39,12:09,13:39,15:09,16:39,18:09,19:39
+Arrives & departs Bournville,07:40,09:10,10:40,12:10,13:40,15:10,16:40,18:10,19:40
+Arrives & departs Kings Norton,07:42,09:12,10:42,12:12,13:42,15:12,16:42,18:12,19:42
+Arrives at Kings Norton Loop,07:45,09:15,10:45,12:15,13:45,15:15,16:45,18:15,19:45
+Changes direction at Kings Norton Loop,07:45,09:15,10:45,12:15,13:45,15:15,16:45,18:15,19:45
+Departs from Kings Norton Loop,07:54,09:24,10:54,12:24,13:54,15:24,16:54,18:24,19:54
+Arrives at Kings Norton,07:56,09:26,10:56,12:26,13:56,15:26,16:56,18:26,19:56
+At Kings Norton forms new service,2P49 at 07:56,2P49 at 09:26,2P49 at 10:56,2P49 at 12:26,2P49 at 13:56,2P49 at 15:26,2P49 at 16:56,2P49 at 18:26,2P49 at 19:56
+
+
+Kings Norton to Four Oaks via New Street
+,2P49,2P49,2P49,2P49,2P49,2P49,2P49,2P49,2P49
+
+New service at Kings Norton from,2P48 at 07:56,2P48 at 09:26,2P48 at 10:56,2P48 at 12:26,2P48 at 13:56,2P48 at 15:26,2P48 at 16:56,2P48 at 18:26,2P48 at 19:56
+Departs from Kings Norton,07:58,09:28,10:58,12:28,13:58,15:28,16:58,18:28,19:58
+Arrives & departs Bournville,08:00,09:30,11:00,12:30,14:00,15:30,17:00,18:30,20:00
+Arrives & departs Selly Oak,08:03,09:33,11:03,12:33,14:03,15:33,17:03,18:33,20:03
+Arrives & departs University,08:05,09:35,11:05,12:35,14:05,15:35,17:05,18:35,20:05
+Arrives & departs Five Ways,08:08,09:38,11:08,12:38,14:08,15:38,17:08,18:38,20:08
+Arrives at Birmingham New Street,08:11,09:41,11:11,12:41,14:11,15:41,17:11,18:41,20:11
+Departs from Birmingham New Street,08:15,09:45,11:15,12:45,14:15,15:45,17:15,18:45,20:15
+Arrives & departs Duddeston,08:17,09:47,11:17,12:47,14:17,15:47,17:17,18:47,20:17
+Arrives & departs Aston,08:20,09:50,11:20,12:50,14:20,15:50,17:20,18:50,20:20
+Arrives & departs Gravelly Hill,08:24,09:54,11:24,12:54,14:24,15:54,17:24,18:54,20:24
+Arrives & departs Erdington,08:26,09:56,11:26,12:56,14:26,15:56,17:26,18:56,20:26
+Arrives & departs Chester Road,08:28,09:58,11:28,12:58,14:28,15:58,17:28,18:58,20:28
+Arrives & departs Wylde Green,08:30,10:00,11:30,13:00,14:30,16:00,17:30,19:00,20:30
+Arrives & departs Sutton Coldfield,08:33,10:03,11:33,13:03,14:33,16:03,17:33,19:03,20:33
+Arrives at Four Oaks,08:35,10:05,11:35,13:05,14:35,16:05,17:35,19:05,20:35
+Changes direction at Four Oaks,08:35,10:05,11:35,13:05,14:35,16:05,17:35,19:05,20:35
+At Four Oaks forms new service ,2P48 at 08:36,2P48 at 10:06,2P48 at 11:36,2P48 at 13:06,2P48 at 14:36,2P48 at 16:06,2P48 at 17:36,2P48 at 19:06,2P48 at 20:36
+
+
+Four Oaks to Soho Depot via New Street
+,2P48
+
+New service at Four Oaks from,2P49 at 20:36
+Departs from Four Oaks,20:37
+Arrives & departs Sutton Coldfield,20:39
+Arrives & departs Wylde Green,20:42
+Arrives & departs Chester Road,20:44
+Arrives & departs Erdington,20:46
+Passes Aston Jn. Approach (N),20:47
+Arrives & departs Gravelly Hill,20:49
+Arrives & departs Aston,20:52
+Arrives & departs Duddeston,20:54
+Arrives at Birmingham New Street,20:58
+At Birmingham New Street forms new service,5P28 at 20:58
+
+
+Four Oaks to Soho Depot via New Street
+,5P28
+
+New service at Birmingham New Street from,2P48 at 20:58
+Departs from Birmingham New Street,21:00
+Arrives at Soho Down Through Siding,21:06
+Changes direction at Soho Down Through Siding,21:07
+Departs from Soho Down Through Siding,21:08
+Exits railway at Soho Depot,21:10
+
+
+Four Oaks to Kings Norton via New Street; Mass 250Te; Power 2500kW; Brake force 25Te; Maximum speed 120 km/h
+,2P48
+
+Created at Birmingham New Street,07:00
+Departs from Birmingham New Street,07:01
+Arrives & departs Five Ways,07:03
+Arrives & departs University,07:05
+Arrives & departs Selly Oak,07:08
+Passes Kings Norton Approach (NE),07:09
+Arrives & departs Bournville,07:10
+Arrives & departs Kings Norton,07:12
+Arrives at Kings Norton Loop,07:15
+Changes direction at Kings Norton Loop,07:15
+Departs from Kings Norton Loop,07:24
+Arrives at Kings Norton,07:26
+At Kings Norton forms new service,2P49 at 07:26
+
+
+Kings Norton to Four Oaks via New Street
+,2P49
+
+New service at Kings Norton from,2P48 at 07:26
+Departs from Kings Norton,07:28
+Arrives & departs Bournville,07:30
+Arrives & departs Selly Oak,07:33
+Arrives & departs University,07:35
+Arrives & departs Five Ways,07:38
+Arrives at Birmingham New Street,07:41
+Departs from Birmingham New Street,07:45
+Arrives & departs Duddeston,07:47
+Arrives & departs Aston,07:50
+Arrives & departs Gravelly Hill,07:54
+Arrives & departs Erdington,07:56
+Arrives & departs Chester Road,07:58
+Arrives & departs Wylde Green,08:00
+Arrives & departs Sutton Coldfield,08:03
+Arrives at Four Oaks,08:05
+Changes direction at Four Oaks,08:05
+At Four Oaks forms new service,2P48 at 08:06
+
+
+Four Oaks to Kings Norton via New Street
+,2P48,2P48,2P48,2P48,2P48,2P48,2P48,2P48,2P48
+
+New service at Four Oaks from,2P49 at 08:06,2P49 at 09:36,2P49 at 11:06,2P49 at 12:36,2P49 at 14:06,2P49 at 15:36,2P49 at 17:06,2P49 at 18:36,2P49 at 20:06
+Departs from Four Oaks,08:07,09:37,11:07,12:37,14:07,15:37,17:07,18:37,20:07
+Arrives & departs Sutton Coldfield,08:09,09:39,11:09,12:39,14:09,15:39,17:09,18:39,20:09
+Arrives & departs Wylde Green,08:12,09:42,11:12,12:42,14:12,15:42,17:12,18:42,20:12
+Arrives & departs Chester Road,08:14,09:44,11:14,12:44,14:14,15:44,17:14,18:44,20:14
+Arrives & departs Erdington,08:16,09:46,11:16,12:46,14:16,15:46,17:16,18:46,20:16
+Passes Aston Jn. Approach (N),08:17,09:47,11:17,12:47,14:17,15:47,17:17,18:47,20:17
+Arrives & departs Gravelly Hill,08:19,09:49,11:19,12:49,14:19,15:49,17:19,18:49,20:19
+Arrives & departs Aston,08:22,09:52,11:22,12:52,14:22,15:52,17:22,18:52,20:22
+Arrives & departs Duddeston,08:24,09:54,11:24,12:54,14:24,15:54,17:24,18:54,20:24
+Arrives at Birmingham New Street,08:28,09:58,11:28,12:58,14:28,15:58,17:28,18:58,20:28
+Departs from Birmingham New Street,08:30,10:00,11:30,13:00,14:30,16:00,17:30,19:00,20:30
+Arrives & departs Five Ways,08:33,10:03,11:33,13:03,14:33,16:03,17:33,19:03,20:33
+Arrives & departs University,08:35,10:05,11:35,13:05,14:35,16:05,17:35,19:05,20:35
+Arrives & departs Selly Oak,08:38,10:08,11:38,13:08,14:38,16:08,17:38,19:08,20:38
+Passes Kings Norton Approach (NE),08:39,10:09,11:39,13:09,14:39,16:09,17:39,19:09,20:39
+Arrives & departs Bournville,08:40,10:10,11:40,13:10,14:40,16:10,17:40,19:10,20:40
+Arrives & departs Kings Norton,08:42,10:12,11:42,13:12,14:42,16:12,17:42,19:12,20:42
+Arrives at Kings Norton Loop,08:45,10:15,11:45,13:15,14:45,16:15,17:45,19:15,20:45
+Changes direction at Kings Norton Loop,08:45,10:15,11:45,13:15,14:45,16:15,17:45,19:15,20:45
+Departs from Kings Norton Loop,08:54,10:24,11:54,13:24,14:54,16:24,17:54,19:24,20:54
+Arrives at Kings Norton,08:56,10:26,11:56,13:26,14:56,16:26,17:56,19:26,20:56
+At Kings Norton forms new service,2P49 at 08:56,2P49 at 10:26,2P49 at 11:56,2P49 at 13:26,2P49 at 14:56,2P49 at 16:26,2P49 at 17:56,2P49 at 19:26,2P49 at 20:56
+
+
+Kings Norton to Four Oaks via New Street
+,2P49,2P49,2P49,2P49,2P49,2P49,2P49,2P49,2P49
+
+New service at Kings Norton from,2P48 at 08:56,2P48 at 10:26,2P48 at 11:56,2P48 at 13:26,2P48 at 14:56,2P48 at 16:26,2P48 at 17:56,2P48 at 19:26,2P48 at 20:56
+Departs from Kings Norton,08:58,10:28,11:58,13:28,14:58,16:28,17:58,19:28,20:58
+Arrives & departs Bournville,09:00,10:30,12:00,13:30,15:00,16:30,18:00,19:30,21:00
+Arrives & departs Selly Oak,09:03,10:33,12:03,13:33,15:03,16:33,18:03,19:33,21:03
+Arrives & departs University,09:05,10:35,12:05,13:35,15:05,16:35,18:05,19:35,21:05
+Arrives & departs Five Ways,09:08,10:38,12:08,13:38,15:08,16:38,18:08,19:38,21:08
+Arrives at Birmingham New Street,09:11,10:41,12:11,13:41,15:11,16:41,18:11,19:41,21:11
+Departs from Birmingham New Street,09:15,10:45,12:15,13:45,15:15,16:45,18:15,19:45,21:15
+Arrives & departs Duddeston,09:17,10:47,12:17,13:47,15:17,16:47,18:17,19:47,21:17
+Arrives & departs Aston,09:20,10:50,12:20,13:50,15:20,16:50,18:20,19:50,21:20
+Arrives & departs Gravelly Hill,09:24,10:54,12:24,13:54,15:24,16:54,18:24,19:54,21:24
+Arrives & departs Erdington,09:26,10:56,12:26,13:56,15:26,16:56,18:26,19:56,21:26
+Arrives & departs Chester Road,09:28,10:58,12:28,13:58,15:28,16:58,18:28,19:58,21:28
+Arrives & departs Wylde Green,09:30,11:00,12:30,14:00,15:30,17:00,18:30,20:00,21:30
+Arrives & departs Sutton Coldfield,09:33,11:03,12:33,14:03,15:33,17:03,18:33,20:03,21:33
+Arrives at Four Oaks,09:35,11:05,12:35,14:05,15:35,17:05,18:35,20:05,21:35
+Changes direction at Four Oaks,09:35,11:05,12:35,14:05,15:35,17:05,18:35,20:05,21:35
+At Four Oaks forms new service ,2P48 at 09:36,2P48 at 11:06,2P48 at 12:36,2P48 at 14:06,2P48 at 15:36,2P48 at 17:06,2P48 at 18:36,2P48 at 20:06,2P48 at 21:36
+
+
+Four Oaks to Soho Depot via New Street
+,2P48
+
+New service at Four Oaks from,2P49 at 21:36
+Departs from Four Oaks,21:37
+Arrives & departs Sutton Coldfield,21:39
+Arrives & departs Wylde Green,21:42
+Arrives & departs Chester Road,21:44
+Arrives & departs Erdington,21:46
+Passes Aston Jn. Approach (N),21:47
+Arrives & departs Gravelly Hill,21:49
+Arrives & departs Aston,21:52
+Arrives & departs Duddeston,21:54
+Arrives at Birmingham New Street,21:58
+At Birmingham New Street forms new service,5P28 at 21:58
+
+
+Four Oaks to Soho Depot via New Street
+,5P28
+
+New service at Birmingham New Street from,2P48 at 21:58
+Departs from Birmingham New Street,22:00
+Arrives at Soho Down Through Siding,22:06
+Changes direction at Soho Down Through Siding,22:07
+Departs from Soho Down Through Siding,22:08
+Exits railway at Soho Depot,22:10
+
+
+Heavy freight from Croft Quarry to Small Heath; Mass 1000Te; Power 2000kW; Brake force 30Te; Maximum speed 72 km/h
+,7G44,7G46,7G48,7G50,7G52
+
+Enters at Nuneaton Link,07:00,08:00,09:00,10:00,11:00
+Passes Washwood Heath Down,07:20,08:20,09:20,10:20,11:20
+Arrives at Small Heath Up Goods Loop,07:40,08:40,09:40,10:40,11:40
+Terminates at Small Heath Up Goods Loop,07:40,08:40,09:40,10:40,11:40
+
+
+Freightliner service from Saltley to Cardiff; Mass 800Te; Power 4000kW; Brake force 40Te; Maximum speed 150 km/h
+,3L27,3L29,3L31,3L33,3L35,3L37,3L39,3L41,3L43
+
+Enters at Freightliner Terminal,07:25,08:55,10:25,11:55,13:25,14:55,16:25,17:55,19:25
+Passes Moseley Tunnel,07:40,09:10,10:40,12:10,13:40,15:10,16:40,18:10,19:40
+Passes Kings Norton Approach (SE),07:46,09:16,10:46,12:16,13:46,15:16,16:46,18:16,19:46
+Exits railway at Worcester Link,07:50,09:20,10:50,12:20,13:50,15:20,16:50,18:20,19:50
+
+
+Steel stock from Port Talbot to Leeds; Mass 900Te; Power 2000kW; Brake force 30Te; Maximum speed 96 km/h
+,6H16,6H18,6H20,6H22,6H24,6H26,6H28
+
+Enters at Worcester Link,07:30,09:30,11:30,13:30,15:30,17:30,19:30
+Passes Moseley Tunnel,07:45,09:45,11:45,13:45,15:45,17:45,19:45
+Exits railway at Derby Link,08:00,10:00,12:00,14:00,16:00,18:00,20:00
+
+
